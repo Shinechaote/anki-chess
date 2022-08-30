@@ -8294,6 +8294,15 @@
 		var pgn = getUrlVars()["PGN"];
 		var CommentsField = getUrlVars()["Comments"];
 		var TitleField = getUrlVars()["Title"];
+		var playerMakesFirstMove;
+		if(getUrlVars()["FirstMove"])
+		{
+			playerMakesFirstMove = getUrlVars()["FirstMove"]== "true";
+		}
+		else
+		{
+			playerMakesFirstMove = false;
+		}
 		let parsedPGN = parsePgn(pgn, { startRule: "game" });
 		console.log(parsedPGN);
 
@@ -8477,8 +8486,10 @@
 					game = new Chess();
 
 				game.load(fen_position);
-
-				game.move(expectedLine[0].notation.notation);
+				if(playerMakesFirstMove == false)
+				{
+					game.move(expectedLine[0].notation.notation);
+				}
 
 
 
@@ -8707,7 +8718,10 @@
 
 					board = ChessBoard('board', cfg);
 					game.load(fen_position0);
-					game.move(parsedPGN.moves[0].notation.notation);
+					if(!playerMakesFirstMove)
+					{
+						game.move(parsedPGN.moves[0].notation.notation);
+					}
 					setTimeout(function () {
 
 						fen_position = game.fen();
@@ -8716,7 +8730,7 @@
 					}, 300);
 
 
-					count = 1;
+					count = playerMakesFirstMove ? 0 : 1;
 					expectedLine = parsedPGN.moves;
 					expectedMove = parsedPGN.moves[count];
 					document.getElementById('commentSection').innerHTML = 'Player Comments';
