@@ -8291,6 +8291,21 @@
 			return vars;
 		}
 
+		function swapColorsMain(head)
+		{
+			for(let i =0;i < head.length; i++)
+			{
+				head[i].turn = head[i].turn == "w" ? "b" : "w";
+				if(head[i].variations.length > 0)
+				{
+					for(let j =0;j<head[i].variations.length;j++)
+					{
+						swapColorsMain(head[i].variations[j]);
+					}
+				}
+			}
+		}
+
 		var pgn = getUrlVars()["PGN"];
 		var CommentsField = getUrlVars()["Comments"];
 		var TitleField = getUrlVars()["Title"];
@@ -8304,7 +8319,6 @@
 			playerMakesFirstMove = false;
 		}
 		let parsedPGN = parsePgn(pgn, { startRule: "game" });
-		console.log(parsedPGN);
 
 		var fen;
 
@@ -8316,7 +8330,7 @@
 
 
 
-		var boardRotation = "black";
+		var boardRotation = playerMakesFirstMove ? "white" : "black";
 
 		var FEN = fen;
 
@@ -8325,8 +8339,13 @@
 		var result = FEN.match(patt);
 		if (result == " b ") {
 
-			boardRotation = "white";
+			boardRotation = playerMakesFirstMove ? "black": "white" ;
 
+		}
+		if((boardRotation == "black" && playerMakesFirstMove) || (boardRotation == "white" && !playerMakesFirstMove))
+		{
+			swapColorsMain(parsedPGN.moves);
+			console.log(parsedPGN)
 		}
 
 	</script>
@@ -8486,10 +8505,8 @@
 					game = new Chess();
 
 				game.load(fen_position);
-				if(playerMakesFirstMove == false)
-				{
-					game.move(expectedLine[0].notation.notation);
-				}
+
+				game.move(expectedLine[0].notation.notation);
 
 
 
@@ -8497,9 +8514,6 @@
 				// do not pick up pieces if the game is over
 				// only pick up pieces for the side to move
 				var onDragStart = function (source, piece, position, orientation) {
-
-
-
 
 
 
@@ -8544,7 +8558,6 @@
 					// alternate line branching only supported by current player to simplify code
 
 					// check alternate line first
-
 					if (move.san !== expectedMove.notation.notation) {
 						if (expectedMove.variations.length > 0) {
 							foundVariation = false;

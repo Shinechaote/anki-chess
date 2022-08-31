@@ -1,6 +1,6 @@
 from pynput import mouse
 from PIL import ImageGrab
-from putznn import Board
+# from putznn import Board
 import pyautogui
 import pyperclip
 import time
@@ -90,9 +90,12 @@ def writeFensFromImages():
 
 def splitPGNs(text):
 	tmp= re.split(r"[0-9]+ (1.)", text)[1:]
+	print(tmp[0:5])
 	split_text = [(tmp[2*i] + tmp[2*i + 1]).replace("\n", "") for i in range(len(tmp)//2)]
+	print(split_text[0:5])
 	for i, txt in enumerate(split_text):
-		split_text[i] = re.sub(r".$", "", txt)
+		split_text[i] = re.sub(r"\.$", "", txt)
+	print(split_text[0:5])
 	return split_text
 
 def loadFENs():
@@ -119,9 +122,14 @@ def createAnkiCards():
 			pyautogui.press('tab')
 			pyperclip.copy(pgn)
 			pyautogui.hotkey("ctrl", "v")
+			pyautogui.press('tab')
+			time.sleep(0.2)
+			pyperclip.copy("true")
+			pyautogui.hotkey("ctrl", "v")
 			time.sleep(0.2)
 			pyautogui.hotkey("ctrl", "enter")
 		if(i > 10):
 			break
 
 createAnkiCards()
+
