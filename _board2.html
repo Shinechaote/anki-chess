@@ -8326,7 +8326,10 @@
 		else
 		{
 			acceptPlayerVariations = false;
+			
 		}
+		var correctVariation = true;
+
 		let parsedPGN = parsePgn(pgn, { startRule: "game" });
 
 		var fen;
@@ -8569,9 +8572,9 @@
 					if (move.san !== expectedMove.notation.notation && acceptPlayerVariations) {
 						if (expectedMove.variations.length > 0) {
 							foundVariation = false;
+							correctVariation = false;
 							for (var i = 0; i < expectedMove.variations.length; i++) {
 								if (move.san === expectedMove.variations[i][0].notation.notation) {
-
 									count = 0;
 									expectedLine = expectedMove.variations[i];
 									expectedMove = expectedLine[count];
@@ -8718,7 +8721,10 @@
 							position: fen_position,
 							orientation: boardRotation
 						}
-						document.getElementById('board').style.backgroundColor = 'limegreen'; document.getElementById('board').style.borderColor = 'limegreen'
+						if(correctVariation)
+						{
+							document.getElementById('board').style.backgroundColor = 'limegreen'; document.getElementById('board').style.borderColor = 'limegreen'
+						}
 
 						setTimeout(function () {
 							board = Chessboard('board', configEnd)
@@ -8758,6 +8764,7 @@
 
 
 					count = playerMakesFirstMove ? 0 : 1;
+					correctVariation = true;
 					expectedLine = parsedPGN.moves;
 					expectedMove = parsedPGN.moves[count];
 					document.getElementById('commentSection').innerHTML = 'Player Comments';
