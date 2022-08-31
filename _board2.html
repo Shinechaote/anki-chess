@@ -8498,6 +8498,7 @@
 				var promoteChoice = 'q'; //default promotion to queen, can be changed with button withing template however it must be specified before move is made.
 				var foundVariation; // a bullion to check if there are multiple lines
 				var responseVar; // used to randomly sellect an appropriate response
+				var variationWaiting = false;
 			</script>
 
 			<script>
@@ -8529,7 +8530,7 @@
 
 
 
-
+					variationWaiting = false;
 
 					if ((game.turn() === 'w' && piece.search(/^b/) !== -1) ||
 						(game.turn() === 'b' && piece.search(/^w/) !== -1)) {
@@ -8543,12 +8544,14 @@
 				//
 				var onDrop = function (source, target) {
 
-
+					variationWaiting = false
 					var move = game.move({
 						from: source,
 						to: target,
 						promotion: promoteChoice
 					});
+					
+					console.log(move);
 
 
 
@@ -8602,6 +8605,9 @@
 										expectedMove = expectedLine[count];
 									}
 									else if (variationStack.length > 0) {
+										variationWaiting = true
+										setTimeout(function () {
+
 										//Es gab irgendwo eine Variation
 										variationNum[variationStack.length - 1]++;
 
@@ -8625,6 +8631,10 @@
 										}
 										count++;
 										expectedMove = expectedLine[count];
+										variationWaiting = false;
+										onSnapEnd();
+										}, 1000);
+
 
 									}
 									fen_position = game.fen(); // Store the current position.
@@ -8673,6 +8683,9 @@
 							expectedMove = expectedLine[count];
 						}
 						else if (variationStack.length > 0) {
+							variationWaiting = true
+							setTimeout(function () {
+
 							//Es gab irgendwo eine Variation
 							variationNum[variationStack.length - 1]++;
 
@@ -8696,6 +8709,9 @@
 							}
 							count++;
 							expectedMove = expectedLine[count];
+							variationWaiting = false;
+							onSnapEnd();
+							}, 1000);
 
 						}
 
@@ -8716,7 +8732,7 @@
 				// for castling, en passant, pawn promotion
 				var onSnapEnd = function () {
 					board.position(game.fen());
-					if (!expectedMove || !expectedMove.notation) { //check for valid move after played move ie. if puzzle is solved
+					if ((!expectedMove || !expectedMove.notation) && !variationWaiting) { //check for valid move after played move ie. if puzzle is solved
 						var configEnd = {
 							position: fen_position,
 							orientation: boardRotation
