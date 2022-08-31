@@ -1,3 +1,5 @@
+from string import whitespace
+from turtle import pu
 from pynput import mouse
 from PIL import ImageGrab
 # from putznn import Board
@@ -88,15 +90,58 @@ def writeFensFromImages():
 			outfile.write(last_fen+ "\n")
 			counter += 1
 
-def splitPGNs(text):
-	tmp= re.split(r"[0-9]+ (1.)", text)[1:]
-	print(tmp[0:5])
-	split_text = [(tmp[2*i] + tmp[2*i + 1]).replace("\n", "") for i in range(len(tmp)//2)]
-	print(split_text[0:5])
-	for i, txt in enumerate(split_text):
-		split_text[i] = re.sub(r"\.$", "", txt)
-	print(split_text[0:5])
-	return split_text
+def splitPGNs(text, outfile="pgns_formated.txt"):
+	tmp= text.splitlines()
+	split_puzzles = []
+	next_num = 1
+	for i in range(len(tmp)):
+		x = re.search(r"^\d+ [0-2]\.",  tmp[i])
+		if(x != None):
+			y = re.search(r"^\d+", tmp[i]).span()
+			if(next_num != int(tmp[i][y[0]:y[1]])):
+				print(tmp[i-1])
+				print(tmp[i])
+				print(tmp[i+1])
+				quit()
+				pass
+			next_num += 1
+			tmp[i] = re.sub(r"^\d+", "", tmp[i])
+			split_puzzles.append(tmp[i])
+		else:
+			split_puzzles[-1] += tmp[i]
+	count = 0
+	newFile = open(outfile, mode="w", encoding="utf8")
+	for i, puzzle in enumerate(split_puzzles):
+		if(",") in puzzle:
+			comma_splitted = puzzle.split(",")
+			puzzle = comma_splitted[0] + comma_splitted[-1] if len(comma_splitted) > 2 else comma_splitted[0]
+			whitespace_splitted = puzzle.split(" ")
+			included = []
+			for chars in whitespace_splitted:
+				if(re.search(r"[ij]|[lm]|[op]|[s-w]|[y-z]|:|-|\d\d+", chars.lower()) is None):
+					if(chars == "."):
+						continue
+					included.append(chars)
+			puzzle = " ".join(included)
+			split_puzzles[i] = puzzle
+			newFile.write(puzzle + "\n")
+			count +=1 
+		else:
+			whitespace_splitted = puzzle.split(" ")
+			included = []
+			for chars in whitespace_splitted:
+				if(re.search(r"[ij]|[lm]|[op]|[s-w]|[y-z]|:|-|\d\d+", chars.lower()) is None):
+					if(chars == "."):
+						continue
+					included.append(chars)
+			puzzle = " ".join(included)
+			split_puzzles[i] = puzzle
+			
+			newFile.write(puzzle + "\n")
+	newFile.close()
+	
+
+	return split_puzzles
 
 def loadFENs():
 	file = open("fens.txt", mode="r", encoding="utf8")
@@ -104,32 +149,45 @@ def loadFENs():
 	file.close()
 	return text
 
-def createAnkiCards():
-	pgnFile = open("pgns.txt", mode="r", encoding="utf8")
+def readPGNs(file):
+	pgnFile = open(file, mode="r", encoding="utf8")
 	text = pgnFile.read()
 	pgnFile.close()
 	pgns = splitPGNs(text)
+	return pgns
+
+def createAnkiCards():
+	pgns = readPGNs("pgns.txt")
 	fens = loadFENs()
 
-
 	for i, pgn in enumerate(pgns):
+		if(i % 10 == 0):
+			print(i)
+
 		if(len(fens[i]) > 16):
+			color_ind = len(fens[i]) - ("w" + fens[i])[::-1].index("w")
+			if(color_ind == 0):
+					color_ind = len(fens[i]) - (fens[i])[::-1].index("b")
+			if(not "k" in fens[i][0:color_ind] or not "K" in fens[i][0:color_ind]):
+				x = re.search("8/8/8", fens[i]) 
+				if(x is not None):
+					if(x.span()[0] == 0):
+						fens[i] = "k7/pp6" + fens[i][3:]
+					else:
+						fens[i] = fens[i][:x.span()[0]+2] + "6PP/7K" + fens[i][x.span()[1]:]
+
 			pyautogui.click(anki_fen_position[0], anki_fen_position[1])
-			time.sleep(0.5)
 			pyperclip.copy(fens[i])
 			pyautogui.hotkey("ctrl", "v")
-			time.sleep(0.2)
 			pyautogui.press('tab')
 			pyperclip.copy(pgn)
 			pyautogui.hotkey("ctrl", "v")
 			pyautogui.press('tab')
-			time.sleep(0.2)
 			pyperclip.copy("true")
 			pyautogui.hotkey("ctrl", "v")
-			time.sleep(0.2)
+			pyautogui.press('tab')
+			pyperclip.copy(str(i+1))
+			pyautogui.hotkey("ctrl", "v")
 			pyautogui.hotkey("ctrl", "enter")
-		if(i > 10):
-			break
 
 createAnkiCards()
-

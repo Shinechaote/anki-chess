@@ -8318,6 +8318,15 @@
 		{
 			playerMakesFirstMove = false;
 		}
+		var acceptPlayerVariations;
+		if(getUrlVars()["AcceptPlayerVariations"])
+		{
+			acceptPlayerVariations = getUrlVars()["AcceptPlayerVariations"]== "true";
+		}
+		else
+		{
+			acceptPlayerVariations = false;
+		}
 		let parsedPGN = parsePgn(pgn, { startRule: "game" });
 
 		var fen;
@@ -8519,8 +8528,7 @@
 
 
 
-					if (game.game_over() === true ||
-						(game.turn() === 'w' && piece.search(/^b/) !== -1) ||
+					if ((game.turn() === 'w' && piece.search(/^b/) !== -1) ||
 						(game.turn() === 'b' && piece.search(/^w/) !== -1)) {
 						return false;
 					}
@@ -8558,7 +8566,7 @@
 					// alternate line branching only supported by current player to simplify code
 
 					// check alternate line first
-					if (move.san !== expectedMove.notation.notation) {
+					if (move.san !== expectedMove.notation.notation && acceptPlayerVariations) {
 						if (expectedMove.variations.length > 0) {
 							foundVariation = false;
 							for (var i = 0; i < expectedMove.variations.length; i++) {
@@ -8582,6 +8590,7 @@
 											expectedMove = expectedLine[0];
 
 										}
+
 										game.move(expectedMove.notation.notation);
 										if (expectedMove.commentAfter) {
 											document.getElementById("commentSection2").innerHTML = expectedMove.commentAfter;
@@ -8691,6 +8700,11 @@
 						fen_position = game.fen(); // Store the current position.
 
 
+					}
+					else
+					{
+						game.undo();
+						return 'snapback'
 					}
 
 				};

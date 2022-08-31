@@ -1,0 +1,2434 @@
+ 1.Rxf6+! Kxf6 2.Kxc3
+ 1.Rxg7+! Kxg7 2.Kxe5
+ 1.Rxf5+! exf5 2.Kxe3
+ 1.Rxe7+! Kxe7 2.Kxf5
+ 1.Rxe8+! Qxe8 2.Qxg7#
+ 1.Rxe8 Raxe8? 2.Qxg7#
+ 1.Rxe8+! Bxe8 2.Qxg7#
+ 1.Rxe5! ( 1.exf7+? Kf8! ) ( 1.R5c2? Qf3 ) Bxe5 2.Qxf7+ Kh8 3.Qh7#
+ 1.Qh7+ ( 1.Rxf5 ?? Qh1# ) Kf8 2.Rxf5+! ( 2.Qh8+? Ke7 3.Bh4+ Kd7 4.Qd8+ Kc6 ) exf5 3.Qh8+Ke7 4.Qxg7+ Kd8 5.Qxb7
+ 1.Rxg5! fxg5 2.gxh7
+ 1.Rxf5! gxf5 2.Qxe7
+ 1.Rdxf5! ( 1...gxf5 2.Qd8+ Kg7 3.Qxe7 )
+ 1.Rf7! Qxg6 2.Rxf8+! Kg7 3.Qe7+ Kh6 4.Rf6
+ 1.Rxg8+! Kh7 ( 1...Rxg8 2.Qxh6# ) 2.Qxh6+ Kxh6 3.Rxf8
+ 1.Rxg8+! Kxg8 2.Qxf6
+ 1.Bxe5! Bxe5 ( 1...Qxb5 2.Bxg7+! Kxg7 3.Nxb5 ) 2.Rxf8+! Rxf8 3.Qxd7 Bxd4+ 4.Kg2 Rf2+ 5.Kg3.
+ 1.Rxf6! Rxb1+! ( 1...Kxf6 2.Qe6+ Kg5 3.f4+ Kh5 4.Qh3# ) 2.Qxb1 ( 2.Kg2? Rh2+! 3.Kf3! Kg5 ) Kxf6 3.Qe4! Qf7 4.Qd4+! Kg5 ( 4...Kf5 5.Qf4# ) 5.Qe3+ Kh5 6.g4+! Kxg4 7.Qxh6. b2)
+ 1.Rxg6+! hxg6 2.Qh7+ Kf8 3.Qf7#
+ 1.Rxd8! Qxd8 ( 1...Rcxd8 2.Rxf6! ) 2.Qh4! Bc4 3.Rxf6 Bxe2 4.Rh6! f6 5.Bxf6 gxf6 6.Rxh7+ Rc7 8.Qg6+ Kf8 9.Rh8+ Ke7
+ 1.Rxf6! gxf6 2.Bxf6 Qd5 3.Qh6
+ 1...Qd1+ 2.Bxd1 Rf1#
+ 1...Qf1+! 2.Bxf1 Rxf1+ 3.Rxf1 Rxf1#
+ 1...Qe1+! 2.Rxe1 Rxe1#
+ 1...Qd1+! 2.Rxd1 Rxd1#
+ 1...Qd1+! 2.Bxd1 Rxd1+ 3.Kh2 Rh1#
+ 1...Qxe1+! 2.Bxe1 Rxe1+ 3.Kh2 Rh1#
+ 1...Qh1+! 2.Bxh1 Rxh1#
+ 1...Qh2+! 2.Kf1 Qh1+! 3.Bxh1 Rxh1#
+ 1.Qxg8+! ( 1.Rf5? Rxd6! ) Kxg8 2.Rf8#
+ 1.Qxf8+! ( 1.Re8? gxf6 ) Kxf8 2.Re8#
+ 1...Rxg1+! 2.Kxg1 Qe1#
+ 1...Rxg1+! 2.Kxg1 Qe1#
+ 1...Rxd3! 2.Rxd3 Re1#
+ 1...Rxc2! 2.Qxc2 Qe1#
+ 1...Rxf1+! 2.Kxf1 Qe1#
+ 1...Rxf1+! 2.Kxf1 Qb1+ 3.Ke2 Qe1#
+ 1...Qxf1+! 2.Kxf1 Nd2+ 3.Kg1 Re1#
+ 1...Qxf1+!! 2.Kxf1 Nd2+ 3.Kg1 Re1#
+ 1.Qxf8+! Kxf8 2.Rd8+ Bxd8 3.Rxd8#
+ 1.Qxg8+! Kxg8 2.Re8#
+ 1.Qxg8+! Kxg8 2.Rc8+ Bf8 3.Bc4+! Kh8 4.Rxf8#
+ 1.Qxg8+! Kxg8 2.Re8#
+ 1.Qxa8+! Nxa8 2.Rd8+ Kh7 3.Bf5#
+ 1.Qe8+! Rxe8 2.Rxe8+ Kg7 3.h6#
+ 1...Qxf1+!! 2.Bxf1 Ra8+ 3.Kb1 ( 3.Qa2 Rd1# ) Rd1#
+ 1...Qxd1+! 2.Bxd1 Rc1#
+ 1.Qxg8+! Kxg8 2.Re8+ Kf7 3.Rf8#
+ 1.Qxf8+! Kxf8 2.Rd8+ Ke7 3.Re8#
+ 1...Qxf1+! 2.Kxf1 Ra1+ 3.Re1 Nd2+ 4.Kg1 Rxe1+ 5.Kh2 Nf1+! 6.Kg1 Ne3+ 7.Kh2 Nf5
+ 1...Qxe1+! 2.Kxe1 Rd1#
+ 1.Qxf8+! Kxf8 2.Re8+ Kg7 3.Rg8#
+ 1.Ne8+! Kg8 ( 1...Rxe8 2.Rxf7+ ) 2.Nf6+ Kg7 3.Qxf8+! Kxf8 4.Re8+ Kg7 5.Rg8#
+ 1...Bh4! ( 2.Rg1 Qxg1+ 3.Kxg1 Rd1+ 4.Qe1 Rxe1# ) (2.g3 Bxg3! 3.hxg3 Rh5+ )
+ 1...Nxg3+! 2.hxg3 Rh5#
+ 1...Rxc3!! 2.Qf1! ( 2.Rxd4 Rc1+ ) Rc8! ( 2...Rc2 ) ( 2...Rc5 ) ( 2...Rc6 ) ( 2...Rc7 ) 3.Rxd4 ( 4.h3 Rc1! 5.Qxc1 Ne2+! ) Ne2! ( 5.Qxe2 Rc1+ )
+ 1...Qxf3! 2.gxf3 ( 2.Rxe5 Qd1+ ) Rxe1#
+ 1...Rxa2+!2.Kxa2 Qa7#
+ 1...Rxh2+! 2.Kxh2 Qg1+ 3.Kh3 Qh1#
+ 1...Rxg1+! 2.Kxg1 Qe1#
+ 1.Rxh7+! Kxh7 2.Rh4+
+ 1.Rxg7+! Kxg7 2.Rg2+ Kf8 3.Qh6#
+ 1.Rxf6! ( 1.Nc4? Qa6! 2.Rxf6 ?? Qxc4+! 3.Kb1 Rfb8+ ! 4.Kc1 Bxf6! ) Bxf6 2.Qh7#
+ 1.Rxd8! Rxd8 2.Qxf7#
+ 1.Rxf6!! ( 1.Bxg7? Kxg7 2.Rxf6 Kxf6! ) Bxf6 ( 1...exf6 2.Bxg7 Kxg7 3.Qh7# ) ( 1...Bh8 2.Rf1 Bf6 4.Rxf6! exf6 5.Qh6!! Rxf8 6.Qh7# ) 2.Bg7
+ 1.Bg7!! ( 1.Bxf8? Kxf8 2.Nh7+ Kg7 ) Bxg7 ( 1...Bxg5 2.Qh8# ) 2.Qh7#
+ 1.Rxe5! dxe5 2.Nf7+ Kg8 3.Nxd8
+ 1.Rxd7+! Rxd7 2.Nf6+ Kh8 3.Nxg8
+ 1.Rxd7! Bxd7 2.Nf6+ Kh8 3.Nd5+ Bg7 4.Nxc7
+ 1.Rxd8! Qxd8 2.Nf7+
+ 1.Qa8+!! Bxa8 2.Rxa8+ Kd7 3.Ra7+! Kc8 4.Rxf7
+ 1.Ra7+! Bxa7 2.Rxa7+ Kd8 3.Nc6+ Kc8 4.Rxe7
+ 1...Qe1+! ( 1...Qxf4? 2.gxf4! ) 2.Bxe1 Rxe1+ 3.Kh2 Rh1#
+ 1...Qc2+! 2.Nxc2 Rxc2+ 3.Kg3 Bf2+! 4.Kh2 Bh4+! 5.Rg2 Rxg2+ 6.Kh1 Rg5+! 7.Kh2 Rxh5
+ 1.Rxe6! Rxe6 2.Rf8#
+ 1.Rxe3!! Rxe3 2.h4
+ 1.Rxg7! Rxg7 ( 1...Qxf5 2.Qh6+ ) 2.Qf8+! Rg8 3.Qh6#
+ 1.Rxf7! ( 1.Re8? Rd8! ) Qxf1+ ( 1...Rxf7 2.Qe8+ Rf8 3.Bc4+ Kh7 ( 3...Rd5 4.Bxd5+ Kh8 6.Qg7# ) 4.Qe7+ Kh8 5.Qg7# ) 2.Bxf1 Ra8+ 3.Ra7+
+ 1...Qxf3!! 2.Rxf3 Rxg1+ 3.Kh2 R5g2#
+ 1...Qxf4 ( 1...Rgxg2+? 2.Kh1! ( 2.Nxg2? Qf2+! ) Qf2 ( 2...Ne5? 3.Qc8+! Kg7 4.Nxg2! ) ( ) ( 2...Rg1+ 3.Kxg1 Qf2+ 4.Kh1 Qxf3+ 5.Kg1 = ) 3.Nxe2! Qxf3 ! ( 3...Qxe2 4.Qxd7 )4.Qf4! Qxe2 5.Ne3! Rg6! 6.Rf1 ! ) ( 2.Qxf4 Rexg2+ 3.Kh1 Rg1+ 4.Kh2 R6g2# )
+ 1.Qxc5+! Qxc5 2.R4b7#
+ 1.Qxc8+!! Rxc8 2.R1a7+ Kc6 3.Rxc8+ Kd6 4.Bb4#!
+ 1.Rxf5! gxf5 2.g3! Qd4 ( 2...Qg5 3.Nf7+! ) ( 2...Rac8 3.Qd6 Rcd8 4.Nf7+ Kg7 5.Nxd8 ) 3.Qxf6+
+ 1.Ne7+ Kf7 2.Nxf5
+ 1.Rxe4! Rxe4 2.Qg5 g6 3.Qf6
+ 1.Rxe4! ( 1.Qh6? Qe5! ) Qf8 ( 1...Qxe4 2.Qg5+ Kf8 3.Qg7+ Ke8 4.Qg8# ) 2.Qg5+ Kh8 3.Re8!Qxe8 4.Qg7#
+ 1...Rxd2! ( 2.Qxd2 Qf3 ) ( 2.Bxd2 Ng5 3.Qxe2 Nh3# )
+ 1...Nh3#
+ 1.Qxe7+!! Kxe7 2.Rg7+ Ke8 3.Nf6#
+ 1.Qxh7+! Kxh7 2.Rf7+ Kh8 3.Ng6#
+ 1...Qxc3+! 2.Qxc3 Bd4!
+ 1...Rxf1! 2.Rhxf1 Nxc4 3.Qd3 Nxe3 4.Qxe3 Bg5 5.Rf4 Nb4 6.Kb1 Nd5 7.Nxd5 Qxd5 8.Rg1 Rf8 Rf7
+ 1.Rxc3!! bxc3 2.Nf6+! gxf6 ( 2...Kf8 3.Qxh7 ) 3.Qh6 !
+ 1.Rxe5! dxe5 2.Qf6+ Kg8 3.Qg7#
+ 1.Rxb6! axb6 2.Nxb6+ Kb8 3.Nxc8
+ 1.Rxc5! ( 1.Nfxd4? Nxd4 2.Bxb7 Rb8 3.Nxd4 Rxb7 ) bxc5 2.Nxc5 Rb8 ( 2...Qe7 3.Nxb7 ) ( 3.Qa4 Qe7 4.Rc1 ) 3.Nxd4!
+ 1.Rxe5! Rxe5 2.Qf6
+ 1.Rxd4! cxd4 2.Qe5 f6 3.Qe6+ Kh8 4.Qf7 Rg8 5.Re1! ( 5.Qxe7? Qd8 ) Rae8 6.Rxe7 Rxe7 7.Qxe7Qd8 ( 7...Qb6 8.d6 ) 8.Bg7+!
+ 1.Qxc4! ( 1.Nxa7+? Qxa7 2.Qxc4+ Nc5 3.Bxc5 Qc7 4.a7 Kb7 ) Qxc4 2.Nxa7#
+ 1.Rd6! ( 1.Qxc4 ?? Be3+! ) ( 1.Rxc5? Nxc5 ) Bxd6 2.Rxd6 Qc5 3.Rd5! Nf3 and Nh6; f3) ( 3...Qc6 4.Nb5! ) (3...Qb6 4.Qxc4+ Qc6 5.Nb5 ! Qxc4 6.Nxa7# )
+ 1.Nxe5! Bxe5 ( 1...Nxe5 2.Nf6+! Bxf6 3.Bxf6 Qe6 4.Rxf5! gxf5 ( 4...Qxf5 5.Rf1! ) 5.Qh6! ) 2.Nf6+!Bxf6 3.Bxf6 Qe6 ( 3...Nd4 4.Qh6! Ne6 5.Rxf5! ( 5.Rf4!? 6.Qh7! ) gxf5 6.Bd3 ! ) 4.Rxf5!Nd4 ( 4...gxf5 5.Qg5# ) ( 4...Qxf5 5.Rf1 ! Qe6 6.Qh6! ) 5.Rf2 Qxd6 6.Qh6 Ne6 7.Bg4 Qc7
+ 1.Rxe8+! ( 1.Rh4 ?? Nxf6 ) ( 1.Qxh7+ ?? Kxh7 2.Rh4+ Qh5 ) Rxe8 2.Qg7#
+ 1.Rg6+! Bxg6 2.Rxg6+ Kh7 3.Ng5+ Kh8 4.Nxf7+ Kh7 5.Nxd8
+ 1.Bxh6!! Bxh6 2.Qxh6+! Kxh6 3.Rg6+ Bxg6 4.Rxg6+ Kxh5 ( 4...Kh7 5.Ng5+ Kh8 6.Nxf7+ ) 5.Nxe5+! Ng4 ( 5...Kh4 6.Rh6+ Kg5 7.Nxf7+ Kf5 8.Nxd8 Rxd8 9.Bc2+ Ke5 )6.Bxg4+ Kh4 7.Rh6+ Kg5 8.Nxf7+ Kxg4 9.Nxd8
+ 1...Bxf3+!!2.Bxf3 Be5
+ 1.Qxh7+!! Rxh7 2.Ng6#
+ 1.Qxh7+!! Rxh7 2.Ng6#
+ 1...Nxd4! 2.gxf5 ( 2.Nxd4 Qe5+ ) Nxf5+ ( 3.Kh3Nf2# ) ( 3.Kg4 h5+ 4.Kh3 Nf2# )
+ 1...Nf2#
+ 1.Nxe4! fxe4 2.Bxe4 Ne7 3.Ra8! Rcc7 4.Bg6! (4...Nxg6 5.Rexe8 )
+ 1.Nxf6! gxf6? 2.Bxf6+ Kg8 3.Bxd8
+ 1...Ncxd3+! ( 1...Nbxd3+ ) 2.cxd3 Nxd3+ 3.Kd2 Nxe5
+ 1...Bxe4! 2.b3?! ( 2.fxe4? Nxe4 3.Qe3 Ra1# ) ( 2.Qe3! e5! 3.fxe4 exd4 4.Nxd4 Ra1+!? 5.Kd2Rxd1+ 6.Rxd1 Nxh5 ) Ra2! 3.fxe4 Qc3!! 4.Nxc3 bxc3 5.Kb1 Rfa8
+ 1.Re8+! Nxe8 2.Qxh7#
+ 1.Nxc6! Nxd3+ ( 1...Nxc6 2.Nd5! ) 2.Kd2 ( 2...Qe8 3.Nd5 )
+ 1.Bf5+! ( 1.Qf5+ ) exf5 2.Qxf5#
+ 1.Bd5+!! cxd5 2.Qxd5+ Qf7 3.Qg5+ ( 3.Qg2+ ) ( 3.Nf5 Qxd5 4.Nh6# ) Ng7 4.Nf5! Qg6 5.Ne7+
+ 1...Qxe1+! ( 1...Bxf6 ?? 2.Re8# ) 2.Kxe1 Bxf6
+ 1...Qxf4+! ( 1...Rxd7? 2.Rf8# ) 2.Kxf4 Rxd7
+ 1...Qxg3! 2.Nf6+ ( 2.Nxg3 gxh6 ) Rxf6 3.Qxf6 gxf6
+ 1...Qxg4+! 2.Kxg4 gxf6
+ 1.Re7+! Kxe7 2.Qxe5+
+ 1.Rg7+! Kxg7 2.Qxg5+
+ 1.Rh8+! Kxh8 2.Qxg6
+ 1.Rg8+! Kxg8 2.Qxf6
+ 1.Bh7+! Kxh7 2.Rxf8
+ 1.Bh7+! ( 1.Bb3+? c4 ) Kxh7 2.Rxf8
+ 1...Bb3+! 2.Kxb3 Qxd3
+ 1...Ba3+! 2.Kxa3 Qxc3
+ 1...Bd4+! 2.Kxd4 Kxf2
+ 1...Be5+! 2.Kxe5 Kxg3 3.Kxe6 Kxg2 4.e4 h4
+ 1.Rdf3! ( 1.Rgf3 ) R1xf3 2.Rxf3 Qe6 3.Qxf6+ ( 3.Qd4 ?? Qg4+! ) Qxf6 4.Bf8+! Kxf8 5.Rxf6
+ 1.Bg8+! Kxg8 2.Qxg6
+ 1...Rf1+! 2.Kg2 ( 2.Rxf1 Qxd2 ) Rxd1
+ 1...Rxe4! 2.Nf6+ ( 2.Rxe4 Rxd1+ 3.Kf2 Qxd5 ) Kh8 3.Nxe4 ? Bxd4+! 4.cxd4 Rxd1+
+ 1...f4! 2.Rb5 ( 2.Qxf4 Qxc5 ) Qxe3! ( 2...Qxb5! ) 3.fxe3 Bxb5 4.axb5 fxe3
+ 1...h3! 2.Qe2 Qxe4+! 3.Qxe4 Rf1#
+ 1...e5! ( 2.Bxe5 Bxe5 3.Qxe5 Qxd2 )
+ 1...f4! 2.Bxf4? Rxe2
+ 1.Re8+! Rxe8 ( 1...Kg7 2.Qxc4 Rxc4 3.Rxa8 ) 2.Qxc4
+ 1.Re8+! Rxe8 ( 1...Kh7 2.Rxd8 ) 2.Qxd6
+ 1.Rg8+! Qxg8 2.Bf6+
+ 1.Qe7+! ( 1.Rd1 ?? Rxh3+! ) Qxe7 2.Bxd5+ Qe6 3.Rxe6
+ 1.Bd6!
+ 1.Qg7! Bxg7 2.Bxc7
+ 1...Rd2! ( 1...Rxg3+? 2.Qxg3 Rd2+ 3.Rf2 ) 2.Qxd2 Qxg3+ 3.Kh1 Rh5+
+ 1...Rxc3+! 2.Qxc3 ( 2.Nxc3 Qxc2 ) Qxe4+ 3.Kd2 Qxf4+ 4.Ke1 Qxd6
+ 1...Rxh4! 2.Qxh4 Rd1+
+ 1...Nxd4! 2.Rxe4 ( 2.Qxd4 Qxg5 ) dxe4 3.Bc4+ Kh8 4.Qf4 ( 4.Nf7+ Qxf7! 5.Bxf7 Nf3+ ) Qxg5!5.Qxg5 Nf3+ 6.Kg2 Nxg5
+ 1.Nxb5+! cxb5 ( 1...Kb6 2.Rxa6+ Kxa6 3.Nxc7+ ) 2.Rxc7+ Kb6 3.Rxa6+
+ 1.Nxd5!! Qd7 ( 1...exd5 2.Qxc8+! Bxc8 3.Rxe7 ) ( 1...Rxc5 2.Nxe7+ ) ( 1...Rxd5 2.Qxe7 ) ( ) 2.Ne7+! ( 2...Qxe7 3.Qxd6 )
+ 1.Nf6+! Kh8 ( 1...Qxf6 2.Qxc7 ) 2.Ne8!
+ 1.Nf6+! Qxf6 2.Qxd7
+ 1.Bh6!Qc7 ( 1...Bxh6 2.Qxe5 Ke7 ( 2...Kd7 3.Qd6+ Kc8 4.Qxe6+ ) 3.Qd6+ Kf7 4.Rhf1+! ) 2.Nd6+!Kd8 ( 2...Kf8 3.Rhf1+ Kg8 4.Rf7 Qxf7 5.Nxf7 Kxf7 6.Bxg7 Kxg7 7.Qxe5+ ) 3.Bxg7 Qxg7 ( 4...Qxe5 5.Nf7+ )
+ 1.Bg7+! Bxg7 ( 1...Ke7 2.Qd7# ) 2.Qxf4
+ 1...Nxc1 ( 1...Rxc1! 2.Rbxc1 Nxc1 3.Rxc1 ) 2.Rbxc1 Rxc1 3.Rxc1 Qh6! 4.Qc4Bb5! 5.Qc5 b6
+ 1...Bd4! 2.Qxd4 Qxe1#
+ 1.Bd5! Qxd5 2.Qxh7+ Kf8 3.Qxh8+ Kf7 4.Qf6+ Kg8 5.Rh8#
+ 1.Rxd5!!Qxd5 2.Be4 Qd7 3.Be3! Rac8 ( 3...Rc7 4.Bxa8 Qd3+ 5.Qc2 Qxe3 6.Qxg6+ Kf8 7.Bd5! ) 4.Bd5+!Qxd5 5.Qxh7+ Kf8 6.Qxh8+ Kf7 ( 6...Qg8 7.Qxe5 Re6 8.Qf4+ Ke8 9.Bd4! ) 7.Qh7+ Kf8 ( ) ( 7...Kf6 8.g5+ ) 8.Bg5! Qxf3 9.Qh8+ Kf7 Ke6 a6) ( )
+ 1.Qxd5!!( 1.cxb5 ?? Bxd4+! ) Qxd5 ( 1...Rbxd5 2.Rb2+! Rb5 3.Rxb5+ Rxb5 ( 3...Ka8 4.Bc6# ) 4.Rxg8+) 2.Rf8+ Kb7 3.Bc8+ Ka8! ( 3...Kc6 4.cxd5+ Rbxd5 5.Rc3+! ) ( 3...Kb8 4.Ba6+ ) 4.Be6+! Rbxd5 ( 5...Rgxd5 6.Rxh8! ) 6.Rb3+! Ka6 7.cxd5 Bxd4+ 8.Kb1 h3)
+ 1.Qxb5+ Rxb5 2.Rxd8#
+ 1...Qxd4! 2.Qxd4 Re1#
+ 1...Qxd4! 2.Qxd4 Re1#
+ 1...Qxf2! 2.Rxf2 Rd1+
+ 1...Qxc2!! ( 1...Rxf7 ?? 2.Rc8+! Nf8 ( 2...Rxc8 3.Rxc8+ Nf8 ( 3...Rf8 4.Rxf8+ Nxf8 5.Qg7# )4.Rxf8+! Rxf8 5.Qg7# ) ( 2...Rf8 3.Rxa8 Rxa8 4.f7+ Kh8 5.Qf6+ Ng7 6.f8Q+ Rxf8 7.Qxf8# )3.Qxe4 dxe4 4.Rxa8 ) 2.Nh6+! ( 2.Rxc2 Ra1+ ) Kh8 3.Qxf8+! Rxf8! ( 3...Nxf8? 4.Nf7+ ! Kh8 6.Nf7+ = ) 4.Rxc2 Rxf6
+ 1...Qxe4! 2.Qxe4 Rd1+
+ 1...Qxe4! 2.Qxe4 Rd1+ 3.Qe1 Bxe1
+ 1...Qxf2!2.Rxf2 Rb1+
+ 1...Qxf3+! 2.Rxf3 Rd1+
+ 1...Bxf5! 2.Bxf5 Qxf5! 3.Rxf5 Ra1+ 4.Rf1 Rxf1#
+ 1...Qc1+! 2.Bxc1 Re1#
+ 1...Rd1+! 2.Bxd1 Rf1#
+ 1...Rd1+! 2.Bxd1 Rf1#
+ 1...Rb1+! 2.Bxb1 Qf1#
+ 1...Rd1+! 2.Bxd1 Qf1#
+ 1...Qc5+! 2.Kh1 Ra1+! 3.Bxa1 Qc1+ 4.Bd1 Qxd1#
+ 1.Qxc7+! ( 1.Rxc7 ?? Qxf2+!! 2.Qxf2 Nxh2# ) Rxc7 2.Rd8+ Rc8 3.Rcxc8#
+ 1.Qxc7+! ( 1.Rxc7? Qxe5 ) Rxc7 2.Rd8+ Rc8 3.Rcxc8#
+ 1.Qe6+! Rxe6 2.Rxd8+ Re8 3.Rxe8#
+ 1.Qf8+! Rxf8 2.Rxf8#
+ 1...Qf3!! 2.Qf1 ( 2.Qxf3 Ra1+ ) Ra1! 3.Ne1 Rxe1! 4.Qxe1 Qg2#
+ 1...Qf3! 2.Qf1 ( 2.Qxf3 Re1# ) Re1! 3.Rd1 Qg2#
+ 1.Rfxf7! Rxf7 2.Rxd8+
+ 1.Qxd7! ( 1.Rxd7 ?? Rxd7 2.Qxd7 Qxd7 3.Rxd7 Re1# ) Qxd7 ( 1...Rxd7? 2.Rxe8# ) 2.Rdxd7!Rxd7? 3.Rxe8# *
+ 1...Rd1+! 2.Nf1 ( 2.Nxd1 Qe1+ 3.Kh2 Qh1# ) Qe1 ( 2...Qe4 ) 3.Kh2 Qe4 4.f3 Qxc2+
+ 1...Qxd1+! 2.Nxd1 Rxd1+ 3.Kh2 Rh1#
+ 1.Qa4+! ( 1.Nxf3 ?? Nxf3# ) Rxa4 2.c8Q#
+ 1.Qxa6! Rxa6 2.c8Q+ Ke7 3.Qxa6
+ 1.Qg7+! Bxg7 2.Re8+ Bf8 3.Rxf8#
+ 1.Qg7+! ( 1.Rxe5? Qxe5! ) Bxg7 2.Re8+ Bf8 3.Rxf8#
+ 1.Rg8+! Kxg8 2.Rxe8#
+ 1.Qe7+!! Rxe7 2.Rd8+ ( 2.Rg8+! Kxg8 3.Rd8+ Re8 4.Rxe8# ) Re8 3.Rg8+! Kxg8 4.Rxe8#
+ 1...Qxf2+!! ( 1...Rxf3? 2.gxf3 Qxh3 3.Qxf4 ) ( 1...Bh2+? 2.Kh1 Rxf3 3.Qxg4! ) 2.Rxf2 Re1+ 3.Rf1Bh2+ 4.Kh1 Rxf1+ 5.Qg1 Rxg1#
+ 1...Qxf2+!! 2.Rxf2 Re1+ 3.Rf1 Bh2+ 4.Kh1 Rxf1#
+ 1...Be4+! 2.Kg1 ( 2.Rxe4 Rf1# ) Rg2+ 3.Kh1 ( 3.Kf1 Bd3+ ) Rg4+! 4.Rxe4 Rxe4
+ 1...Be4+! 2.Kg1 ( 2.Rxe4 Rf1# ) Rg2+ 3.Kh1 ( 3.Kf1 Rf7+ ) Rxd1! 4.Rxc7+ Ka8 5.Rxd1 Rg4#( 5...Rg3# ) ( 5...Rxg5# )
+ 1...Qxe4! 2.Qxe4 Rf1#
+ 1...Qe5!! ( 1...Rf2? 2.Qd3 Qxe6 3.h4 ) 2.h4! Qxe2! 3.Nxe2 Rf1+! 4.Ng1 ( 4.Kh2 Bg3+! 5.Kxg3Rxb1 ) h6
+ 1...Qe2! ( 1...Qg5+? 2.Kh1 Rxf2 3.Qxf2 Qxe5 4.Qg3+! Qxg3 5.hxg3 bxc6 6.b6! ) ( 2.Rxe2 Rf1# ) ( 2.Rxf4 Qg2# )
+ 1...Qe2! 2.Qd2 ( 2.Rxe2 Rf1# ) ( 2.Rxf5 Qg2# ) Qf1+ ! 3.Rxf1 Rxf1#
+ 1...Qxe2! 2.Rxe2 Rd1+
+ 1...Qf2! 2.Qh7+ ( 2.Rxf2 Re1+ ) ( 2.Ra1 Re1+ ) ( 2.Qf4 Qxf4 3.Rxf4 Re1+ ) ( 2.Rf3 Qxg2# )Ke8 3.Qg8+ Kd7 4.Rg1 Qxg1+! 5.Kxg1 Re1#
+ 1.Qb7!! Qd8 2.Qxf7+ Kh8 3.Qxg7#
+ 1.Qxf7! Rxf7 2.Re8+
+ 1.Nf5!! ( 1...Qxc5 2.Rd8+ Qf8 3.Rxf8# ) ( 1...e2 2.Rd8+ ) ( 1...Qe8 2.Qxe5+! Qxe5 3.Rd8+ )
+ 1.Qxe5! Qxe5 2.Rd8+
+ 1...Re2!! 2.Qxf7+ ( 2.Rxe2 Qxf1+ 3.Ng1 Rb8 ) ( 2.Rg1 Rxb2 ) Kxf7 3.Ng5+ Kg6 ( 3...Kg8 ) (3...Kf8 ) 4.Nxh3 Bb7+! 5.Kg1 Rg2+! 6.Kh1 Rxg3+
+ 1...Re2! 2.Rxe2 Qxf1#
+ 1.Qxe5! Qxe5 2.Rd8+ Ke7 3.Re8#
+ 1.Qxe5! Qxe5 2.Rd8+
+ 1.Qxe7+! Bxe7 2.Rg8#
+ 1.Qa3! g6 ( 1...f6 2.Rd8+ Kf7 3.Be8+ Qxe8 4.Nd6+ ! ) ( 1...Qxa3 2.Rd8+ Ke7 3.Re8# ) ( 1...Bd7!?2.Qxe7+ Nxe7 3.Bxd7 Nd5 4.Rc1 ) 2.Rd8+! ( Rxg8 4.Qxe7 )
+ 1...Rxd5! 2.Qxd5 Qf1#
+ 1...Rxa4!! ( 2.Qxa4 Qxf2+ 3.Kh1 Ne1! ) (2.Rxa4 Qe1# )
+ 1.Rxf7! Rxf7 2.Re8+
+ 1.Rxa6!! ( 1.Qe8+? Qf8 ) Qxa6 ( 1...bxa6 2.Qxa8+ ) 2.Qe8+ Rxe8 3.Rxe8#
+ 1.Qxd7! Qxd7 ( 1...Rxd7 2.Rxf8+ ) ( 1...Rxf5 2.Qxe7 Rxf4 3.Qxd8+ ) 2.Rxf8+ Rxf8 3.Rxf8#
+ 1.Qxc7! Nxb3 ( 1...Qxc7 2.Rxe8+ ) ( 1...Ne6 2.Rxe6 ) 2.Qxb7! ( 2...Qc5 3.Kh1 Red8 4.Qxb8! )
+ 1...Qxd2! 2.Rxd2 Re1#
+ 1...Rh8! 2.Qg3 ( 2.Qg4 Qxe5! ) Qe4! 3.Re3 Rxc3!! 4.f4 Qxe3+ 5.Qxe3 Rxe3 6.Rxe3 fxe5
+ 1.Qc5!! ( 1.Nxh7? Bg1+! 2.Kh1 Bf2+ 3.Kh2 Bg1+ = ) ( 1.Rd8+ ?? Bxd8 2.Nxh7 Bxg5 ) ( 1...Bxc5 2.Rd8+ Qg8 3.Rxg8# )
+ 1.Rh4+! ( 1.Rf8+? Nxf8 2.Rh4+ Bh7 ) Nxh4 2.Rf8+ Qg8 3.Rxg8#
+ 1...Rg4! 2.Bxg4 Qxf1#
+ 1...Rg6!! 2.Qd2 ( 2.Bxg6 Rxf2 3.Rg1 ( 3.Rxf2 Qe1+ ) ( 3.Bxe4 Rxf1# ) hxg6 ( 3...Qxg6? 4.Qe5+Qf6 5.Qb8+! Kg7 6.Qxb7 ) ) Rxf7! 3.Rxf7 Qxg2+ 4.Qxg2 Bxg2+ 5.Kg1 Bd5+! 6.Kf2 Bxf7
+ 1...Nf2+!! 2.Rxf2 ( 2.Kg1 Ne4+ ) Bd4!! ( 2...Bxf2 ?? 3.Qxg7# ) ( 2...Re1+ ?? 3.Qxe1 ) ( 3.Qxd4 Re1+ )
+ 1...Be4! 2.Qxe4 Qxf1#
+ 1.Qd5+! Qxd5 2.Rc8#
+ 1.Rc1+! Kb8 2.Qb4+ Ka8 3.Bf3+! ( 3.Re1? b2+ ! ) Rxf3 4.Qe4+! Qxe4 5.Rc8# NN
+ 1.Qxe3! Rxe3 2.Nd5! Qh6 ( 2...cxd5 3.Rf8# ) ( 2...Re8 3.Ne7+! Rxe7 4.Rf8# ) 3.Nf6+ Qxf6 (3...Kg7 4.Ng4+ ) 4.Rxf6 Re8 5.Rf7
+ 1.Rf8+! Rxf8 2.Ne7#
+ 1.Rxf5 Qxf5 2.Qd8#
+ 1.Rb4!! Qa5 ( 1...Qc7 2.Rc1! ( 2.Rxb7 ?? Qc2+! ) Bc6 3.Rbc4! ) ( 1...Bxb4 2.Qxb6 ) ( ) 2.Nc4! ( 2.Rxb7? Rxb2+! ) Qc7 3.Rxb7! Qxb7 4.Qd8#
+ 1.Bh6!! ( 1.Be5? Rxe5! ) gxh6 ( 1...Rxh6 2.Qf8# ) ( 1...Rf7 2.Qe8+ ) ( 1...Bf7 2.Qf8+ Bg8 3.Bxg7#) 2.Qxf6+ Kg8 3.Qxh6
+ 1.Rd7! Bxd7 ( 1...Rg6 2.Rbd1! Qxe8 3.Rd8! Rxd8 4.Rxd8 Qg8 5.Bxc7 ) 2.Bh6 Re1 b1; ( 2...Rxh6 3.Qf8# )
+ 1...Qh4!! 2.Qxe5 ( 2.Nxc8 Qxh2# ) ( 2.h3 Qxh3+! ) Qf2! ( 3.Rg1 Bxg2+ 4.Rxg2 Rc1+ 5.Qe1 Rxe1+ )
+ 1...Qxf2! 2.Rg1 ( 2.Rxf2 Re1+ ) Qxg2+! ( 2...Bxg2+ ) 3.Rxg2 Re1#
+ 1...Qh1+! 2.Bxh1 Rh2#
+ 1...Rh1+! 2.Bxh1 Rh2#
+ 1.Qxh6+! Bxh6 2.Rh7#
+ 1.Qh6! Bxh6 2.Rxh7#
+ 1.Qxf6+! Bxf6 2.Rg8#
+ 1.Qxf6+! Bxf6 2.Rg8#
+ 1.Bf5+! Kg8 2.Be6+! Kf8 ( 2...Qxe6 3.Qxg7# ) 3.Rh8+ ! Bxh8 4.Qg8+! Nxg8 5.Rxg8#
+ 1.Rh8+! Bxh8 2.Qg8+ Nxg8 3.Rxg8#
+ 1.Rf8+! Bxf8 2.Rg8#
+ 1.Rg3! Ra7 2.Nh6+! ( 2...Kh8 3.Rf8+! Bxf8 4.Rg8# )
+ 1.Qxh7+! Rxh7 2.Rxg8#
+ 1.Qxh7+! Rxh7 2.Rxg8#
+ 1...Qxh3+!! 2.Rxh3 Rg1+ 3.Kh2 R8g2#
+ 1...Rg1+! 2.Kh2 R5g2#
+ 1...Qh1+!! 2.Nxh1 Rg2#
+ 1...Qh1+! 2.Nxh1 Rg2#
+ 1.Qh8+! Nxh8 2.Bh7#
+ 1.Qh8+! Nxh8 2.Bh7#
+ 1...Be4! 2.Qxe4 Qxb2#
+ 1...Bc4!! 2.Qxc4 Qxb2#
+ 1.Bxa6+! Qxa6 2.Qc7#
+ 1.Bc6! ( 1...Qxc6 2.Qe7# ) ( 1...Bxc6 2.Rd8+ )
+ 1.Qf8+! Rxf8 2.Be5+ Qf6 3.Bxf6#
+ 1.Rd8+!! Kg7 ( 1...Rxd8 2.Qc3+! ) ( 1...Qxd8 2.Qe5+! ) 2.Rxc8
+ 1.Ra8+! Bxa8 ( 1...Ncb8 2.Rxb8+! Nxb8 3.Rc7# ) 2.Ba6+ Bb7 3.Bxb7#
+ 1.Ra8+! Bxa8 2.Ba6+ Bb7 3.Bxb7#
+ 1.Rxc7+! Rxc7 2.Bd4+ Kb7 3.Bxf2
+ 1.Bc6+! Kb8 2.Bxe4
+ 1.Ne6!Bf8 ( 1...Bxe6 2.Bxc6+! bxc6 3.Qxa5 ) 2.b4! Nxb4 3.Bxd7+ Kxd7 4.Nxf8+ Rhxf8 5.Qxa5
+ 1.Bxc6+! bxc6 2.Qxa5
+ 1...Bxg4! 2.Bxb4 ( 2.Qxg4 Qg6+! 3.Ka1 Nc2+! ) Bf5 3.Qxf5 Rxf5 4.Bxa3 Qa6! 5.Ng3 Rf2! 6.Ne4( 6.Bb2 Qg6+ 7.Ka1 Qc2 8.Rb1 Bxd4! ) Rf4!
+ 1...Rxa3+! 2.Qxa3 Nc2+ 3.Ka2 Nxa3
+ 1.Rd8+! Qxd8 2.Qg7#
+ 1.Rc7!! Qxc7 ( 1...Rxc7 2.Qe8# ) ( 1...Nxg3+ 2.Kg2 ) 2.Qg4+ Kh8 3.Qg7#
+ 1.Rg1+! Kh6 2.Bf8+!! Rxf8 ( 2...Kh5 3.Rxh7# ) 3.Rd3 ! Rh3x
+ 1.Qxh7+! Kxh7 2.Rh5#
+ 1.Qxh7+! Nxh7 2.Ng6+ Kg8 3.Bd5+ Re6 4.Bxe6#
+ 1.Qxh7+!! ( 1.Ng6+? Kg8 2.Ba2+ Nd5 ) Nxh7 2.Ng6+ Kg8 3.Ba2+ Ne6 4.Bxe6#
+ 1.Qg4+! Qxg4 2.Ne7#
+ 1.Ne7+!! Nxe7 ( 1...Rxe7 2.Rxf2 ) 2.Qg3+!! Qxg3 3.Bxf7#
+ 1.Bxh6!! Bxh6 2.Rg8+! Kh7 3.Nf6+ ( 3...Qxf6 4.Rh8+! )
+ 1.Nf6+! Qxf6 ( 1...Bxf6 2.Qf5+ ) 2.Rh8+! Kxh8 ( 2...Qxh8 3.Qg6# ) 3.Qg8#
+ 1.Qg8+! Rxg8 2.Nf7#
+ 1.Qg8+! Rxg8 2.Nf7#
+ 1.Qf8+!! Rxf8 2.Bg7#
+ 1.Qf8+! Rxf8 2.Bg7#
+ 1...Na3+! ( 1...Ke2? 2.Nc3+ ) 2.Nxa3 Ke2
+ 1...Na3+! 2.Nxa3 Ke2
+ 1...Nd4! 2.Nxd4 Qxh2#
+ 1...Nd4! ( 2.Nxd4 Qxh2# )
+ 1...Rxd4! 2.Qxd4 Qxg2#
+ 1...Rxd4! ( 1...Qxg2+? 2.Qxg2 Nxg2 3.Kxg2 Rxd4 4.Rc7 ! = ) 2.Qxd4 Qxg2#
+ 1...Qe3+!! ( 1...Rxc2+? 2.Qxc2 Qe3+ 3.Nd2 ) 2.Qd2 ( 2.Qxe3 Rxc2# ) ( 2.Nd2 Qxd3 ) ( 2.Rd2Qxg1+ ) Rxc2#
+ 1...Qxe3+! 2.Rd2 ( 2.Qxe3 Rxc2# ) ( 2.Qd2 Rxc2# ) Qxd3 3.Rxd3 Rxc2+ 4.Kd1 Rc1+ 5.Ke2Rxb1
+ 1.Rb6!! Qxb6 ( 1...Rd6 2.Rxd6 Qxd6 3.Qh8+ Kg6 4.Bh5# ) 2.Qh8+ Kg6 3.Bh5#
+ 1.Bh5#
+ 1.Qxh5+! Rxh5 2.Bf7#
+ 1.Rxf5! gxf5 2.Qxh5+!! Rxh5 3.Bf7#
+ 1.Qxh5+! Rxh5 2.Bf7#
+ 1...Qxa2+! 2.Bxa2 Nc2#
+ 1...Qxa2+! 2.Bxa2 Nc2#
+ 1...Qxh2+!! ( 1...Qxg5 ?? 2.Qf7+!! ) 2.Qxh2 Nf2#
+ 1...Qxh2+! 2.Qxh2 Nf2#
+ 1...Qxf2+! 2.Qxf2 Nxh2#
+ 1...Qxf2+!! ( 1...b6? 2.g3! ) 2.Qxf2 Nxh2#
+ 1.Ng5! Qxc2 2.Nf7#
+ 1.Nh6+! Kh8 ( 1...Kf8 2.Qf7# ) 2.Qg8+ Rxg8 3.Nf7# *
+ 1.Rg5!! Qxf6 ( 1...Qxd3 2.Nxf7# ) 2.Qd4!! Rg6 ( 2...Qxd4 3.Nxf7# ) 3.Rxg6 ( 3.Nxf7+ Kg8 4.Qxf6)
+ 1.Qe5! Rg6 ( 1...Qxe5 2.Nxf7# ) 2.Nxf7+! Kg8 3.Qe8#
+ 1.Nc7+! Bxc7 2.Rxa7+ Kb8 3.Ra8#
+ 1.Ra8#
+ 1.Ng5! Nxg5 2.Qg7#
+ 1.Ng5! Qh4 ( 1...Nxg5 2.Qg7# ) 2.Qxe6+ Kh8 3.Nf7+ Kg8 ( 3...Rxf7 4.Qe8+ Rf8 5.Qxf8# )4.Nh6+ Kh8 5.Qg8+! Rxg8 6.Nf7#
+ 1...Re4+!! 2.Nxe4 ( 2.Kh3 Bf1+ ) Bd7+ 3.Kh4 Rh2+ Khan ( 4.Rh3 Rxh3# )
+ 1...Be5+! 2.Kh3 Rh1+ 3.Rh2 Rxh2#
+ 1.Qf6+! Nxf6 2.Bg7#
+ 1.Qf6+!! ( 1.Qxe2 ?? Rc2!! 2.Qf3? Qd4! ) Nxf6 2.Be7# *
+ 1.Qxg7+!! Nxg7 2.Nf6+ Kf7 3.Nxd5
+ 1.Qxg7+! Nxg7 2.Nf6+ Kf7 3.Nxd5
+ 1.Ng6+! Kg8 2.Nxe7+
+ 1.Rxc8! Rxc8 ( 1...Qxc8 2.Qxg7# ) 2.Nf6+! Kh8 3.Nxd7
+ 1...Bf3+! 2.Kg1 ( 2.Qxf3 Qxh2# ) Qg4+ 3.Qg3 Bxg3
+ 1...Rxf3! 2.Qxf3 ( 2.Rg1 Raf8 ) Bg4! 3.Qf2 Bf3+! 4.Kg1 ( 4.Qxf3 Qxh2# ) Bxh2+ ( 5.Qxh2 Rg8+ ) ( 5.Kf1 Qh3+ )
+ 1...Rf2!! 2.h4 ( 2.Kxf2 Qxh2+ 3.Ke3 ( 3.Kf1 Bh3# ) Qxg3# ) Raf8 3.Rb3 ( 3.Re3 gxh4 ) Bh3!4.Bf4 R8xf4! 5.Be8 ( 5.gxf4 Qg4+! 6.Kxf2 ( 6.Qg3 Rg2+! ) Qg2+ 7.Ke3 gxf4# ) Qg4
+ 1...Rf2!! 2.Kxf2 Qh2+ 3.Kf1 Bh3#
+ 1...Rg6+! 2.Kh2 Qd2+! 3.Bxd2 Rf2+ 4.Qg2 Rfxg2#
+ 1...Rd1+! 2.Bxd1 Rf1#
+ 1.Rd8+! Bxd8 2.Rf8#
+ 1.Rc8+!! Bxc8 2.Re8+! Rf8 3.Qh7+ Kf7 4.Bg6+! Kf6 5.Rxf8+ Kg5 6.Rxf2 Qa1+ 7.Bb1 (add
+ 1.Qxf7+! Rxf7 2.Rxf7#
+ 1.Rd7! Rb8 ( 1...Re7 2.Rxe7 Kxe7 3.Qf6+ Kf8 4.Qd8# ) ( 1...Bxd7 2.Qxf7+ Rxf7 3.Rxf7# ) 2.Nxf7Bxd7 3.Nd8+
+ 1.Rf7+! Bxf7 ( 1...Kh8 2.Qe5+! ) 2.Qh6#
+ 1.Rd7+! Bxd7 ( 1...Kf8 2.Qxa8# ) 2.Qf6+ Ke8 3.Qxh8+ Ke7 4.Qxa8
+ 1...Rxb1+! 2.Kxb1 Qa2+ 3.Kc1 Qa1#
+ 1...Re2! 2.Bxe2 Ne4! 3.Qh4 Qa1#
+ 1.Nf5+ ! Kh5 ( 1...gxf5 2.Qxf6+ Kh5 3.Qg5# ) 2.Qxh7+! Nxh7 3.g4#
+ 1.Qh8+! ( 1.g5+? Nxg5 2.Qh8+? Nh7 ) Nxh8 ( 1...Rh7 2.Qxh7# ) 2.g5#
+ 1...Qa4!! 2.Bd3 ( 2.Nxa4 Na2# ) Bxd3 3.Qh6+ Kg8
+ 1...Qxc3+!! 2.Bxc3 Na2#
+ 1.Rh8+ Kf7 2.Be8+!! Nxe8 3.Kg5 ! 4.Rf8]
+ 1.Rf8#
+ 1.Qe5+!! Qxe5 2.Nd7+ Ka8 3.Rxc8+ Qb8 4.Rxb8#
+ 1.Qb5+!! Qxb5 2.Nc7+ Kf8 3.Rxd8+ Qe8 4.Rxe8#
+ 1.Rd8+! Ne8 ( 1...Qxd8 2.Qxg7+ Ke8 3.Qf7# ) 2.f6! ( 2...gxf6 3.Qg8+ ) ( 2...Qxf6 3.Qa3+! Qe7 4.Rf1+! )
+ 1.Rd8+! Ne8 ( 1...Qxd8 2.Qxg7# ) 2.Rxe8+! Qxe8 3.Qxg7#
+ 1...Rc3! 2.Qd5 Rc5! ( 2...Rc2? 3.Bd2 ) 3.Qd2 ( 3.Qb7 Rc2 ! ) Rxc1!
+ 1...Rxe1! ( 1...Re2? 2.Qd5! ) 2.Rxe1 ( 2.Qxe1 Qxg2# ) Nf3+! 3.Kf2 Nxd2
+ 1.Bxe5! Rxe5 2.Qxe5! Qxe5 3.Bxc6+ Kb8 4.Rb7+ Ka8 5.Rxb6#
+ 1.Rb5+! ( 1.Rxd7+? Rxd5! 2.Rxd8+ Rxd8 ) Bc6 2.Bxc6#
+ 1...Bxe3! 2.Qxe3 Qxh2+! 3.Rxh2 Rxh2#
+ 1...Bd4! 2.Qxd4 Qxf3+ 3.Rg2 Bh3 4.Rag1 Re8 5.Qc3 Bxg2+ 6.Rxg2 Rxe4 7.Qxf3 Re1+
+ 1...Nxa2+! 2.Nxa2 Nb3#
+ 1...Qa5! ( 2.Qd1 Nb3+! 3.Qxb3 Qd2# ) ( 2.Qxa5 Nb3#)
+ 1...Rxg4!! 2.Nxg4 ( 2.Qxg4 Qxh2# ) ( 2.Qxh3 Rg1# ) Qf1+ 3.Qg1 Qxg1#
+ 1...Re4! ( 1...Re5? 2.Ba3! ) ( 2.Qg3 Rg4! 3.Qxh3 Rg1#) ( 2.Qxc7 Rh4 ) ( 2.Qxe4 Qxh2# )
+ 1.Rxd5! cxd5 ( 1...Qxd5? 2.Qxg7# ) 2.Bb5! and 3.Ba4.
+ 1.Be6! Qxe6 2.Qxg7#
+ 1.Rxd6! Rxd6 ( 1...Qxd6 2.Qxg7# ) 2.Re8+ Kf7 3.Ne5+! Kxe8 4.Qxg3 Rd1+ 5.Kf2 Rd2+ 6.Ke3Rxg2 7.Qf4 Rxb2 8.Nd3!
+ 1.Rxg8+! ( 1.Ne7 ?? Qxe8 ) Kxg8 2.Ne7+! Rxe7 3.Qxh5
+ 1.Rf3!! Rxg2+ ( 1...Qxf3?! 2.Qg7+! Kh5 3.Qxg6+! hxg6 4.Rh8# ) ( 1...Ne3 2.Rxf6 ) ( ) 2.Kxg2 Ne3+ 3.Kg1!!
+ 1.Qxg6+! hxg6 2.Rh8#
+ 1.Nb6! Nxb6 2.Rc7! Qxc7 ( 2...h5 3.Qh3 ) 3.Qxe6+ Kh8 ( 3...Kg7 4.Bb2+ Kh6 5.Qh3+ Kxg5
+ 1.Re7! ( 1.Nxg6? Qxg6 2.Rh5+ Qh6! ) Qxe7 ( 1...f5 2.Rxf7 fxg4 3.Rxf8 ) 2.Qxg6+! Kh8 3.Qh5+Bh7 4.Ng6+ Kg8 5.Nxe7+
+ 1.Re7!! Rxe7 ( 1...Rbb7 2.Rxd7+ Rxd7 3.Qa8+ Kc7 4.Qxh8 ) 2.Qd6+ Kc8 ( 2...Rd7 3.Qxb8# )3.Rc1+ Kb7 4.Qc6#
+ 1.Ne7+! Kh8 2.Rd8!! h6 ( 2...Rxd8 3.Nxf7# ) 3.N5xg6+ ! ( 3.N7xg6+ ) fxg6 4.Nxg6+ Kg8 5.Nxf8Bxf8 6.Bxh6 Ne4 f6) ( 6...Ncd7 7.Bxf8Nxf8 8.Rd6 ) ( 6...Nfd7 7.Bd5+ Kh7 8.Bxf8 )
+ 1.Rd8! Qxd8 ( 1...Qf8 2.Nf7# ) 2.Nf7#
+ 1...Nh2+! 2.Qxh2 Rf2#
+ (add ( 2.Rxd7 Rf2# ) ( 2.gxh3 Qxh3+ 3.Kg1Qh1# ) ( 2.Ree7 Rd1+ 3.Ke2 Qd3# ) ( 2.Qf6 Bxg2# )
+ 1.Rh8+! Kxh8 2.Qxf7 g5 3.Rxf6
+ 1.Rh7+!! Kxh7 ( 1...Bxh7 2.Nh5+ Kf8 ( 2...Kh6 3.Qxf6+ Ng6 4.Nf5+ ) 3.Qxf6+ Ke8 4.Ng7+ )2.Qxf6 Kg8 ( 2...Ng8 3.Rh1+ Nh6 4.Nef5 ) 3.Rh1 Bh7 4.Rxh7! Kxh7 5.Qf7+ Kh8 ( 5...Kh6 6.Nh5!Rg8 7.Nf6 Rg7 8.Qh5# ) 6.Nh5! Rg8 7.Nf6 Ng6 ( 7...Rg7 8.Qh5+ ) 8.Qxd7
+ 1.Be5! Bxe5 2.Qh7#
+ 1.Bd2! ( 1.Qf8+? Qg8 ) Bg7 ( 1...Bxd2 2.Qf6+ ) 2.Bc3! Re7 ( 2...Bxc3 3.Qf8+ Qg8 4.Qh6+ ) (2...Rd4 3.Rxg7 ! d2 4.Qxd5 cxd5 5.Bxd2! Rxd2 ( 5...Kxg7 6.Bc3! ) 6.Rxg6 ) 3.Qxd5 cxd5 4.Rxe7Bxc3 5.Rd7 d4 6.Kf1 Bxb4 7.Rxd4 d2 8.Ke2 Ba5 9.Rxd2
+ 1...Nxf5!2.gxf5 Rxb2!! 3.Qxb2 ( 3.Rxb2 Qf1+ 4.Bg1 Qf3+ 5.Kh2 Qxh3# ) Qd3! 4.Bxc5 Qf3+! ( 4...Bxc3) 5.Kh2 ( 5.Kg1 Nxh3+ 6.Kh2 Be5# ) Be5!! 6.Na4 Bxb2 7.Rxb2 Ne2!
+ 1...Ne2+!! 2.Rxe5 Qg3+ 3.Kh1 Qxh3#
+ 1.Nxd7#
+ 1.Nb5!( 1.Rxe1 ?? Nxe1 2.Qxe1 Qe5!! ) Qe5 ( 1...Qc6 2.h4! g6 3.Rc1! Bg3! 4.e7! Rf2 5.Qg4! Qxb5 6.Qc8+Kf7 7.Qf8+ Ke6 8.e8Q+ ) 2.h4! Qg3 ( 2...Qxe2 3.Nxc7# ) 3.Rd1! Rf2 ( 3...c6 4.Rd3 Qb8 5.Rf3! )4.Qxf2! Bxf2 5.Rxd5 Ra1 b1)
+ 1.Rxf5! gxf5 2.Qh6+ Kf7 ( 2...Kg8 3.Qg6+! Kf8 4.Qxf6+ Rf7 5.Bh6+ Kg8 6.Qg6+ ) 3.Bxh5+ Kd8 5.Bf4+ Kc8 6.Qxc7+ Qxc7 7.Bxc7
+ 1.Rxf6! exf6 2.Qxe8+
+ 1.Rxe5!fxe5 2.Ng5 Bf6 3.Nxe6 ( 3...Bxh4 4.Nxc7 )
+ 1.Rxe6! fxe6 2.Nxg6+ Kg7 3.Nxf8
+ 1.Qxh6+!! Kg8 ( 1...gxh6 2.Nf6+ Kh8 ( 2...Kg7 3.Nxe8+! Kg8 4.Nf6+ ) 3.Nxd7+ Ne5 4.Bc3! ) 2.Rxe8! Qxe8 3.Qxd2
+ 1.Qxh6+! gxh6 2.Nf6+ Kg6 3.Nxd7
+ 1.Qa8+! Kh7 2.Rxh6+!! ( 2.Rxc7 ?? Qxb5 3.Rxf7? Qe2! 4.Nf6+ Kg6 ) ( 2.Nxc7 ?? Bg1+!! 3.Kxg1Qd2 ) gxh6 ( 2...Kxh6 3.Qh8+ Kg6 4.Qh5# ) 3.Nf6+ Kg7 4.Nxd7
+ 1.Qh8+! Kg5 2.Qh5#
+ 1.Qxa6!bxa6 2.Nxc6 Qd7 3.Nxd8 Nxc3 ( 3...Qxd8 4.Bxa5 Qd7 5.Bxd5 exd5 6.Re1 ) 4.Rxc3 Qxd8 5.Rdc1Bd7 6.Bb7 g6 7.Rc8
+ 1.Qxd6! cxd6 2.Nxb6+ Kb8 3.Nxc8
+ 1.Qf8+!! Qxf8 2.d6+! Bc4 3.Bxc4#
+ 1.Qf8+! Qxf8 2.f7+! Qg7 3.f8Q#
+ 1.Qf8+!! Rxf8 2.f7#
+ 1.Qf8+! Rxf8 2.f7#
+ 1.Bb2!! Qxb2 2.f6
+ 1.Be6! Qxe6 2.f7+! Qxe5 3.f8Q#
+ 1.Ng5! Nxg5 2.e6! Qc5+ 3.Bf2 Qd6 4.exd7+ Qxd7 5.Nf6+ !
+ 1.d6+! cxd6 2.Bxb7
+ 1.Rxc5! dxc5 ( 1...Nb5 2.Bxb5 dxc5 3.Ne5! Qh5 4.Bc4 ) 2.Ne5 ! ( 2.d6? Be6 3.Ne5 Bxc4! ) Be6 ( 3...Ne6 4.d7! ) 4.d7! Qh5 5.Ba5 Bxc4 6.Qxc4+ Kh7 7.Bxc7 Qd1+ 8.Qf1
+ 1.Rxd5! exd5 2.e6!
+ 1.Qa4+!! ( 1.Qe2? Nxf6! ) Qxa4 2.Rg8#
+ 1.Qd6+! Qxd6 ( 1...Kg8 2.Nh6+ Kg7 3.Rxe5 ) 2.Rh8#
+ 1...Qxe4+!! 2.Qxe4 R6f2#
+ 1...Qxf4+! 2.Qxf4 R5g2#
+ 1...Qe1+!! 2.Qxe1 Bf3#
+ 1...Qf1+!! ( 1...Ne7? 2.Bxd4+ cxd4 3.Qf6+! Qxf6 4.Nxf6 ) 2.Qxf1 Bd5+ 3.Qg2 Bxg2#
+ 1.Qe1+!! Rxe1 2.g3#
+ 1.Qd6+! Qxd6 2.g5#
+ 1.Rh8+! Kxh8 2.Qh5+! ( 2.Qxf8+? Qg8 ) Kg8 3.Qh7#
+ 1.Nd6!! ( 1.Qh5? Qa5! ) Qxd6 2.g6
+ 1...Qxc4+! ( 1...gxf6? 2.Re8! ) 2.Bxc4 Rxh2 (add h3)
+ 1...Rh1+! 2.Bxh1 Rg1#
+ 1...Bxf5+! 2.Kxf5 Qxd6
+ 1...Bg4+!! ( 1...Nf5? 2.Qxh7+! ) 2.Rxg4 Nf5! ( 2...Rxc2+ 3.Kf1 Nf5! ) 3.Qh3 Rxc2+ 4.Kf1 ( 5.Kg1 Qe2! )
+ 1...Rh1+! 2.Kxh1 Qf1#
+ 1...Rg1+! 2.Kxg1 Qe1#
+ 1...Qa1+! 2.Kxa1 Rc1+ 3.Ka2 ( 3.Qb1 Ra5# ) Ra5#
+ 1...Qa1+!! 2.Kxa1 Rc1+
+ 1.Qg8+!! Kxg8 2.Re8#
+ 1.Rh8+! Kxh8 2.Rf8#
+ 1.Rxa6+! Kxa6 2.Qa8#
+ 1.Qb7+! ( 1.Qb8+ ) Kxa5 2.Qa7#
+ 1...Ra2+! 2.Kxa2 Qxc2+ 3.Ka1 Ra8#
+ 1...Ra2+! 2.Kxa2 Qxc2+ 3.Ka1 Ra5#
+ 1.Rxa7+! Kxa7 2.Qa4#
+ 1.Ra8+! ( 1.Rfa1 ?? Qxe4+ 2.f3 Qe1+! ) Kb7 2.Qb3+! Kxa8 3.Ra1+
+ 1...Rh1+!! 2.Bxh1 ( 2.Kxh1 Qh5+ 3.Kg1 Qh2# ) Qh5 ( 2...Qh8! ) 3.Qb5+ ( 3.Kg2 Qh2+ 4.Kf3Ne5# ) ( 3.Bc6+ Kc8! 4.Bd7+ Kxd7 ) Ke7 4.Bxd8+ Kf8! 5.Kg2 ( 5.Be7+ Kf7! ) Qh2+ 6.Kf3Ne5+ ( 6...Qh3 ) 7.Qxe5 g4+ 8.Kf4 Qh6+ 9.Bg5 dxe5+ Qxg5
+ 1...Rh1+! 2.Bxh1 ( 2.Kxh1 Qh5+ 3.Kg1 Qh2# ) Qh5 3.Rd1 Qh2+ 4.Kf1 Qxf2#
+ 1.Qh8+!! Bxh8 2.Rxh8+ Kg7 3.Reh4! and 4.R4h7# *
+ 1.Qxg7+! Kxg7 2.Rh8
+ 1.Qh7+!! Kxh7 2.Bf7#
+ 1.Qxg8+!! Kxg8 2.Rh8+!! ( 2.Bg6 ?? Bc4+! 3.b3 Kf8 ! 4.Rh8+ Bg8! ) Kxh8 3.Bf7+ Bh2 4.Rxh2#
+ 1.Qg8+!! ( 1.Ng6+? fxg6 2.Qg8+ Ke7 3.Qf7+ Kd8 ) Kxg8 ( 1...Ke7 2.Qxf7+ ) 2.Ng6
+ 1.Ng6!! and 2.Rh8#
+ 1.Bxg5+! Kxg5 ( 1...Kf5 2.Qf4# ) 2.Qf4#
+ 1.Bh6+! Kxh6 2.Qg5#
+ 1.Qf8+! Kh7 2.Bg6+! Kxg6 3.Qg8#
+ 1.Qf8+ Kh7 2.Bg6+! Kxg6 3.Qg8#
+ 1...Qh3+!! 2.Kf3 ( 2.Kxh3 Bf1# ) ( 2.Kg1 Qf1# ) g4+! 3.Kf4 g5# *
+ 1...Qh3+! 2.Kxh3 ( 2.Kg1 Qf1# ) Bf1#
+ 1...Bh3+! ( 1...Qf3+? 2.Kg1 Bh3 3.Ne3 ) 2.Kxh3 ( 2.Kg1 Qg4+ 3.Kh1 Qg2# ) ( 2.Kh1 Qf3+ 3.Kg1Qg2# ) Qg4#
+ 1...Bh3+! 2.Kg1 ( 2.Kxh3 Qg4# ) ( 2.Kh1 Qf3+ 3.Kg1 Qg2# ) Qg4+ 3.Kh1 Qg2#
+ 1.Qb8+! ( 1.Qa8+ ) Kg7 2.Bh6+!! Kxh6 ( 2...Kf7 3.Qf8# ) 3.Qf8+ Kg5 ( 3...Bg7 4.g5+ Kxg5 6.Qf4# ) 4.Qe7+ Kh6 ( 4...Bf6 5.Qe3# ) 5.g5+ Kh5 6.Bf3#
+ 1.Bh6+! Kxh6 2.Qf8#
+ 1.Bc6+!! Ke7 ( 1...Nxc6 2.Qb7# ) ( 1...Kxc6 2.Qb5# ) 2.Bxe8
+ 1.Bxb6+! Kxb6 2.Qa5+ Kc5 3.b6#
+ 1.Qb8+! ( 1.Bf6? Qb6! ) Ke7 2.Bf6+! Kxf6 3.Qd8+ ( 3...Kg7 4.Rg3+ ) ( 3...Kf5 4.Qg5+ Ke4 5.Qe5# )
+ 1.Qd8+! Kg7 2.Bh6+! Kxh6 3.Qf8#
+ 1...Rdxg5#
+ 1...Bg3+! 2.Kxg3 Qe5+! 3.f4 h4+ 4.Kf3 Qe4+ 5.Kg4 Ree5 b4)
+ 1.Rc8+! ( 1.Qxd5? Qg5+!? 2.Qxg5+ hxg5 ) Kxc8 2.Qc7# ( 2.Qb8# )
+ 1.Rb8+! ( 1.Ra4? Rxd5! 2.Rxa5 Rxa5 ) Kxb8 2.Qb7#
+ 1...Rg1+! 2.Kxg1 Qg2#
+ 1...Bxf3! ( 1...Rh1+ ?? 2.Kxh1 Bxf3 3.Qxg7+! Qxg7 4.Bxg7 ) 2.Qxf3 Rh1+! 3.Kxh1 Qh2#
+ 1...Qg1+! ( 1...Nf2+ ?? 2.Rxf2 Qxf2 3.Qc8# ) ( 2.Rxg1Nf2# ) ( 2.Kxg1 Rbxg2+ ( 2...Rgxg2+ 3.Kh1 Rxh2+ 4.Kg1 Rbg2# ) 3.Kh1 Rg1+! 4.Rxg1 Nf2#)
+ 1...Nf2+ 2.Kg1 Nh3+ 3.Kh1 ( 3.Kf1 Qf2# ) Qg1+! 4.Rxg1 Nf2#
+ 1.Nb7+! Kxe7 2.Rf7#
+ 1.Rh7#
+ 1.Rxf7! Kxf7 ( 1...Bxg2+ 2.Qxg2 Qxg2+ 3.Kxg2 Kxf7 4.Bc4+ Kf8 5.Rf1+ Bf6 6.Rxf6+ ) 2.Bc4+Bd5 3.Qf3+! Ke6 4.Re1 Bb4 5.Qh3+ Ke7 6.Qxh7+ Kd8 7.Bc7+! ( 7...Qxc7 8.Rxe8+ )
+ 1.Qxf5+!
+ 1...Qb3+!! ( 1...Nc1+? 2.Kb1 Qc2+ 3.Ka1 Bxg7 4.Qxf7! Nb3+ 5.Ka2 = ) 2.Kxb3 ( 2.Kb1 Rc1#) Nc1#
+ 1...Qxa3+! 2.Kxa3 Nc4#
+ 1.Nxg6! ( 1.Nxh5+? gxh5 2.Qxh5 Rf8 ) Kxg6 2.Qxh5+! Kg7 ( 2...Kxh5 3.Nf4# ) 3.g6 Qg8 4.Rxf5!Rxf5 5.Qh6#
+ 1.Qxh6+! Kxh6 ( 1...Kg8 2.Qh7+ Kf8 3.g7+ Kf7 4.g8Q# ! ) 2.Nf5#
+ 1.Rd6+! ( 1.Rde1? Nd3! ) Kxe5 2.Nf7+ Kf5 3.g4#
+ 1.f5#
+ 1...Qxf1+! 2.Kxf1 Rd1#
+ 1...Nf4+! 2.Kg1 Qf1+! 3.Kxf1 Rc1+ 4.Qd1 Rxd1#
+ 1.Re8+! Bf8 ( 1...Kh7 2.Qd3+ ) 2.Rxf8+! Kxf8 3.Nf5+ ( 3...Kg8 4.Qf8+!! Kxf8 5.Rd8# )
+ 1.Qxf8+! ( 1.Ne7+? Kh7 2.Rh4+ Qh5! ) Kh7 ( 1...Kxf8 2.Rd8# ) 2.Rh4#
+ 1...Nxf2!2.Kxf2 Qh4+! 3.Kf3 Bxh3 4.Bxh3 Qxh3+ 5.Kf2 Qh4+ 6.Kf3 Be5! 7.e3 Bxf4 8.exf4 Qh3+9.Kf2 Re3 Rae8 Qh4+
+ 1.Qxg6+! ( 1.Be4? e5! ) Kxg6 ( 1...Kh8 2.Qxh5+ Bh6 3.Qxh6# ) 2.Be4#
+ 1.Qxf6+!! Kxf6 ( 1...Kg8 2.Qxg5+ ) 2.Bd4#
+ 1.Rxc6+!! Kxc6 2.Qxd5+!! Kxd5 3.Be4#
+ 1.Qxc6+! Kxc6 2.Bd5#
+ 1.Qxf7+!! ( 1.Bxd5? Ndxe5! ) Kxf7 2.Bxd5+ Kg6 ( 2...Kf8 3.Ne6+ ) 3.f5+ Kh5 4.Bf3+ Kh4 5.g3+Kh3 6.Bg2+ Kg4 7.Rf4+!
+ 1.Qxg7+! Kxg7 2.Be5+ Qf6 3.Bxf6+ Kg8 4.Nh6#
+ 1...Qxg3+!! 2.Kg1 ( 2.Kxg3 Be5# ) Qxh4 ( 2...Qe3+ 3.Kh1 Nd3 )
+ 1...Be5+
+ 1...Qxc4+! 2.Kxc4 Ba6+ 3.Nb5 Nxb5! ( 4.Nd4Nxd4+ 5.Kc3 Ne2+ 6.Kd2 Rxb2+ 7.Ke1 Bc3+ 8.Kf2 Nf4+ 9.Kg1 Rxg2# ) ( 4.Qa4 Na3+ 5.Kc5d6+ 6.Kc6 Ne7# )
+ 1...Qxc3+! 2.Kxc3 Bb4#
+ 1.Qxh6+!! Kxh6 2.Ne6#
+ 1.Qxh6+!! ( 1.Ne6+? Qxe6! 2.Qxh6+ ( 2.Rxe6 ?? Nb3+! 3.cxb3 Ra1# ) ( 2.Bxh6+ Qxh6+!3.Qxh6+ Kxh6 4.Nxf5+ Kg5 ) ( 2.Nxf5+? Nxf5! 3.Rxe6 Nb3+!! 4.cxb3 Ra1+ 5.Kc2 Nd4# ) Kh8!!) Kxh6 2.Ne6+! Kh5 3.Be2+ Kh4 4.Nxf5#
+ 1.Qxh7+! ( 1.Nf6+ ?? Nxf6 ) Kxh7 2.Nf6#
+ 1.Qxh7+!! Kxh7 2.Ng6+! Kxg6 ( 2...Kg8 3.Rh8# ) 3.Bd3+ Kf6 4.Bd4#
+ 1.Qxh7+!! Kxh7 2.Nxf6+ Kh6 ( 2...Kh8 3.Ng6# ) 3.Neg4+ Kg5 4.h4+ Kf4 5.g3+ Kf3 6.Be2+Kg2 7.Rh2+ Kg1
+ 1.Ng6#
+ 1.Rxc6! Bxc6 2.Qc4+ Kb7 3.Qxc6+! Kxc6 4.Ne5+ ! Kc5 5.Nd3+ Kd4 6.Kd2!
+ 1.c3#
+ 1.Rxc6!!Kxc6 2.Qxb5+!! Kb7 ( 2...Kxb5 3.Ba4+!! Kc4 ( 3...Kxa4 4.Nc3+ Kb3 5.Nd2# ) 4.b3+ Kd3 f2) ) 3.Qxe8 Rxf2+4.Qg6 ! Qxg6+ 5.hxg6 Rxf1 6.g7
+ 1.Ba3+! Kxa3 2.Nc2#
+ 1.Qxg7+! Kxg7 2.Nf5+ Kf7 3.Nxg3
+ 1.Qxg8+! ( 1.Qe5+? Qg7 ) Kxg8 2.Nf6+ Kf7 3.Nxd7
+ 1...Qxg5! 2.Qxg5 Nf3+ 3.Kf1 Nxg5
+ 1...Qxg5! 2.Qxg5 Nf3+ 3.Kg2 Nxg5
+ 1...Qxe4+! 2.Kxe4 Nc5+ 3.Ke3 Nxb7
+ 1...Qxb1+! 2.Kxb1 Nc3+ 3.Kc2 Nxe2
+ 1...Qxe4! 2.Qxe4 Nf2+ 3.Kh2 Nxe4
+ 1...Qxe5!! 2.Qxe5 Nf3+ 3.Kg2 Nxe5 *
+ 1...Qxf4! 2.Qxf4 Ne2+ 3.Kf1 Nxf4
+ 1...Qxf4! 2.Qxf4 Ne2+ 3.Kh2 Nxf4
+ 1.Qxd7! Qxd7 2.Nf6+ Kg7 3.Nxd7
+ 1.Qxd6! ( 1.Nf5+? Qxf5 2.Qxd6 Qxc2 = ) Qxd6 2.Nf5+ Kf6 3.Nxd6
+ 1...Qxd1+! 2.Kxd1 Nf2+ 3.Kc1 Nxd3+
+ 1...Qxb1+! 2.Kxb1 Nxd2+ 3.Kc2 Nxb3
+ 1...Qb2+!! ( 1...Qd2? 2.g5+!? ) 2.Kxb2 Nxc4+ 3.Kb3 Nxe5
+ 1...Qxb2+! 2.Kxb2 Nc4+ 3.Kc3 Nxe3
+ 1...Qa1+!! ( 1...Nxe4 ?? 2.Rxf6! ) 2.Kxa1 Nxb3+
+ 1...Qa1+! 2.Kxa1 Nxb3+ 3.Ka2 Nxd4
+ 1...Rb1+! 2.Kxb1 Nxd2+ 3.Kc1 Nxe4
+ 1...Ra1+! ( 1...Nxc2? 2.Qc5! ) 2.Kxa1 Nxc2+ 3.Kb1 Nxd4
+ 1...Rb1! 2.Qxb1 Nd2+
+ 1...Rd1! 2.Qxd1 Nf2+ 3.Kg2 Nxd1
+ 1...Rg1+! 2.Kxg1 Nf3+ 3.Kf2 Nxe1
+ 1...Rg2+!! 2.Kxg2 Nxe3+ 3.Kh1 Nxc2
+ 1...Rxe5! 2.Rxe5 Nf3+ 3.Kg3 Nxe5
+ 1...Rxe5! 2.Rxe5 Nf3+ 3.Kh3 Nxe5
+ 1.c6+! Qxc6 ( 1...Kxc6 2.Ne5+! ) 2.Na5+!
+ 1.c6+! Qxc6 ( 1...Kxc6 2.Ne5+ ) 2.Na5+
+ 1...b4+!! ( 1...Nd5? 2.Rxh7+ Kg5 3.h4+ Kf4 4.Rc2! ) 2.Kxb4 Nd5+! 3.Kc4 Nxe7
+ 1...b3+! 2.Kxb3 Nd4+! 3.Ka2 Nxc2
+ 1.Rxe4! Rxe4 2.f7+! Kxf7 3.Nxg5+ Kf6 4.Nxe4+
+ 1.f7+! Kxf7 2.Rxe4! Rxe4 3.Ng5+! Kg7 4.Nxe4
+ 1...Rd2! ( 1...Bxe3? 2.Qxe3 Rd3 3.Qxh6+! ) 2.Qxd2 Nxf3+ 3.Kg2 Nxd2
+ 1...Rh2! 2.Qxh2 Nf3+ 3.Ke3 Nxh2
+ 1.Re8+! Qxe8 2.Nf6+ Kf8 3.Nxe8
+ 1.Re8 Rxa3+ ( 1...Qxe8 2.Nxf6+ Kh8 3.Nxe8 ) 2.Kb1 Ra1+ 3.Kxa1 Qa5+ 4.Kb1 Qxd5 5.Qg8#
+ 1...Rxe5! 2.Qxe5 Qxd2+! 3.Kxd2 Nc4+ 4.Kc1 Nxe5
+ 1...Qxb2+! 2.Kxb2 Nc4+ 3.Kb3 Nxe5
+ 1...Bxf2+! 2.Kxf2 ( 2.Qxf2 Nd3+ ) Nxe4+ NN *
+ 1...Bxg2+! 2.Kxg2 ( 2.Qxg2 Ne3+ ) Nf4+
+ 1...Rxg2+! ( 1...Qxh5 ?? 2.Ra8+! Kf7 3.Qxh5+ ) ( 1...Nf4? 2.Qh8+ ! ) 2.Kxg2 Nf4+! ( 2...Qxh5?? 3.Ra8+! Kf7 4.Qxh5+ ) 3.Kf2 Nxh5
+ 1...Rxg1+! ( 1...Nf3? 2.Rg4 ) 2.Kxg1 Nf3+ 3.Kg2 Nxh4+
+ 1...Rxg2+!! 2.Kxg2 ( 2.Kf1 Rxg4! 3.Rxe8 Rf4+! ) Nf4+ 3.Kf1 Nxh5
+ 1...Rxg2+! 2.Kxg2 ( 2.Kh1 Ng3+! 3.Kxg2 Nxh5 ) Nf4+ 3.Kf3 Nxh5
+ 1.Bd5! Qxd5 2.Ne7+ Kf7 3.Nxd5
+ 1.Bg4 ( 1.Qb3? Rf6! ) Qxg4 2.Nh6+ Kh8 3.Nxg4
+ 1...Qxf2+!! 2.Kxf2 Ne4+ 3.Ke2 Nxg5 4.Rxg5 Rxe6
+ 1...Qxg2+! 2.Kxg2 Ne3+ 3.Kf2 Nxd1+
+ 1...Bxc3! 2.bxc3 Nd5!! ( 3.Qxc4 Nxe3+4.Kf2 Nxc4 )
+ 1...Nxg5! 2.Qxf4 Nh3+ 3.Kh2 Nxf4
+ 1...Rg2!! 2.Kxg2 ( 2.fxe6 Nf4# ) ( 2.Qxd5 Rxh2+ 3.Kxh2 exd5 ) Ne3+
+ 1...Rg2 2.Qxg2 ( 2.Kxg2 Ne3+ ) Nf4+ 3.Kh2 Nxg2
+ 1.Nf5+ Kf7 2.Nxe7
+ 1.Qxf7+! ( 1.Ng5? Qh5! ) Kxf7 2.Ng5+! Kg6 3.Nxh3
+ 1.Rxd4! f4 ( 1...exd4 2.Bxd4! Qxd4 3.Nxf5+ ) 2.Rxf4!
+ 1.Be5! Qxe5 2.Nxg6+ Kg8 3.Nxe5
+ 1.Bxf7+! Kxf7 2.Ne5+ Ke8 3.Nxd7
+ 1.Bxh7+! Kxh7 2.Ne4! Qb4 ( 2...Qd7 3.Ng5+! ) 3.Qxb4 Nxb4 4.Ng5+ Kg8 5.Nxe6
+ 1.Bxh7+! Kxh7 2.Rxe6! Qf5 ( 2...Qxe6 3.Ng5+ ) 3.Rxc6
+ 1.Qxe6! Qxe6 2.Ng5+ Kg6 3.Nxe6
+ 1.Nxd6+! exd6 ( 1...Kf8 2.Nxf6 Bxf6 3.Nxf5 ) 2.Bb5! Nxd5 ( 2...Qxb5 3.Nc7+ Kd8 4.Nxb5 )3.Qxd5!
+ 1.Ba5! Qxa5 2.Nxb7+ Kc7 3.Nxa5
+ 1.Rxh7+! Kxh7 2.Nxf6+ Kg7 3.Nxe8+
+ 1.Rxg7+! Kxg7 2.Qxd4+! Qxd4 3.Nxe6+! Kf6 4.Nxd4 b3)
+ 1.Rh8+! Kxh8 2.Nf7+ Kg8 3.Nxd6
+ 1.Bxg6! hxg6 ( 1...Qxg6 2.Qxd5+ ) 2.Rh8+! Kxh8 3.Nf7+ ( 3...Kg8 4.Nxd6 )
+ 1.Nb6+! Kd6 2.e5+! Kxe5 3.Bb8+ Kf6 4.Nd7+ ( ! Kxe6 6.Nc5+ Kf7 7.Nxb7 )
+ 1.Bxe6+! Kxe6 2.Nc5+ Kd6 3.Nxb7+
+ 1.Rxg7+!! Rxg7 2.Nf6+! Kf7 3.Qxg7+! Kxg7 4.Nxe8+ Kf7 5.Nxc7
+ 1.Qxg7+! Kxg7 2.Ne8+ Kg6 3.Nxd6
+ 1.Qa8+! ( 1.Nxf7? Qd1+! 2.Qg1 Qf3+ 3.Qg2 Qd1+ 4.Bg1 Qh5+ 5.Bh2 Qd1+ = ) Kg7 ( Kf6 3.Qxf7+ Kxg5 4.Qd5 ) 2.Bxe5+!! ( 2.Qh8+? Kg6! ) Qxe5 3.Qh8+ !! Kxh8
+ 1.Qh8+! Kxh8 2.Nxf7+ Kg7 3.Nxe5
+ 1.Qh8+! Kxh8 2.Nxf7+ Kg7 3.Nxd6
+ 1.Bf3!! ( 1.Nfxg5 ?? Qg2# ) g4 ( 1...Qxf3 2.Qh8+! Kxf7 3.Nxg5+ Ke7 4.Nxf3 ) ( 1...Kxf7 2.Nxg5+) 2.Qe5 ( 2.Nfg5! ) gxf3 3.Qxe8+ Kg7 4.Qe5+! Kf8 5.Qd6+ Kg8 6.Nh6+
+ 1.Qd8+!! Qxd8 2.Nf7+ Kg8 3.Nxd8
+ 1.Qd8+!! Qxd8 2.Nf7+ Kg8 3.Nxd8 Nf8 4.Bxf8 Kxf8 5.Nxe6+
+ 1.Qxd8+! Qxd8 2.Nf7+ Kg8 3.Nxd8
+ 1.Ngf7+! Rxf7 2.Bd8!! Rf8 ( 2...Qxd8 3.Nxf7+ ) 3.Bxc7 Bxc7 4.Nf7+ Kg8 5.Nxh6+
+ 1.Qb5! Qxb5 2.c8Q+ Kf7 3.Qxe6+! Kxe6 4.Nc7+
+ 1.Qxd6+! Kxd6 2.Nb7+ Kc7 3.Nxa5
+ 1.Rxc8+! Kxc8 2.Qc4+ Kb8 3.Qxd5
+ 1.Rxb8+! Kxb8 2.Qb1+ ( 2.Qb3+ ) Kc8 3.Qxa2 Qf3 4.Qa8+! Kd7 5.Nxe5+ Ke7 6.Nxf3
+ 1.Nf6!! Kxf6 2.Qf3+ Kg7 3.Qxe4 dxc3 4.h5 gxh5 5.gxh5 Kh8 6.Rb8+! Nxb8 7.Rxb8+ Kg7
+ 1.Qg4+! Kh8 2.Qxf5
+ 1.e4! Bxe4 2.Qa4+! Nc6 3.Qxe4
+ 1...Qa5+! 2.Ke2 Qxe5
+ 1...g5! 2.Bxg5 ( 2.Bg3 g4! ) Bxd2+ ( 2...Nxd2 ) ( 2...Nxg5 3.Nxg5 Bxd2+ 4.Kxd2 Qa5+ 5.Kd1Qxg5 ) 3.Nxd2 Qa5! ( 3...Qxb3? 4.axb3 Nxg5 5.h4 )
+ 1.Rxd7! Rxd7 2.Qf5 h6 3.Qxd7
+ 1.Bc7!! Rxc7 2.Qe5
+ 1.Bxc6+! Kxc6 2.Qa4+ Kb7 3.Qxe8
+ 1.Bxd6+! Kxd6 2.Qb4+ Kc7 3.Qxf8
+ 1...Rxd5! 2.Qxd5 Be4+ 3.Qxe4 Qxe4+
+ 1...Rxd4! 2.Rxd4 ( 2.exd4 Bxd2 ) Bxe3+ 3.Kf1 Bxd4
+ 1...Bg6+!! 2.Qxg6 Qd3+! 3.Kf4 Qxg6
+ 1...Rxh5! ( 1...Qd3+? 2.Kg2 Qxe4+ 3.Bf3 ) 2.Qxh5 Qd1+ 3.Kg2 Qxh5
+ 1.h7! ( 1.Ke4? Ke7 2.h7 Kf7 = ) Ke7 ( 1...Kc7 2.Ra8! ) 2.Ra8! ( 2.Rb8 ) ( 2.Rc8 ) Rxh7 3.Ra7+Kf6 4.Rxh7
+ 1.Rd7! Qxd7 2.Qh7+ Kf8 3.Qxd7
+ 1.Ra8!! Qxa8 ( 1...Rd8 2.Rxd8 Qxd8 3.Qh8+ Kf7 4.Qxd8 ) 2.Qh8+ Kf7 3.Qxa8 Rxg2+ 4.Kxg2Nf4+ 5.Kf3 Nxh5 6.Qh8
+ 1.Rxd7+! Kg8 ( 1...Qxd7 2.Qxh7+ Kf6 3.Qxd7 ) 2.Nd5 ! Qxd7 3.Nf6+ Kh8 4.Nxd7
+ 1.Bxf7+! Kxf7 2.Rxc7+! Qxc7 3.Qh7+ Ke6 4.Qxc7
+ 1.Ra8! Qxa8 2.Bd5+! Kb6 3.Bxa8
+ 1.Ra8!! Qa2 ( 1...Qh7 2.Bg6! Qxg6 3.Ra6+! ) ( 1...Qxa8 2.Bf3+! ) ( 1...Qd5 2.Bf3 ) ( ) ( 1...Qc4 2.Rc8+ ) 2.Rxa4! Qg8 ( 2...Qxa4 3.Be8+! ) 3.Ra8! Qh7 4.Bg6! Qxg6
+ 1.Qxd7+! Kxd7 2.dxe6+ Kc8 3.Bxb7+ Kxb7 4.e7
+ 1.Nf7! Kxf7 2.dxe6+ ( 2...Kxe6 3.Bxb7 )
+ 1.Qg8+!! Kxg8 2.Be6+ Kh8 3.Rg8#
+ 1.Bf7+! Kf8 2.Rg8#
+ 1...Bf4+! 2.hxg5 Bxe3+
+ 1...Qe2+! 2.Kg1 ( 2.Rf2 Qxf2+!! 3.Kxf2 Bxd8+ 4.Kg2 Bxa5 ) Qxf1+!! ( 3.Kxf1 Bxd8+ 4.Kg2 Bxa5 )
+ 1.Bb5! Nxc3 ( 1...axb5 2.axb5 ) 2.Bxc6+ bxc6 3.bxc3
+ 1.Nb6+! axb6 2.axb6+ Kb8 3.bxc7+
+ 1.Nb6+! cxb6 2.cxb6+
+ 1.Nb6! axb6 ( 1...Rd8 2.Qxa6 axb6 3.cxb6 Qe4 4.Qd3 Qxd3 5.Rxd3 Bxf4 6.Bxf4 Rxf4 7.b7! ) 2.cxb6 Qb7 ( 2...Qe4 3.Rd4 ) 3.Rxd7! Rf7 4.Rxf7 Kxf7 5.bxc7 Rc8 6.Qh5+ Kf8 7.Rd1Qxc7 8.Qxh7 Qc3 9.Bd4
+ 1.Rxe2! Qxe2 2.Rxg7+! Kxg7 3.Bxh6+! Nxh6 4.Qxe2
+ 1.Bg4+! hxg4 2.Qxe1
+ 1.Rxg5! Kxg5 2.Qd2! Qxb3 3.Nf5+! ( 3...Kxf5 4.Qf4# )
+ 1.Nf8+! Kh8 ( 1...Kh6 2.Qh7# ) 2.Qh7#
+ 1.Nxd6+! exd6 2.Rxf7
+ 1.Be6!! ( 1.Nxd6? cxd6 2.Be6 Qf3 3.Bxf7 Qxf7 ) Qxe6 2.Nxd6 ! Rxd6 3.Rxe6 Rxe6 4.Bxa7
+ 1.Rg8+! Kxg8 2.Qxe7
+ 1.Rd6!! Qc7 ( 1...Qxd6 2.Rxe8+ Rxe8 3.Qxd6 ) 2.Rxe8+ Rxe8 ( 2...Kg7 3.Rxc8 ) 3.Rxg6+!
+ 1.Rf8+!! Rxf8 2.Rxg6+! Rf6 3.Bxf6#
+ 1.Bc4! Qxc4 2.Rxg7+! ( 2.Bxe5? Qxf1+! 3.Kxf1 Bxe5 ) Kh8 3.Bxe5! ( 3.Rff7! ) Qxc2 4.Rf8+!Rxf8 5.Rxg6+!
+ 1...Qxf2+! 2.Rxf2 Re1#
+ 1...Qxf2+! 2.Rxf2 Re1#
+ 1.Bxg7+! Qxg7 2.Rxf8#
+ 1.Bxf7+! ( 1.Ra8+? Kh7 2.Bxf7 ?? Qc6+! ) Qxf7 2.Ra8+ Kh7 ( 2...Re8? 3.Rxe8+ ) 3.Qxf7 Be4+4.Kg1 Bxa8 5.f4
+ 1...Qxg2+!! 2.Qxg2 Rxf1#
+ 1...Qxg2+! 2.Qxg2 Rxf1#
+ 1...Rg4+! 2.Qxg4 Qxg4+
+ 1...Rh3+! 2.Qxh3 Qxh3+ 3.Kg1 Qxg2#
+ 1.Rxb7+! Kxb7 2.Re7
+ 1.Rxb7+! ( 1.Ree7? Rxb2! ) Qxb7 2.Re7
+ 1...Qa1+! 2.Nb1 Qxd4
+ 1...d4! 2.Qxd4 Qa1+ Bg3 d6) ( 3.Nd1 Qxd4 )
+ 1.Re8! Qxe8 ( 1...Bd4+ 2.cxd4 Qxe8 3.Nf6+! Rxf6 4.Qxe8+ ) 2.Nxf6+ Rxf6 3.Qxe8+
+ 1.Re8! Qxe8 2.Nxf6+ Kf8 3.Nxe8
+ 1...Rxg1+! ( 1...Qxe2+? 2.Nxe2! Bxf2 3.hxg5 ) ( 1...Qxf2+? 2.Qxf2 Bxf2 3.hxg5 ) 2.Kxg1 Qxe2
+ 1...Rh1+! 2.Kxh1 Nxg3+ Qc6 b7)*
+ 1...Nf2+! 2.Rxf2 Qxd1+
+ 1...Rc1! 2.Qxc1 Ne2+ 3.Rxe2 Qxc1+ 4.Kf2 Ba6
+ 1.Rxe5! ( 1.f4? Bxd4! 2.Rxe6 Bc8!! 3.Rxf6 Bxg4 ) Rxe5 2.f4
+ 1.Rxf6! Rxf6 2.g5!
+ 1...Nxf2! 2.Kxf2 g5! 3.Qd2 ( 3.Bc1 Bxd4+! 4.Rxd4 Qf6+ ) gxf4 4.Qxf4 c5 5.Nb5 Qxe2+ 6.Kg1Qe3+ 7.Qxe3 Rxe3
+ 1...Qf5+! 2.Nf3 ( 2.Kg1 Qxd3 ) Bxf3
+ 1...Rh2+!! ( 1...Bxe5? 2.dxe5! Nd5 3.Qh5 ) 2.Kxh2 Rxf7
+ 1...Rxg2+!! 2.Kxg2 Qxh4
+ 1.Rd8+!! Kxd8 2.Qxe4 NN
+ 1.Rd8+! Kxd8 2.Qxe6! ( 2.Bxc7+? Kd7! )
+ 1.Re8+! Kxe8 2.Qxd6! ( 2.Bxf7+? Ke7 )
+ 1.Qa4+! Qc6 ( 1...Nc6 2.Qxc6+! Qxc6 3.Rd8# ) 2.Rd8+! Kxd8 3.Qxc6
+ 1.Rg8+!! Kxg8 ( 1...Nxg8 2.Qxe4 ) ( 1...Ke7 2.Qxf6# ) 2.Nxf6+ Kg7 3.Nxe4
+ 1.Rxh7+!! Kg8 ( 1...Nxh7 2.Qxg6+ Kh8 3.Qxh7# ) ( 1...Kxh7 2.Bxg6+ Kh6 3.Qxf4 ) 2.Rh8+!!Kg7 ( 2...Kxh8 3.Nxg6+ Kg7 4.Nxf4 ) 3.Rxb8
+ 1.Rh8+! Kxh8 2.Qh6+ Kg8 3.Qxg7#
+ 1.Rh8+!! Kxh8 2.Qh6+ Kg8 3.Qxg7#
+ 1.Re8+ Kh7 2.Rh8+!! Kxh8 ( 2...Nxh8 3.Qxg7# ) 3.Qh6+ ! Kg8 4.Qxg7#
+ 1.Qh6+! ( 1.Qxf7? Rd7! ) Kg8 2.Qxg7#
+ 1...Qh7+! 2.Rh3 ( 2.Kg1 Rxd3 ) Rd1+ 3.Kh2 Rh1+!! 4.Kxh1 ( 4.Kg3 Rxh3+ 5.gxh3 Qh4+ 6.Kh2Qxf2# ) Qxh3+ 5.Kg1 Qxg2#
+ 1...Rh1+! 2.Kxh1 Qxh3+ 3.Kg1 Qxg2#
+ 1.Qh4! Bd7 2.Rxf6! Qxf6 3.d6+ Berg
+ 1.e6+! Kxe6 2.Qxg6+
+ 1.Qg5+! Kf8 2.Bxf6
+ 1.e6! Bxe6 2.Bd4! f6 ( 2...g6 3.Qe5! f6 4.Qxe6+ ) 3.Qg4!! (3...Kf7 4.Rfe1! )
+ 1.Nd5!Rxd5 ( 1...Qd6 2.Ne7+ Kf7 3.Nxc8 ) 2.Bc4! Be6 3.R1xe6 Qxe6 ( 3...Rxd2 4.Rxf6+! bxc4 5.Rfxf8#) 4.Bxd5 Rxe8 5.Bxe6+ Nxe6 6.fxe6 Rxe6 7.Qd5
+ 1.Rxe6! Qxe6 2.Bd5
+ 1.Qg6+! fxg6 2.hxg6#
+ 1.Qg6+! fxg6 2.hxg6#
+ 1.Qf7+! Bxf7 2.exf7+ Qxf7 3.Bxf7#
+ 1.Qe7+!! Rxe7 2.fxe7+ Ke8 3.exd8Q#
+ 1...Qc3!! ( 2.Nxc3 bxc3 3.Kb1 Rfa8 )
+ 1...Qc3!! ( 1...Rxe4? 2.dxc5 ) 2.Nxc3 bxc3 3.Kb1 Rea5
+ 1...Qc3!! ( 1...Bxf6? 2.gxf6 Ra1+ 3.Kd2 Qc3+ ( 3...Rxd1+ 4.Kxd1 ) 4.Ke2 Qxf6 5.Rxa1 ) 2.Bxc3bxc3 3.Kb1 Rfa8
+ 1...Qc3! 2.Bxc3 Bxc3 and 3...Ra1#
+ 1...e3+! 2.Kxe3 f4+! 3.Ke2 fxg3
+ 1...d3! 2.Bxd3 e4 3.Be2 exf3 *
+ 1...Bc2! ( 2.Rxc2 c4! 3.Qa3 Nxc2 ) ( 2.Qa3 Nc4 )
+ 1...Bc2! 2.Qa3 Nxc4 3.Qa1 Na5!!
+ 1...Rc1+!!2.Qxc1 Be4+
+ 1...Rd2! ( 1...Bxf3+? 2.Qxf3 ) 2.Qxd2 Bxf3+! 3.Rxf3 Qxd2+
+ 1...Rd2! ( 1...Bxf3+? 2.Qxf3 ) 2.Qxd2 Bxf3+! 3.Rxf3 Qxd2+
+ 1.Rxf8+! Bxf8 2.Qxe5+
+ 1.Bc3!! ( 1.Rxh6+ ?? Bxh6 2.Bc3 Rg1+!! 3.Qxg1 Qxc3 ) Qxc3 ( 1...Qf2 2.Rxh6# ) 2.Rxh6+!Bxh6 3.Qxc3+
+ 1.Ne7+! Rxe7 2.Qxd5 Nxd5 3.Bxe7 Nd2 4.Rd4! Nxf1 5.Rxd5 Re8 6.Rd7 Nd2 7.Rxa7
+ 1.Nf7+! Kg8 ( 1...Rxf7 2.Qe8+ ) 2.Nxg5
+ 1.Qh7+!! Kxh7 2.Rxg7+ Kh8 3.Rg8+! Kh7 4.R4g7#
+ 1.Qh7+!! Kxh7 2.Rxg7+ Kh8 ( 2...Kh6 3.R1g6# ) 3.Rg8+! Kh7 4.R1g7+ Kh6 5.Rg6+ Kh8 7.Rh6#
+ 1.Rxd5! Qxd5 2.Ne7+ Kg7 3.Nxd5
+ 1.Bxh7+!! Kxh7 2.Qh3+ Kg8 3.Rxd5! Bxc6 ( 3...Qxd5 4.Ne7# ) ( 3...exd5 4.Qxd7 ) 4.Rxd7 (add
+ 1.Qc1! Nxd4+ ( 1...Ne7 2.Qc5 ) 2.Kd3 Qxe5 3.Qc8+ Kg7 4.Qh8+!! Kxh8 5.Nxf7+ Kg7
+ 1.Qh8+! Kxh8 2.Nxf7+ Kg7 3.Nxe5
+ 1...Rxg2+! 2.Kxg2 Bxa1
+ 1...Rxh3+! 2.gxh3 Bxd2
+ 1.Bxg7+! Kxg7 2.Rxe7
+ 1.Bxh7+! ( 1.Qxe5 ?? Rxe5 2.Rb8+ Re8 ) Kxh7 2.Qxa2
+ 1...Bxh2+! 2.Kxh2 Rxf1
+ 1...Bh2+! 2.Kxh2 Qxe1
+ 1...Bc4+! 2.Ke1 ( 2.bxc4 Qxd1# ) Qe7+ 3.Kd2 Qe3#
+ 1...Bxg2+! 2.Kxg2 Qxe2
+ 1...Bh2+!2.Kxh2 Rxe2 3.Rb8+ Re8
+ 1...Ba2+! 2.Kxa2 Rxf5 3.Nxf5 Qf7+
+ 1...Bd2+! 2.Kc2 Rxb3
+ 1...Nf4+! 2.gxf4 Rxd3
+ 1...Nxg3+! 2.hxg3 Rxe2
+ 1...Nc4+! ( 1...Nd3+? 2.Nxd3! ) 2.bxc4 ( 2.Kc2 Qxe1 3.Re2 Bf5+ ) Qxe1 ( 2...bxc4+ ) 3.Re2 bxc4+4.Ka3 Qc1+ 5.Ka4 Bd7+ 6.Ka5 Qa3#
+ 1...Ne3+ 2.Bc3 Nxd1
+ 1...Nd4+! 2.cxd4 Qxg4
+ 1...Ne3+! 2.fxe3 Qxh3+
+ 1...Qh1+! ( 1...Nc3+? 2.Kc1! Qg1+? 3.Rf1! ) 2.Ka2 ( 2.Rf1 Nc3+! 3.bxc3 Qxb7+ ) Nc3+! 3.bxc3Qxb7 *
+ 1...Ng3+! 2.Rxg3 Qxd5
+ 1...Rb1+! 2.Rxb1 Qxc5
+ 1...Rc1+! 2.Rxc1 Qxd5
+ 1...Bxe5!2.Qxc7+ Bxc7
+ 1.Bd5+! Bxf6 2.Bxe4
+ 1.Bd5 (add ( 1...Rxf2 2.Qg8# )
+ 1.Ne7#
+ 1.Nd5! ( 1.Qxg7+? Kxg7 2.Nd5+ Qe5! 3.Nxe5 dxe5 4.Nxc7? Ra7 ) ( 1...Bxd4 2.Nxe7+ Kg7 3.Bxd4+ )
+ 1...Bxd5! 2.exd5 ( 2.g3 Bxc4! 3.gxh4 Rxd1 ) g3! 3.hxg3 Qxc4
+ 1...g3! 2.hxg3 ( 2.Qd3 Qxh2+ ) Qxd4
+ 1.e6!! Qxc5 2.Nf5+! ( 2.exd7?! Qd6+! 3.g3 Nf5 4.Nxf5+ gxf5 ) Qxf5 ( 2...Nxf5 3.Qxc5 ) 3.Qxf5Nxf5 4.exd7
+ 1.Nh6+! Rxh6 2.Qxd7
+ 1.Ra5!! ( 1.Rd1? Rxd1 2.Bxe6+ Kh8! 3.Bxc8 c2 ) Rxa5 2.Bxe6+ Kf8 3.Bxc8 Rc5 4.Bf5
+ 1.Rxd8! Rxd8 2.Bxf6+ Kg8 3.Bxd8
+ 1...Nh5+! 2.gxh5 Bxd4
+ 1...Nxe4!! 2.Bxd8 ( 2.Qxg7+ Kxg7 3.Bxd8 Nxc3 ) Bxd4 3.Bxe4 Bxc3! 4.bxc3 Rcxd8 5.Bxb7 Bxc4.
+ 1...Nxe4! 2.fxe4 ( 2.Bxd8 Nxg3! ( 2...Bd4+? 3.Qxd4! ) 3.Qd2 ( 3.Qd1 Bd4+! 4.Rf2 Re2 ) Re2!4.Qxe2 Nxe2+ 5.Kf2 Rxd8 6.Kxe2 Re8+ ) ( 2.Nxe4 Bxd3 ) Qxg5 3.exf5 Bd4+ 4.Kh1 Re3! 5.Qc2 Rxg3! 6.hxg3 Qh5#
+ 1...Ng3+! 2.hxg3 Bxd3+
+ 1.Qxh5+!! Bxh5 ( 1...Kg7 2.Qe5+ ) 2.Rd6+! Bg6 3.Rxb6
+ 1.Rxd5+! Bg6 2.Bxg6+ Kxg6 3.Rxd7
+ 1...Qxd4! 2.Qxc5 ( 2.Bxd4 Bxd4+ 3.Kf1 Rxc2 ) Qb2+
+ 1...Qxe2+! 2.Kxe2 Bxd3+ 3.Kd2 Rxc1
+ 1.Bf7+! gxh4 2.Bxe6
+ 1.Qd5+!! Bxd5 2.Bxd5+ Kh8 3.Rxg4
+ 1...Nf5+! 2.Kh2 Nxh4
+ 1...Bh4! 2.g3 ( 2.Qxh4 Nf3+! 3.Kh1 Nxh4 ) ( 2.Qe3 Ne2+! ) Bxg3! 3.Qg2 ( 3.Qxg3 Ne2+! ) Nxc2+4.Kh1 Rxd3 5.Qxc2 Qc6+
+ 1.Rxe5! fxe5 2.f6+!
+ 1.Rxd5! ( 1...exd5 2.e6+ ! )
+ 1.Qxe7! Bxe7 2.d6+ Kg7 3.dxc7
+ 1.e7+! Qxd5 2.e8Q#
+ 1...d3+! 2.Kxd3 Bxa1
+ 1...Nxd5! 2.Bxd8 Rxd8 3.exd5 e4! 4.Qa3 Bxa1 *
+ 1...Nf4+!! ( 1...Bxd3 ?? 2.Qxh5+! ) 2.gxf4 Bxd3+! 3.Kh2 Bxc2
+ 1.c7+! Bxc7 2.Qxe6
+ 1.Be5+!! Kc8 ( 1...fxe5 2.bxa7+ Ka8 3.Qxg6 ) ( 1...Ka8 2.Qxa7+ Rxa7 3.Rxa7# ) 2.bxa7 Nf3+3.Kf2 Rh2+ 4.Bxh2
+ 1...b3+! 2.Kxb3 Qxa5
+ 1...Ra8! ( 1...Qf1+ 2.Kb2 Ra8 ) 2.Rxa8 ( 2.Kb2 Rxa3 3.Kxa3 Qxc2 ) Qf1+! 3.Kb2 c3+! ( 4.Kxc3 Qxb5 )
+ 1.Rh8!! Qa3 ( 1...Bxb7 2.Rxe8+ Kxe8 3.Qh8+! Kd7 4.e6+! Kxe6 5.Qxc3 ) 2.e6! Qd6 ( Kxe8 4.Qg8# ) 3.Rxe8+ Bxe8 4.Qg8! Rc8 5.Rd7+!
+ 1.f6+! Kxf6 2.Qxe4
+ 1.e6+! Qg7 2.Bxg7+
+ 1.Rh8+! Kxh8 2.c4+! Kh7 3.cxb5
+ 1...Rxa2! 2.Kxa2 Nd4+! 3.Kb1 Nxc2
+ 1...Qxb2+!! 2.Kxb2 Nxg4+! 3.Ka2 Nxh2
+ 1...Re1#
+ 1...Nf2+!! 2.Qxf2 ( 2.Kh2 Nxe4 ) Rc1+! 3.Rxc1 ( 3.Kg2 Qxf2+ 4.Kxf2 Rxa1 ) Qxf2
+ 1...Rd1+!! ( 1...Bg4? 2.Qxe8+! ) 2.Kxd1 ( 2.Ke2 Bg4+! ) Bb3+! 3.Rxb3 Rxe5
+ 1...Bb2+!
+ 1.d6! Bxd6 2.Nxd6 e4 ( 2...Qxd6 3.Bxh7+! ) 3.Bxe4 Qe7 Nxe4 5.Nxc8 Rxc8 6.Qd5+ Re8 8.Ng5!
+ 1.Bxf7+! Kxf7 2.Qxd7
+ 1.Bxh7+! Kxh7 2.Rxf7
+ 1.Nxd6! ( 1.Bxd6! Bxd6 2.Nxd6 Qxd6 ) Bxd6 2.Bxd6 Qxd6 3.dxe5 Nxe5 ( 3...Qe7 4.exf6 ) 4.Bxh7+!
+ 1...Nd3+! 2.Kg1 Nxe1
+ 1...Qxg2+! 2.Kxg2 Nc3+ ( 2...Nc5+ ) 3.Kg1 Nxa4 4.Bb5 Nxb2 5.Rfb1 a6! 6.Nd7 Rfd8! 7.Nxb6 (7.Rxb2 axb5 8.Nxb6 Ra5 ) Rab8 8.Nxd5 Rxb5 9.Nc7 Rb6 Rxd4! Rdb4!
+ 1.Rc8!! Qd7 ( 1...Qxc8 2.Ne7+ ( 2...Bxe7 3.Bxc8 ) )2.Nh6+ Bxh6 3.Bxd7 Bxd2 4.Bxe8 *
+ 1.Nh6+! Bxh6 2.Bxd7
+ 1...Bg2+! 2.Kxg2 Rxh4
+ 1...Bxe3+! ( 1...Bh3? 2.Bxf7+! ) 2.Kh1 ( 2.Bxe3 Qxf1+! 3.Kxf1 Bh3+! ) Be6! 3.Qd6 Bxc1 4.Bxe6Nxe6
+ 1...Bxf2+! 2.Kxf2 ( 2.Rxf2 Rxe1+ ) Qb6! 3.Rxe6 ( 3.Be3 Rd2+ ) Rxf4+! ( 4.Kg3 fxe6 5.Rxf4 g5 )
+ 1...Rxg3+! 2.Kh2 Qg1#
+ 1.Ng5+! fxg5 2.Qxd4
+ 1.Bb4!! ( 1.Nxe6+ ?? Nxe6 ) Qxb4 ( 1...Nxh3+ 2.Kh2 Qxb4 3.Nxe6+ ! fxe6 4.Qxb4+ ) 2.Rc8+! (2.Nxe6+ ?? Nxe6! ) Kg7 ( 2...Ke7 3.Nc6# ) 3.Nf5+! exf5 4.Qxb4
+ 1.Qxg7+!Kxg7 2.Bd8+! Kh8 ( 2...Kh6 3.Rh3# ) ( 2...Kf7 3.Bh5# ) 3.Rg8+! Rxg8 4.Bf6+ Rg7 5.Bxg7+Kg8 6.Bxd4+ Kf7 7.Bxb2
+ 1.Rg8+! Qxg8 2.Bf6+! Qg7 3.Bxg7+ Kg8 4.Bxe5+ ! Kf7 5.Bxd6
+ 1.Nxg6+! Bxg6 2.Qxd4+
+ 1.Rd4!! Rxf4 ( 1...Bxd4 2.Bxd4+ Qxd4 3.Nxg6+! hxg6 4.Qxd4+ ) 2.Rd8+! Rf8 ( 2...Bf8 3.Rxf8+! Rxf8 4.Bd4+! ) 3.Rxf8+ Bxf8 4.Qxe4 ( 4...Bxe4 5.Bd4+Rg7 6.Rc8 )
+ 1.f6+! Rxf6 2.Qxd5
+ 1.Bf7+! ( 1...Kxf7 2.e6+! Kf8 3.Qxa5 ) ( 1...Kf8 2.Bxg6)
+ 1...Ra4+! ( 2.Kb1 Ra1+! 3.Kxa1 Nb3+ )
+ 1...Na3+! 2.Nxa3 Qxe2
+ 1...Rxa2+! 2.Kxa2 Ne3+! 3.Ka1 Nxd1 4.Rxd1 Qb3
+ 1...Rxb2+!! 2.Kxb2 ( 2.Ka1 Rxb3 ) Ba3+! 3.Kxa3 Qxf6
+ 1.Rg7+!! Kh8 ( 1...Kxg7 2.Bxe5+ Rxe5 3.Qxc4 ) 2.Rxh7+!! Rxh7 ( 2...Kg8 3.Rxh5 ) 3.Bxe5+dxe5 4.Qxc4
+ 1.Bxh7+! Kg7 2.Rxf6
+ 1.Rxg7+! Bxg7 2.Qg4 Rg6 3.Nh6+ Rxh6 4.Qxd7
+ 1.Nh6+! Rxh6 2.Qxd7
+ 1...Nf3+!! 2.gxf3 Qg6+ 3.Kh1 Ng3+! ( 4.hxg3 Qxc2)
+ 1...Nh3+! 2.Rxh3 Qxd2
+ 1.Bxg7! ( 1.Qh5? Qc6! 2.Bxg7? Qxg2# ) Bxg7 2.Qh5 h6 3.Bh7+! ( 3...Kxh7 4.Qxc5 )
+ 1.Bh7+! Kxh7 2.Qxd5
+ 1.f7+! Kxf7 2.Qxd8
+ 1.Ng6+! ( 1.Qh5? Nh6! ) fxg6 2.Rxh7+! Kxh7 3.Qh3+ ! Nh6 4.fxg6+! ( 4...Kxg6 5.Qxd7 )
+ 1.Rxg7+!! Kh8 ( 1...Kxg7 2.Qg3+ Kh8 3.e6+ b3 5.Bxf6+ Rxf6 6.Qxb8+ Kg7 7.e7 a2 8.Qe5 Nd7 9.e8Q Nxe5 ) 2.Qf3! Nd7 (2...Qd8 3.e6 f6 4.e7 ) ( 2...Kxg7 3.Qg3+ ) ( 2...b3 3.Qf6 Ne4 4.Qh6 ) 3.Rxh7+! Kxh7 4.Bd3+ Kg8 6.Qg4+ Kf7 7.Qg6#
+ 1.f7+! Rxe5 2.Qxd8+
+ 1.Qh5! gxh5 ( 1...Bh4 2.Qxh7+ ( 2...Kxh7 3.Rxh4+ ) ) 2.Rg3+ Ng7 3.Rxg7+ Kh8 4.Rxf7+ Kg8 5.Rg7+! Kh8 6.Rxe7+ Kg8 7.Rxd7
+ 1.Re7+! Kg8 2.Rxe8+
+ 1.Bf6! Qxh5 2.Rxg7+ Kh8 3.Rxf7+ Kg8 4.Rg7+! Kh8 5.Rxb7+ Kg8 6.Rg7+ Kh8 7.Rg5+! Kg6 9.Rh3 Kxf6
+ 1.Rf5+! Kg7 2.Rxh5
+ 1.Qxg8+! Kxg8 2.Bf7+ Kf8 3.Rg8#
+ 1.Qd8+!! Kxd8 2.Bg5+! Ke8 3.Rd8#
+ 1...Qg1+!! 2.Kxg1 Bd4+ 3.Kh1 ( 3.Kf1 Rg1# ) Rg1#
+ 1...Qxf1+! 2.Kxf1 Be2+! 3.Kg1 Rf1#
+ 1.Qxh7+! Kxh7 2.Rh4+ Kg8 3.Rh8#
+ 1.Qxh7+! Kxh7 2.Bf6+ Kg8 3.Rh8#
+ 1...Bc1#
+ 1...Qxa2+!! ( 1...fxe6? 2.Qh5+! Kd8 3.Qxb5 Qxa2+ ?? 4.Kxa2 Ra8+ 5.Qa4 ! ) 2.Kxa2 Ra8+ 3.Kb2Ba3+ 4.Ka2 Bc1#
+ 1...Rh3+! 2.Kg1 Rh1#
+ 1...Qh1+! ( 1...Rxh4 ?? 2.Qb8+! Bc8 3.gxh4 ) 2.Kxh1 Rxh4+ ( 3.Kg1 Rh1# )
+ 1...Qh1+! 2.Kxh1 Re1+ 3.Kh2 Rh1#
+ 1...Qh1+!! ( 1...Re5? 2.Re1! Rxe3 3.Rxb1 Rxc3 4.Rxb7 Rxc2 5.Rf4 ! = ) ( 1...Rd3 ?? 2.Rh8+!!Kxh8 3.Qh6+ Kg8 4.Qxg7# ) 2.Kxh1 Rd1+ 3.Kh2 Rh1#
+ 1...d3! 2.Qxd3 Ra1#
+ 1...e3! 2.Qxe3 Rf4!!
+ 1.Qh7+!! ( 1.f6 ?? Qxc3+!! ) Kxh7 2.Ng6+! Kg8 3.Rh8# *
+ 1.Qh7+! Kxh7 ( 1...Kf8 2.Qh8# ) 2.Nf6#
+ 1...Nd2+! 2.Ka1 Rb1#
+ 1...Qxb1+!! 2.Kxb1 Na3+ 3.Kc1 Rb1#
+ 1.Qf8+!! Bxf8 2.Ng7+! ( 2.Nxc7+ ) Kd8 3.Re8#
+ 1.Ne7+ Kf8 2.Rg8#
+ 1.Rf8+! Rxf8 2.Qxg4
+ 1.Rxf6! gxf6 ( 1...Qxd4 2.Rxf8# ) 2.Qxg1
+ 1.Re8+! Kg7 ( 1...Bxe8 2.Qxf6 ) 2.Rg8+! Kxg8 3.Qxf6
+ 1.Re4!! Bxe4 ( 1...Qxc3 2.Rxe8# ) ( 1...Rxe4 2.Qc8+! ) ( 1...Qd8 2.Qg7# ) 2.Qxf6
+ 1...Qxa2+! 2.Kxa2 Bc2#
+ 1...Qxa2+! 2.Kxa2 Bxc4#
+ 1...Rxa3+!! 2.bxa3 ( 2.Kb1 Qxc6 3.Rxc6 Rxf3 ) Bd4+! 3.Nxd4 Qb2#
+ 1...Ba2+! 2.Kxa2 Qxb2#
+ 1.Nxd7+! Nxe2 2.Nf6#
+ 1.Nh6#
+ 1.Bxh7+! Kxh7 2.Rxf6
+ 1.Bg6! Ne2+ ( 1...Nxd1 2.Qxf7# ) 2.Qxe2 Qe5 ( 2...Qb6 3.Qxe6+! ) 3.Bxf7+! ( 3...Kxf7 4.Rxd7+ Ke8 5.Qxe5 )
+ 1...Nxe4! 2.Bxd8 Bxf2+ 3.Ke2 Nd4# NN
+ 1...Bxf2+! 2.Ke2 Nd4#
+ 1.Rxe6+! dxe6 2.Bxg7
+ 1.Qxg7+! ( 1.exf5? Qb4! ) Kxg7 ( 1...Nxg7 2.Rh8# ) 2.Rxe6+ ! axb2 3.Rxe7
+ 1...Rxd4! 2.Rxd4 Ne4! 3.Rxe4 ( 3.Qxe7 Nf2+ 4.Kg1 Qxg2# ) Bxg5 4.fxg5 b4
+ 1...Ng3+! 2.hxg3 Qxg2#
+ 1.Qxg7+! Kxg7 2.Bf6+! Kh6 ( 2...Kf7 3.Rg7# ) 3.Bg7#
+ 1.Qxf7+! Kxf7 2.Bxd5+! Kg6 ( 2...Ke7 3.Rf7# ) 3.Bf7+ Kxg5 4.Bc1+ Kg4 5.Rf4+ Kg5
+ 1.Na6#
+ 1.Qb7+!! Kxb7 2.Nc5+! Kc7 3.Na6#
+ 1.Nxg6+! fxg6 2.Qg8+!! Kxg8 3.Ne7+! Kf8 4.Nxg6#
+ 1.Nxg6#
+ 1.Rxg7+! ( 1.Nc6 ?? Rf7! ) Kh8 ( 1...Kxg7 2.Ne6+! ( 2.Nxf5+? Kg6 3.Qg7+ Kxf5 4.Rf1+? Qxf1#) Kf7 3.Qg7+ Ke8 4.Qxf8# ) 2.Nc6! *
+ 1.Ng6+! Kg8 2.Qh8#
+ 1...Nf4!2.Ne7+ ( 2.Bxf4 Qxg2# ) ( 2.Bxf7+ Kxf7 3.Qc4+ Ne6 ) ( 2.Qg3+ Qxg3 3.Nxg3 Bxg2+4.Kg1 Bxf1 ) Rxe7 3.Rxf2 Nxd3 4.cxd3 Bxd4
+ 1.Nf5!! ( 1.Ne6?! Nxe6! 2.Qxe5 Bxe5 3.Bxe5+ Kg8 ) Qxb2 ( 1...Qxf5 2.Rd8+ Rf8 3.Qxg7# )2.Bxb2!! and 3.Rd8!
+ 1.Rf8#
+ 1.Nd5!! ( 1...Rxa4 2.Ne7# )
+ 1.Nf8#
+ 1.Nfe7#
+ 1.Rxe5!! ( 1.Rde2? f6 ) ( 1.Nf6+? gxf6 2.Rh1 Bf5 ) Qxe5 2.Ng6 !! Qxh2 3.Nde7#
+ 1.Qxh7+! ( 1.Nc6 ?? Qxa2+! 2.Kxa2 Ra8+ 3.Kb1 Ra1# ) Kxh7 2.Rh1+ Bh4 3.Rxh4#
+ 1.Qxh7+! Kxh7 2.Rh4#
+ 1...Rxa3+! 2.Kxa3 Ra5#
+ 1...Nd2+! 2.Ka1 ( 2.Rxd2 Qf1+ ) Qxa2+! 3.Kxa2 Ra8#
+ 1...Qxa2+! 2.Kxa2 Ra5+ 3.Qa4 Rxa4#
+ 1...Qxa3+! 2.Kxa3 Ra8#
+ 1.Bg5! hxg5 2.hxg5 Qxg5 3.Qh5! Bd3 c2)( 3...Qxh5 4.Ne7+! Kh7 5.Rxh5# )
+ 1.Ne7+! Kh7 2.Rh4#
+ 1...Rxh2+! 2.Kxh2 Rh8#
+ 1...Rxh2+! 2.Kxh2 Rh5#
+ 1...Rxa2+! 2.Kxa2 Ra8+
+ 1...Rxa2+! 2.Kxa2 Ra5+ 3.Qa4 Rxa4#
+ 1...Rxa2+! 2.Kxa2 Qa4#
+ 1...Rxa2+! 2.Kxa2 Qa8+ 3.Na5 Qxa5+ 4.Kb3 Qb4+ 5.Ka2 Qa4#
+ 1...Qxh2+!! 2.Kxh2 Rh8+!
+ 1...Ng3+! 2.hxg3 Rh5#
+ 1.Ng6+! hxg6 ( 1...Qxg6 2.Qf8# ) 2.Qh4#
+ 1.Ng6+! hxg6 2.Qh3#
+ 1...Ng3+!! ( 2.hxg3 Ra8! Rh8 ) (2.Qxg3 Rxb1 )
+ 1...Ng3+! 2.hxg3 Rh5#
+ 1.Bg5! ( 1.Ng5? Rf8! 2.Qh5 Be8! ) hxg5 2.Nxe5! ( )
+ 1.Bg5! hxg5? 2.Qh5#
+ 1...Qxa2+! 2.Kxa2 ( 2.Kc1 Bg5+ ) Ra8+ 3.Kb1 Ra1#
+ 1...Qxa2+! 2.Kxa2 Ra5+ 3.Kb1 Ra1#
+ 1...Rxa3+! 2.Kxa3 Qa5#
+ 1...Rxa3+! 2.Kxa3 ( 2.Kb1 Ra1# ) Qa8+ 3.Ba6 ( 3.Kb4 Qa5# ) Qxa6+ 4.Kb4 Qb5+! 5.Ka3Qa5#
+ 1.Rxh7! Kxh7 ( 1...f6 2.Rxa7 Re2!? 3.b4 ) 2.Rh1+ Bh6 3.Rxh6+! Kxh6 4.Qh4#
+ 1.Rxh7! Kxh7 2.Qh4+ Kg8 3.Qh8#
+ 1.Qxh7+! Kxh7 2.hxg6#
+ 1.Qxh7+! Kxh7 2.hxg6#
+ 1...Rxh2+! 2.Kxh2 Qh6+! 3.Kg1 Bxd4+ ( 4.cxd4 Qxa6)
+ 1...Bh2+! 2.Kxh2 Qxd4
+ 1...Ng4+! 2.hxg4 Rh6+ 3.Kg1 Rd1# *
+ 1...Ng3+! 2.hxg3 Rh5+ 3.Bh2 Rd1+
+ 1...Rxh3+! 2.Kxh3 Qh1+ 3.Kg3 Qxh6
+ 1...Rxh2+! 2.Kxh2 Qh1#
+ 1.Nxg6+! hxg6 2.Rh1
+ 1.Nxf6+! gxf6 2.Re7+ Qxe7 3.Rxe7+
+ 1.Rxh7+! ( 1.Qxd4+ ?? Be5+! ) ( 1.Rxh2 ?? Re1+! 2.Kg2 Qg5# ) Qxh7 2.Rxh2 Bh3 3.Qxd4+Kg8 4.Qc4+ Kf8 5.Qc3
+ 1.Rxg7+! Kxg7 2.Rg4
+ 1.Qb7+! Nxb7 2.Nc6+ Ka8 3.axb7+ Kxb7 4.Rxa7#
+ 1.Qb7+!! Nxb7 2.Nc6+ Ka8 3.axb7+ Kxb7 4.Rxa7#
+ 1...Qxh2+!! ( 1...g4? 2.g3! ) 2.Kxh2 Rh4+ 3.Kg1 Ng3!
+ 1...Rh1#
+ 1...Rxa3+! 2.Na2 Rxa2+! 3.Kxa2 Qa5+! 4.Kb3 Qxe1
+ 1...Rxa3+!! ( 1...c3 ?? 2.Re8!! cxb2+ 3.Kb1! ) 2.Kb1 Ra1+ 3.Kxa1 Qa5+ 4.Kb1 Qxe1+ 5.Ka2Qa5+! 6.Kb1 Qxd5
+ 1...Rxh3+!! 2.gxh3 Bf3+ 3.Kh2 Ng4+! 4.hxg4 h5!
+ 1...hxg3#
+ 1...Nxc3+! 2.bxc3 Rab8
+ 1...Nc3+! 2.bxc3 Rd2+!
+ 1...Nh4+! 2.gxh4 ( 2.Kf1 Qh3+ ) Qg4+ 3.Kf1 Qh3+ 4.Qg2 Qd3+ ( 5.Kg1 Re1+ )
+ 1...Qh3+! 2.Kg1 Rxe1+ 3.Bf1 Rxf1#
+ 1.Rg8+! Rxg8 2.Nf7#
+ 1.Ne5!! ( 1...fxe5 2.Bxe5+ ) ( 1...b4 2.Nf7+ )
+ 1.Nc6+! ( 1.f4? Qc5+! ) bxc6 2.Rb1+! Ka7 3.Qa4#
+ 1.Nb6+! axb6 2.Ra4#
+ 1.Qh6! ( 1.Rg3 ?? Bxe5 2.Qh6 Rfe8! ) ( )
+ 1.Rg4#
+ 1...Nf3+! ( 2.gxf3 Rg6+ 3.Kh1 Nf2# ) ( 2.Kh1 Nf2# )
+ 1...Nf3+! 2.gxf3 Rg5+ 3.Kh1 Nf2#
+ 1.Rxf5+! ( 1.Qh7+? Qg7 2.Rxf5+? Ke8 ) Ke7 ( 1...gxf5 2.Qh7+ Ke8 ( 2...Kf6 3.Qg7# ) 3.Rg8#) ( 1...Rf6 2.Qxg6+! ) 2.Qf8+ Kd7 3.Rf7+
+ 1.Rxh6+! gxh6 2.Rg8#
+ 1.Rxc6! ( 1.Rxb8? Rxb8 2.Rxc6 Rxb4 ) Rxc6 2.Rxb8+
+ 1.Bxe5 fxe5 2.Rxc5! bxc5 3.Rxb7
+ 1.Qd5+! Nf7 2.Rxg7+
+ 1.Bxh5! Rh7? ( 1...gxh5 2.Rxg7 ) ( 1...Kg8! 2.Qg2 Kh7 3.Bf3 ) 2.Bxg6! Nxg6 ( 2...Qxg6 3.Qg2!) ( 2...Rxh3 3.Rxh3+! Kg7 4.Bxf7+ ) 3.Qg2 Ne7 4.Qb2+ !
+ 1...Qxe3! 2.fxe3 Rxf1+
+ 1...Qxe6! 2.fxe6 Rxf3
+ 1...Qxe4! 2.dxe4 Rd1#
+ 1...Qxd6!! 2.cxd6 Rc1+! 3.Bxc1 Rxc1+ 4.Qf1 Rxf1#
+ 1.Nb5+! cxb5 2.Nb7#
+ 1.Ne6+! dxe6 2.Ne8#
+ 1.Ng6+! hxg6 2.Qxe7
+ 1.Bf4! d6 ( 1...Qc8 2.Na4! Bc5 3.a3 ) 2.Nd5 ! exd5 3.cxd5
+ 1...Rexe4! 2.fxe4 Rxf2
+ 1...e5! 2.Bxe5 Qxe5! 3.fxe5 Rxf3 4.Qd4 Rxg3+ 5.Kh2 ( 5.Kh1 Rf4! ) Rf2+ 6.Kh1 Rf4 7.Rd2 Rxh4+8.Rh2 Nf2+! ( 9.Qxf2 d4+! )
+ 1.Nd4!! Qb7 b5) ( 1...exd4 2.Qxe6!fxe6 3.Rf8# )
+ 1.Qxf6! gxf6 2.Rg8#
+ 1...Rxf5! 2.exf5 Qxe1#
+ 1...Qxf5! 2.exf5 Rxe1#
+ 1.Qf6+! Qxf6 2.Rxe8+
+ 1.Qf6! ( 1.Rd4? Rc3! ) Nf2+ 2.Kg2 exf6 3.Rxe8#
+ 1.Nf5!! ( 1...exf5 2.Qxc8+ Nxc8 3.Re8# )
+ 1.Qxe8+! Nxe8 2.Rf8#
+ 1.Nd7+! Rxd7 2.Re8#
+ 1.Qxd7+! Rxd7 2.Nc7+! Rxc7 3.Rd8#
+ 1.Re8+! Kf7 ( 1...Kh7 2.Rh8# ) 2.Rf8#
+ 1.Nf6+! Kf8 2.Qxe5! dxe5 3.Rd8+ Ke7 4.Re8#
+ 1.Nxf5! gxf5? 2.Rxg7+ Kxg7 3.Qxf5
+ 1.Nxd5! exd5 2.Rxe7 ( 2...Bxe7 3.Qxh7# )
+ 1...Nxc4! 2.bxc4 Qxc6! 3.dxc6 ( 3.Qb2+ Qf6 ) Rxd2 4.c7 Ra8
+ 1...Qxc4! 2.dxc4 Rxd1#
+ 1.Bxg7+! Kxg7 2.Rxe8
+ 1.Bxe4! Qxe4 ( 1...dxe4 2.Bxg7+ Qxg7 3.Qxg7+ Kxg7 4.Rxd7+ ) ( 1...c5 2.Bxg7+ ( 2.bxc5 Bxc2 4.Bxg7+ Qxg7 5.Qxc2 ) Qxg7 3.Qxg7+ Kxg7 4.Bxd5 cxb4 5.Rdc1 ) 2.Bxg7+ Nxf2 4.Kxf2 ( 4.Bxf2 ?? Bh3! ) Rf8+ 5.Ke1 c5 6.Bxc5 Ba4 7.Nb3
+ 1...Qh5+!! 2.gxh5 Rh4#
+ 1...Qh5+! 2.gxh5 Rh4#
+ 1.Rxh7+! Kxh7 2.Rh6#
+ 1.Qxh5+!! gxh5 2.Rh6#
+ 1.Rh5+! gxh5 2.Qf6#
+ 1.Rh5+! gxh5 2.Qf6#
+ 1...f5+!! 2.gxf6 Qf5+ 3.Kh4 Qh5# *
+ 1...Qh6#
+ 1.Qg6!! fxg6 2.Rxg7+ Kh8 3.Nxg6#
+ 1.Qxh6+! gxh6 2.Rh7#
+ 1.Qg5+!! Bg6! ( 1...fxg5 2.Nh6#! ) 2.Nxe7+! Rxe7 3.Qxf6
+ 1.Qg5+! fxg5 2.Nh6#
+ 1.Qg5+! fxg5 2.Nh6#
+ 1.Qg5+!! ( 1.Nxf8 ?? Qg2+! 2.Kh4 Nf3+ ) fxg5 2.Nh6+ ( 2...Kh8 3.Bb2+ Rf6 4.Bxf6# )
+ 1...Qxa3+! 2.bxa3 Bc3#
+ 1...Qxa3+!! 2.bxa3 Bxd4+ 3.Bc3 Bxc3#
+ 1...f2+! 2.Kf1 ( 2.Kxf2 Qg2# ) Qg2+! 3.Ke2 f1Q#
+ 1...e3!! ( 1...Rc8? 2.Bb2!! Qxb2 3.f6! ) 2.dxe3 Qc6! 3.e4 Qxc1+ 4.Kh2 Bxe4
+ 1...Rxg4+! 2.fxg4 Qg2#
+ 1...Rxf5! ( 1...Bxe4? 2.Qxe4 Qxf5 ( 2...Rxf5 3.Bg4! ) 3.Qxf5 Rxf5 4.Bg4 Rf6 5.Bxe5 ) 2.Bf1 ( 2.exf5Qg2# ) Qh5! ( 2...Qg4? 3.Be2 Qxe4? 4.Qxe4 Bxe4 5.Bc4! ) 3.Be2 ( 3.exf5 Qf3! ) Rf3
+ 1.d5! cxd5 ( 1...Bf7 2.Qh6! Kg8 ( 2...Bxh6 3.Nxf7+ Kg8 4.Nxh6# ) ( 2...Bf6 3.dxc6 ) 3.Qxg7+!Kxg7 4.Ng4+ Kg8 5.Nh6# ) 2.Nxg6+ ! ( )
+ 1.Nxg6+! ( 1.Qh6? Qe8! ) hxg6 2.Qh6+! Bh7 3.Qxg7#
+ 1...Qxf1+! 2.Rxf1 f2#
+ 1...Rxe3! 2.fxe3 Be4! 3.Rf2 ( 3.Qe5 f2+! 4.Qxe4 f1Q! ) Rxa2! 4.Rgf1 Qxf1+! ( 5.Rxf1 f2# )
+ 1...Rxe1! 2.Qxe1 Bxf3#
+ 1...Rxe4!! 2.Rea1 ( 2.Nxe8 Rxe1 3.Qxe1 Bxf3# ) ( 2.fxe4 Qxe4+! 3.Rxe4 Bxe4+ 4.Qg2 Rd1# )Re1!! 3.Nxe8 Bxf3#
+ 1.Rxg5! fxg5 2.Be5!
+ 1.Rxf4! exf4 2.Bb2
+ 1...e4!2.Nd4 ( 2.dxe4 Nc3! 3.Ra1 Qxd2 4.Nxd2 ( 4.Bxd2 Nxe4! ) Ne2+! ) Nxe3! 3.Nxe6 ( 3.Qxe3 Bxd4 )Nxf1! 4.Nxf8 Nxd2! 5.Nxd7 Bd4+ 6.Kh1 Nxb1 7.Nxb6 Bxb6 8.Nc4 ( 8.Nxb1 Ra1 ) exd3! ( 9.Nxb6 Re8! )
+ 1...d3+! 2.Rxe5 dxc2
+ 1...Be4+! 2.Kc1 Ra1#
+ 1...Qxd5! 2.exd5 Bf5+ 3.Qc2 ( 3.Kc1 Ra1# ) Ra1+! 4.Kxa1 Bxc2
+ 1...Rxb3! 2.cxb3 ( 2.Qh8+ Ke7 3.Qh4+ g5! ) ( 2.Rh5 Rxb2+ ) Bf5+ *
+ 1...Rxa3+! 2.bxa3 Bc3+
+ 1...Bxf5! ( 2.Bxf5 Rxg3+! 3.fxg3 ( 3.Kh2 Qxh4+ ) d3+ )
+ 1...e2+! 2.Rxd4 Qe3+
+ 1.Nxe5! dxe5 2.d6 Rb7 ( 2...Qxd6 3.Bxe5 Qd7 4.Bxc7 Qxc7 5.Qe8+ ) 3.Qxe5 Kf8 4.Bxf7 !
+ 1.e6+! Rxd4 2.exf7
+ 1.Rxe4! dxe4 2.Bc4+ Kf8 ( 2...Kh8 3.Nf7+ Kg8 4.Nxd8+ ) 3.Qf4+ Ke8 ( 3...Qf6 4.Nxh7+ ) 4.Bf7+Kd7 5.Qf5+ g3)
+ 1.Rxh6! gxh6 2.Be5#
+ 1.Nf7+ Kg8 2.Nh6+ Kh8 3.Qg8+ Rxg8 4.Nf7#
+ 1.d5! Ne7 ( 1...exd5 2.Bxd5+! Qxd5 3.Rd1! Qe5 4.Qb3+! Kh8 5.Nf7+ ) 2.dxe6 Bxe6 3.Rd1
+ 1.Qg6! fxg6 2.Ne7+! Kh8 3.Nxg6#
+ 1.Nxg6#
+ 1.Ng6! Re8 ( 1...fxg6 2.Ne7+! Kh8 3.Nxg6# ) 2.Rxf7! ( 2.Nxb6? Be6! ) ( 2.Nxc7? Qxc7! 3.Rxf7Qxf7! ) Kxf7 3.Qh5! Be6 4.Nge7+ Kf8 5.Rf1+ Nf6 6.Rxf6+! gxf6 7.Qxh6+ Kf7 8.Qxf6#
+ 1.Ng6#
+ 1.Qf7#
+ 1.Bd2! b4 ( 1...Bb4 2.Bxf7+! Kxf7 3.Qb3+ ) ( 1...Qa4 2.Bb3 ! Qxe4 3.Bxf7+! Kxf7 4.Ng5+ ) 2.Bxf7+ Kxf7 3.Qb3+ ( 3...Kg6 4.Nh4+ Kxh4 6.Kh2 )
+ 1.Qf6+! ( 1.Be6? Nf5! ) gxf6 2.Bh6#
+ 1.Qf6+!! gxf6 2.Bh6#
+ 1.Qe6+!! ( 1.Bh5? c4! ) fxe6 2.Bh5+ g6 3.Bxg6#
+ 1.Qxe6+! fxe6 2.Bh5#
+ 1.Rh4+! gxh4 2.Bf5#
+ 1.h4+! Kh5 2.Rf5+ gxf5 ( 2...g5 3.Bf7# ) 3.Bf7#
+ 1...Rxf4! 2.exf4 Bd4!
+ 1...Rxd5! 2.Rxf4 ( 2.cxd5 Ba6 ) exf4 3.cxd5 ( 3.Bb2 Rd4! ) Ba6! 4.Bb2 ( 4.Qxa6 Qxa6+ ) Bxe2+5.Kxe2 Ra2
+ 1.Qxh5! gxh5 2.Bh7#
+ 1.Qxh5! ( 1.Rd1 ?? Qxg5! 2.Qxg5 Nf3+! ) gxh5 ( 1...Nf3+ 2.Kh1 ) 2.Bh7#
+ 1.Ne4!! fxe4 2.Qxe4+! Rf5 3.Ng6 Qf7 4.Nxe7 Qxe7 5.Re1! Qd6 6.Qxe6 Qf4+ 7.Qe3 Kg8 8.Bxf5Qxf5 9.Rhg1+
+ 1.Nxd6!( 1.Rxb7? Rxb7 2.Nxd6? Bxd6 3.e5 Qxe5! ) Bxd6 2.e5! Qxe5 ( 2...Bxc7 3.Qh7+ Kf8 4.Qxh6+Ke7 5.Qf6+ Kf8 6.e6! Rd6 7.Re1 ) ( 2...Bxe5 3.Rxb7! Rxb7 4.Rc8 Qd7 5.Qh7+ Kf6 6.Qh8+! ) 3.Rxd7 Rxd7 4.Qxd7
+ 1.f6! Qxf6 2.Qh7#
+ 1.e5! dxe5 ( 1...Ne8 2.exd6+ Nxd6 ( 2...Qxd6 3.Qb6! ) 3.Qxg7 ) 2.Qc5+ Ke8 3.Rxf6! ( 3...gxf6 4.Ne4! Qa7 5.Nxf6# )
+ 1.Rxe8+! Qxe8 2.Nf6+ Kh8 3.Qxh7#
+ 1.e5! ( 1...dxe5 2.Bc5 ) ( 1...Nd7 2.exd6 )
+ 1.Be6!
+ 1.R1xd4! exd4 2.Qxh7+! Kxh7 3.Rh5#
+ 1.Qxh7+! Kxh7 2.Rh4#
+ 1.f5+! exf5 2.Qxh6+!! gxh6 3.Rag8# Rb4 b3)
+ 1.Qxh6+! gxh6 2.Rdg8+ Kf6 3.Rxh6#
+ 1.Bxe6! Nxf3 ( 1...Qxe6 2.Qxe6 fxe6 3.Rxf8+ ) 2.Qxg6+! Kh8 3.Qxh5+ Kg7 ( 3...Kg8 4.Rxf3 )4.Nf5+
+ 1.Qxg6+! Kf8 2.Qxf7#
+ 1.Qxf6+! gxf6 2.Bh6#
+ 1.Bxg6! fxg6 ( 1...hxg6 2.Qh8# ) 2.Qe6# *
+ 1.Rh8#
+ 1.Nxg6!!( 1.Bd5? Rc5! ) fxg6 ( 1...hxg6 2.Rh4 f6 3.Rxf6 Bf7 4.Rxg6+ ! Bxg6 5.Bd5+ ) 2.Bd5 Bxd5+ (2...Qd7 3.Rf8+! ) 3.Qxd5+ Kg7 ( 3...Kh8 4.d7 ) 4.Qf7+ Kh8 5.Rh4 h5 6.d7 Re1 7.Rxe1
+ 1.Re7+! Kg8 2.Qxf6
+ 1.Rxd3! cxd3 2.Ne6+! fxe6 3.Rc7+!
+ 1.Bxg6! fxg6 2.Qxh7#
+ 1.Rxf4! exf4 2.Bxg6! fxg6 3.Re7 Rf7 ( 3...h5 4.Qg5! ) 4.Rxf7 h5 5.Re7! Qxb2 6.h3 Qc1+ 7.Kh2 Kg7 9.f8Q+!
+ 1...Qxf3+! 2.Qxf3 Be4
+ 1...Nxe4! 2.Nxe4 Bd4+ 3.Kh1 Rxe4! 4.Bxe4 Re8 5.Rf4 Bxe4+ ! 6.Rxe4 Qb7! 7.Re1 gxf5 8.Qg2Rxe4 9.Rf1 ( 9.Rg1 Rg4!! ( 9...Bxg1? ) Rxg1# ) ( 9.Bf6+ Kf8 Kd7 Ke6 ) Qxb2!
+ 1.Qh7! and 2.Qh8#
+ 1.Nd5!!exd5 ( 1...Bxd5 2.exd5 Nxe3 3.Bxg7+! Ke8 ( 3...Kxg7 4.Qh7+ Kf6 5.fxe3+ ) 4.fxe3 ) 2.exd5 Bf6!( 2...Nxe3 3.Bxg7+! Ke8 4.fxe3 Bb7 5.Rxf7 !! Kxf7 6.Qg6+ ) 3.Qh7! Be5 ( 3...Nxe3 4.Bxf6 Ke8 ( 5...Ke7 6.Qxe3+ Kf8 7.Qh6+ ) 6.Re1! Kd7 7.Qh3+! f5 8.Qxf5+ ) 4.Rxe5! Nxe5 (4...dxe5 5.Ba3+ Ke8 6.Qg8+ Kd7 7.Bf5# ) 5.f4! 5...Bxd5 6.cxd5 Qc5+ 7.Rf2 Nd7 8.Bxg7+ Ke7 9.Qe4+ )
+ 1...Nb3+! 2.axb3 Ra5#
+ 1...Nb3+! 2.cxb3 Ra1#
+ 1.Rh7+! Kxh7 2.Qg7#
+ 1.Rh7+! Nxh7 2.Qg7#
+ 1.Rc5! ( 1.Rg8+! Nxg8 2.Rc5 ) Qxc5 2.Rxh7+! Nxh7 3.Qg7#
+ 1.Rxh7+! Kxh7 2.Qg7#
+ 1...Be3+! 2.Qxe3 Rf1#
+ 1...Bd4+! 2.cxd4 Rf1+! 3.Nxf1 Qxf1#
+ 1...g5! ( 1...Nh4+ ?? 2.Rxh4 Rf2+ 3.Kh1 Qxg3 4.Qc3+! Qxc3 5.Nxc3 ) 2.Rg4 ( 2.Rf3 Nh4+! 3.gxh4Rxf3 ) Ne3+! 3.Rxe3 Rf2+ 4.Kg1 Qf6! ( 5.Re1 Rg2+! 6.Kh1Rh2+! 7.Kxh2 Qf2+ )
+ 1...Rg2+! 2.Kxg2 Qf2+ 3.Kh3 Qxh2#
+ 1.Rxe6! Qf8 2.Re8! Qxe8 3.Qg7#
+ 1.Nd6! ( 1.g3? Rd8! ) ( 1...cxd6 2.Rxe6! Qxe6 3.Qg7# )
+ 1.Qxg6! fxg6 2.Rxf8+
+ 1.Ng6! ( 1.Nc6 ?? Nxc6! 2.Qxf5? exf5 3.Rxe7 Nxe7 ) Qf7 2.Ne7+! Qxe7 3.Qxf5 ( )
+ 1...Rxf1+! 2.Kxf1 Qh1+ 3.Ke2 Qd1#
+ 1...Qh1+! 2.Kxh1 c1Q+ 3.Kg2 Qc6+ ( 4.Kf1Qh1# ) ( 4.Kg1 Rb1+ )
+ 1.e5! dxe5 2.Qh4! Qe7 3.Ne4
+ 1.Ne4!
+ 1.Nc5!! ( 1.Bd7+? Rxd7 2.Rxd7 Nxd7 3.Rxd7 Qe8 ) (1...f5 2.Bd7+! Nxd7 3.Nxd7 ) ( 1...Rxd5 2.Qg4+! ( 2.Rxd5? c6! 3.Qg4+ Kc7 4.Ne6+ Kc8 ) ) ( 1...bxc5 2.Qg4+! ) ( 1...h5 2.Qe4! Rxd5 3.Qf5+! )
+ 1.Nd6+! cxd6 2.Qxd4
+ 1.Bh8!! Kxf7 2.Qxh7+ Kf8 3.Qg7#
+ 1.Bxg7+ Kg8 2.Bh8!! Kxf7 3.Qxf6+ Kg8 4.Qg7#
+ 1...Ne2+! ( 1...Ne4? 2.Nf3 Rxf3 3.gxf3 Qg3+ 4.Kf1 Qxf3+ 5.Kg1 Qg3+ = ) ( 1...Nf5? 2.Bxf5 Qh2+3.Kf1 ) 2.Qxe2 Qh2#
+ 1...d2+! 2.Kxd2 ( 2.Qxd2 Qb1# ) Qd3+! 3.Kc1 Qc2#
+ 1...d2+! 2.Kxd2 ( 2.Qxd2 Qb1# ) Qd3+ 3.Kc1 Qb1+ 4.Kd2 Qxa2+ 5.Kd1 Qc2#
+ 1...Nxe3+! 2.Bxe3 Bh3!
+ 1...Nxe4+! 2.fxe4 Bh4
+ 1...Nf3+! 2.gxf3 Bxc3
+ 1...Nh3+! 2.gxh3 Bxd2
+ 1...Nh2+! 2.Nxh2 ( 2.Ke1 Nxf3+! ) Qxd2
+ 1...Nf3+! 2.Kg2! ( 2.Rbxf3 Bxd4+ 3.Kg2 Qxb5 ) Qxb5! ( 2...Nxd4 ?? 3.Rxf8+!! Rxf8 4.Qxd7 ) 3.Nxb5 Nd2
+ 1.Be6+! dxe6 2.Qh7#
+ 1.Bc4+! bxc4 2.Qh7#
+ 1...Qh3+ 2.Kg1 Qg2#
+ 1...Bd3+! 2.Kg1 ( 2.Qxd3 Qh3+ 3.Kg1 Qg2# ) Qh3 3.Ne3! dxe3 4.fxe3 Qg2+
+ 1.Re8 Qxe8 2.Qg7#
+ 1.Bc5! Qxc5 2.Qh6
+ 1.Bf5+! Nxf5 2.Qg8#
+ 1.Bf5+!! Qxf5 ( 1...Rxf5 2.Qg8+ Kh6 3.Qh8+ Kg5 4.Qxg7+ Kh4 5.Qg3# ) 2.Qg8+ Kh6 3.Qh8+Qh7 4.Rd6+ Rf6 5.Rxf6+ gxf6 6.Qxf6+ Qg6 7.Qxg6#
+ 1.Nd7! Qxd7 ( 1...Nh5 2.Nf6+! Nxf6 3.Bxf6 ) 2.Bxf6 g6 3.Qg5 ( 3...Re8 4.Qh6 )
+ 1.Nxf7+! Bxf7 2.Qxg7#
+ 1...Rc3+!! 2.Rf3 ( 2.bxc3 Rxg2# ) Rxg2+! ( 2...Bxf3 ) 3.Kxg2 Rxf3
+ 1...Rxg2+! 2.Kh1 Rd2+!
+ 1...e3! 2.Qxe3 Be4+
+ 1...d4!! 2.Bxd4 Nxd4 3.Qxd4 Be6! ( 4.c4 Rad8! 5.Qe3 Bxc4 )
+ 1.Na4! Qd8 ( 1...Qc7 2.Nb6! axb6 3.Qxa8 Na6 4.Qa7 ) 2.Nb6! ( 2...Qxb6 3.Ba5 ) ( 2...axb6 3.Qxa8 )
+ 1.Nf5! ( 1...Qb8 2.Rh7+! Nxh7 3.Qg7# ) ( Kg8 3.Qg3+ Kh8 4.Qg7# ) ( 1...Nxd7 2.Qh2+ Kg8 3.Qg3+ Kf8 4.Qg7# )
+ 1.Rxh7+! Nxh7 2.Qg7#
+ 1...Rxc5! 2.dxc5 Bc3#
+ 1...Rxg4! 2.Qxg4 f5! 3.Qh4 Be4+ 4.Ka1 Nc2+ 5.Kb1 Nd4+ 6.Ka1 Nxb3+ 7.axb3 Qa5+
+ 1.Nxf7+! Rxf7 2.Qxh5#
+ 1.e4! dxe4 2.Bb5+ Ke7 ( 2...Kd8 3.Ne5 Bg6 4.Rc1 ) 3.Qa3+ Kf6 4.Nxe4+! Bxe4 5.Be5+ Kh6 7.Qh3 f5 8.Be2! Nf6 9.Bxf6 g5
+ 1.Nb4! Rb6 ( 1...Ra7 2.Nc6! ) ( 1...Ra5 2.Nc6! ) 2.f4! exf4 3.Bf2! Rxb4 4.Bxb6
+ 1.e6! Bxe6 2.Be5
+ 1...e3! 2.Rxe3 Be4! 3.Nc5 ( 3.R1e2 Bxc2+! ) Qc6! 4.Qxf6! Bxc2+
+ 1...d3! 2.Bxd3 Bd4!
+ 1.Nxf7+! Bxf7 2.Qxh6#
+ 1.Nxe6!! Rxc4 ( 1...fxe6 2.Qc3! Rxc4 3.Qxg7# ) 2.Nh6+! 2...gxh6 3.Qxh6 ) ( 2...Kh8 3.Bxg7# )
+ 1.Rxe5! Qxe5 2.Qxd8#
+ 1.Nc7+! Qxc7 ( 1...Ke7 2.Rxc5 ) 2.Rxc5! Qe7 ( 2...Qxc5 3.Qd7+ Kf8 4.Rf1+ Kg8 5.Qf7# ) 3.Re5!Qxe5 4.Qd7+ (add ( 4...Kf8 5.Rf1+ )
+ 1...Rb1+! 2.Kxb1 Qb5+ 3.Qb4 ( 3.Kc1 Qb2# ) Qxb4+
+ 1...Nxf3! 2.Nxf3 Nxe4! 3.Nxe4 Rxb2+! 4.Kc1 Rb1+! 5.Kxb1 Qb8+! 6.Kc1 Qb2#
+ 1...Rh1+! 2.Kxh1 Rh5+ 3.Kg1 Rh1+ 4.Kxh1 Qh5+ 5.Kg1 Qh2#
+ 1...Bb5!! 2.axb5 Nhg3+! ( 2...Nfg3+ ) 3.Nxg3 Nxg3+ 4.hxg3 hxg3+ 5.Kg1 Rh1+!! ( 5...Bc5+ ! )6.Kxh1 Rh8+ 7.Kg1 Bc5+! 8.Nxc5 Rh1+! 9.Kxh1 Qh8+ Qh2# NN
+ 1.Qf6+! Bxf6 2.Nf7#
+ 1.Qf6+!! Bxf6 2.Nf7#
+ 1...Qd1+!! 2.Rxd1 Nb3#
+ 1...Nb3#
+ 1.Qh8+!! ( 1.Nd2? Qc6! ) Kxh8 2.Bf6+ Kg8 3.Rd8#
+ 1.Qh8+! Kxh8 2.Bf6+ Kg8 3.Rd8#
+ 1...Qh1+! ( 1...Bxf1? 2.Qe4! ) 2.Kxh1 Bf3+ 3.Kg1 Ne2#
+ 1...Qh1+!! ( 1...Nc6? 2.Nd2! Nxd4 3.Qxd4! Qc6 4.Bf6! ) 2.Kxh1 Bf3+ 3.Kg1 Ne2#
+ 1.Qxe8+! Nxe8 2.Nf7+ Kh7 3.Nxh6
+ 1.Qxf5!! ( 1.Rxf5? gxf5! ) Rxf5 2.Ne6+ Kf7 3.Nxc7
+ 1...Qxe1+!! 2.Rxe1 Nf2+ 3.Kg1 Nxg4
+ 1...Qxe1+! 2.Rxe1 Nf2+ 3.Kg1 Nxg4
+ 1...Qe1+!! 2.Rxe1 Nf2+ 3.Kg1 Nxh3+ 4.gxh3 hxg6
+ 1...Qxe1+! 2.Rxe1 Nf2+ 3.Kg1 Nxh3+
+ 1.g6+! Bxg6 2.Ng5+ Kg8 3.Nxf7
+ 1.e6+! Bxe6 2.Ne5+ Ke7 3.Nxd7
+ 1.b6! axb6 2.Nb5 Qc5 3.Nxc3
+ 1.c6! exf4+ ( 1...bxc6 2.Nc5+! Kd6 3.Nxb3 ) 2.Kxf4 2...b6 3.c7! )
+ 1.b6+! Nxb6 2.Nb5+! Kb7 3.Nxc7
+ 1.f6+! Bxf6 2.Nf5+ Kg6 3.Nxe7+ Bxe7 4.Rxf7
+ 1.e5! dxe5 2.Ne4 Qb6 3.Nd6+ Ke7 4.Nxe5! fxe5 5.f6+ Bxf6 6.Rxf6! Rcf8 ( 6...Kxf6 7.Qf3+ Ke7 (7...Kg5 8.Nxf7+ Kg6 9.Nxe5+ Kg5 Kf6 ) 8.Qxf7+ Kd8 9.Nxc4 Qb7 ) 7.Qxe5 h3 8.Qg5 hxg2+ 9.Kxg2 Rhg8
+ 1.Rxf2!! ( 1.Rb1 ?? Qf4! ) ( 1.Rxf5? Qd4! 2.Rxf6+ Kg7 ! ) gxf2 2.Rxf5! Kxf5 3.g4+! Kxg4 4.Kg2
+ 1.g4+! Kxg4 2.Kg2
+ 1.Rd7+! Bxd7 ( 1...Kxd7 2.Qe7+ Kc8 3.Qc7# ) ( 1...Kc8 2.Rc7+ Kb8 3.Rf7+! Ka8 4.Rxf8+ ) 2.Qe7+! Kc8 3.Qxf8+ Kb7 4.Qb8+ Ka6 5.Qa8#
+ 1.Rc7+! Kxc7 ( 1...Kb8 2.Rb7+ Ka8 3.Qxc5 Bxc5 4.Rxb6# ) 2.Qd7+ Kb8 3.Qb7#
+ 1.Rxf8+! Rxf8 ( 1...Kxf8 2.Qf7# ) 2.Qxh7#
+ 1.Bd8! Qxd8 2.Ng5! h6 ( 2...Nf8 3.Rxf8+! ) 3.Nf7 ! Qe7 4.Qxg6 Rf8 5.Be4!
+ 1.Bxf7+! Rxf7 2.Nc4
+ 1.Na6! Be6 2.Nac7+!
+ 1...Rxd3! 2.Bxd3 c4! 3.Qd6 ( 3.Bxc4 Qc5+! 4.Kh1 Qxa3 ) Ne8! ( 3...cxd3? 4.Qxc6! Rxc6 5.Rb8+! ) 4.Qb4 Qxb4 5.cxb4 cxd3
+ 1...c3! 2.Bxc3 ( 2.Qxc3 Rxe2 ) Qc4+! 3.Kb2 Rxe2
+ 1...c3!!( 1...Re8? 2.Re1!! Qxe4? 3.Bxc5 ) ( 1...Ra4? 2.Nc6! Bxc6 3.dxc6 Ra2 4.Bd4 ) 2.b3 ! ( 2.bxc3? Nc4!3.Bxc5? dxc5 4.Na2 Ne3 ) ( 2.Bd4? Qxe4! 3.Qxe4 Nxe4 4.Bxb6 cxb2 ) Ra3! 3.Nd4 ( 3.Rb1?! gxf5!?4.Nh4 fxe4 !? ) ( 3.Bd4?! Qxe4! 4.Qxe4 ( 4.Bxg7 Qxb4! ) Nxe4 5.Bxb6 Rxb3 6.Ba5!? Rb2 !? ) (3.e5!? Nxd5!? 4.f6 Bxf6 5.Nxd5 Bxd5 6.Bxc5 dxc5 7.exf6 Qxf6 8.Ne1 Qd4 9.Bxd5 Qxd5 ) ( 3.Ng5? h6! ) ( 3.fxg6 hxg6 ) Nxd5 !! 4.Nxd5 ( 4.Nbc6 Bxc6 5.Nxc6 Nxe3!! 6.Nxe7+ Kf8 .) Bxd5 5.f6 Bxf6 6.Rxf6 Bxe4! 7.Bxe4 ( 7.Re6!? fxe6 8.Bxe4 Nxe4 9.Qxe4 Ra2+ d5 ) Qxf6! 8.Bg2 ( 8.Nxb5? Rxb3! 9.Bd4! Qe6! Rxc3! Nxe4 ) b4!
+ 1...c3+! 2.Nxc3 Nc4+ 3.Kc2 Nxd2
+ 1.Qe5+! Bxe5 2.Bxe5#
+ 1.Qf6+! ( 1.Bxe5+? Qxe5 ) Bxf6 2.Bxf6#
+ 1.Qf6+! Bxf6 2.Bxf6#
+ 1.Qf6+!! ( 1.Bxd4+ ?? Nxd4 ) Bxf6 2.Bxf6#
+ 1...Nf2+! 2.Kg1 Nh3#
+ 1...Qd4+! 2.Bxd4 Bxd4+ 3.Qf2 ( 3.Rf2 Nf4 ) Nf4 ! 4.Qxd4 Nh3#
+ 1...Qf1+! 2.Rxf1 Rxf1#
+ 1...Qf1+! 2.Rxf1 Rxf1#
+ 1.Rxg7+! Qxg7 2.Rxg7#
+ 1.Bc5! Qxe2 2.Rxe7+! ( 2.Rxe2 ?? Rd1+ ) Qxe7 3.Rxe7# NN
+ 1.Qf8+ Rxf8 2.Rxf8#
+ 1.Rc8! Qxd7 ( 1...Rxc8 2.Qe7!! Qc6 3.d8Q+! ( 3.d8R+! ) ) 2.Qf8+! ( 2...Rxf8 3.Rxf8# )
+ 1.Qf8+! Rxf8 2.Rxf8#
+ 1.Ne7+! R8xe7 ( 1...R2xe7 2.Qxe7! Rxe7 3.Rd8+ ) 2.Rd8+ ( 2.Qxe7 ?? Qxc2# ) Re8 3.Qf8+!Rxf8 4.Rxf8#
+ 1...Qxe3+!
+ 1...Bxd4+!! 2.Kf1 ( 2.Rxd4 Re1+! 3.Kf2 Rf1+!! ) Re3 !! 3.Nxe3 Qxd3+! )
+ 1.Qxe8+! Rxe8 2.Rxe8+
+ 1.Bd4+! ( 1.Qxe8+ ?? Rxe8 2.Bd4+ Be5! 3.Rxe5 Rxe5 4.Bxe5+ Ng7! ) Ng7 ( 1...Rxd4 2.Rxe8+Kg7 3.Qxf3 ) 2.Qxe8+ Rxe8 3.Rxe8+ Qf8 4.Rxf8#
+ 1...Qd1+! 2.Rxd1 Rxd1+
+ 1...e4! 2.Qxe4 ( 2.Qe2 e3! ) Rxc2! ( 2...Qxh5? 3.Qxe7 Rxc2! 4.h3! ) ( 3.Rxc2 Qc1+!! 4.Rxc1 Rxc1+ )
+ 1.Rxe6+!! Bxe6 ( 1...fxe6 2.Bg6# ) 2.Bb5+! ( Be7 4.Qxc5! )
+ 1.Be5+!
+ 1...Nf3! 2.Qc4 ( 2.Qxe8+ Qxe8 3.gxf3 gxf3! 4.Rxf3 ( 4.Nd3 Qe2 5.Rf2 Qd1+ ) Qc6! 5.Kg2 Qxc5!6.Rf8+ Qxf8 ) Re2 ( 2...Nd2 )
+ 1...Nf3+!
+ 1.Qd5+! Kh7 2.Qxe4
+ 1.Nd4! ( 1.Rc4? Rd6 ) f5 ( 1...exd4 2.Qb3+! Kf8 3.Qxd1 ) 2.Nxc6! ( 2...fxe4 3.Qb8+! Kf7 4.Nxe5+ Ke7 5.Nxd7 )
+ 1.Rd7! Bxd7 ( 1...Nxd7 2.Qxf7+ Kh8 3.Qxe8+ ) 2.Bxh7+! Nxh7 3.Qxf7+ Kh8 4.Ng6#
+ 1.Rf7! Bxf7 2.Qxh7#
+ 1.Re7! Bxe7 2.Qxg7#
+ 1.Rd7! ( 1.Rd8? Qxd8 2.Qxf7+ Kh8 3.Bc4 Be6! ) Bxd7 ( 1...g6 2.Rxc7 gxh5 3.Nxf7 ) 2.Qxf7+ Ng6 4.Qg8+! Rxg8 5.Nf7#
+ 1...Rf3! 2.Bxf3 Qxh3#
+ 1...Bxh3! ( 1...Rd3? 2.Bxd3 Bxh3 3.Bxh7+! ) 2.gxh3 Rd3! 3.Qxd3 Nxd3 4.Bxd3 Qd6+! 5.Kg2Qxd3
+ 1...Ng4! 2.hxg4 Rf3! 3.Nf5 ( 3.gxf3 Qxg3+ 4.Kh1 Bxf3+ ) Rxb3 4.Bxb3 Qb6! 5.Bc4 Qxb2
+ 1...Qxg3#
+ 1.Be8! Qf5 ( 1...b5 2.Qa5+! Kc8 3.Qa6+ ) 2.Re6! ( )
+ 1.Rc6! bxc6 2.Qxc7#
+ 1...Re4!! 2.fxe4 Qxc4+! 3.Ke3 ( 3.Kxc4 Bb5# ) Qxc3+ 4.Rd3 Qc2 Bb5 (add
+ 1...Qxc3+! 2.Kxc3 Bb4#
+ 1...Bg4!
+ 1...Bd4+!! 2.cxd4 ( 2.Kh1 Re8! ) Re8! 3.Qxe8+ Qxe8 4.Nxc4 Qe2! 5.Bd2 Rxd2 6.Nxd2 Qxd2
+ 1.Qh6+! Kxh6 ( 1...Kg8 2.Qf8# ) 2.Bf8#
+ 1.R1b4! ( 1.R7b4 ) axb4 2.Qh6+! ( 2...Kxh6 3.Bf8+ Kh5 4.Be2#)
+ 1.Nd5! ( 1.Rd5? Qc7! ) cxd5 ( 1...Bd8 2.Bh6 ) 2.Bh6! Bg4! (2...g6 3.Qe5 ! f6 4.Qxe7 ) 3.Qxg4 g6 4.Bxf8 f5 5.Qf4 Bxf8 6.Nf6+
+ 1.Ne8+! ( 1.Nxh5+? Kh6! ) Kh6 2.Qh8#
+ 1...Rd1! ( 2.Kxd1 h2! )
+ 1...Re1+! 2.Kxe1 h2
+ 1.Qh2 ( 1.Re2? Rxh3+! 2.gxh3 Qxh3+ 3.Rh2 Qf3+ != ) add ( 1...Bxh2 2.e8Q )
+ 1.Bf6! exf6 2.Qxg7#
+ 1.Be5! ( 1.Ne8? Qb2 ) Rxe5 2.Ne8! Nf5 3.Nf6+ Kh8 4.Qg8# b6)
+ 1.Re8#
+ 1.Qg3!! Qxh6+ ( 1...Rxg3 2.Rxe8# ) 2.Qh3! Qd6 3.Kh1 ! Kg8 4.Rxe8+ Kf7 5.Rh8
+ 1...Nf2+! 2.Rxf2 Re1+
+ 1...Bf2!! ( 2.Rxf2 Qg1# ) ( 2.Bxf2 Qe4+ ) ( 2.Qc8+Rg8 3.Qxg8+ Kxg8 4.Rxf2 Qe4+ 5.Rg2+ Kf8 )
+ 1.Bd6!! ( 1.Re8+? Bf8 ) Bxd6 ( 1...R3xd6 2.Re8+ ) 2.Qxd3 Bxh2+ ( 2...Qh5 3.g3! ) 3.Kxh2 Qh5+!( 3...Rxd3 4.Re8+ ) 4.Qh3! ( 4.Kg1 ?? Rxd3 5.Re8+ Qxe8 )
+ 1.Bf6+!
+ 1...Bd6!! ( 2.Rxd6 h2 ) ( 2.Bxd6 d1Q ) ( 2.Kxd2Bxc7 )
+ 1...Bf3!! 2.Rxf3 ( 2.Bxf3 f1Q ) h1Q
+ 1.Re8+! Bxe8 ( 1...Qxe8 2.Qxf6# ) 2.Qf8#
+ 1.Re8+! ( 1.a4? Qf8! ) Bxe8 ( 1...Qxe8 2.Qxf6# ) 2.Qf8# ( 2.Qg8# )
+ 1.Re8+! Kh7 ( 1...Rxe8 2.Qxd6 ) 2.Rxd8!
+ 1.Rd8+!! Rxd8 ( 1...Bxd8 2.Qe8# ) 2.Qxb7
+ 1.Qxe6! Rxe6 2.Rf8#
+ 1.Ne4!! ( 1.Ne6 ?? Qxe6 2.Qf8+ Qg8 ) ( 1.Nd3? Qe6 2.Qxe6 Nxe6 ) Qxf1+ ( 1...Qxe4 2.Qf8+!Rxf8 3.Rxf8# ) 2.Qxf1 Rxe4 3.Qf8#
+ 1.Bc6! Qxc6 ( 1...Qxa3 2.Rxa3 ) ( 1...Bc8 2.Bxd7 ) 2.Qxf8+! Kxf8 3.Re8#
+ 1.Qxf8+! Kxf8 2.Re8#
+ 1...Qf5! 2.Qe2 Ne3!! ( 2...Qb1+? 3.Kg2 d1Q 4.Qe7+ ! = ) (3.fxe3 Qb1+! ) ( 3.Qxd2 Qg4+! 4.Kh2 Qg2# )
+ 1...Qg4+! 2.Qxg4 hxg4
+ 1.Bf7! ( 1.gxh7? Bf7 ) Bxf7 2.Qxh7#
+ 1.Be6!!Nc6 ( 1...Nxe6 2.Bxe5+ Kg8 3.Qf6 Qxe5 4.Qxe5 Rxf7 5.Qxe4 ) 2.Rd7 Rxd7 3.Rxd7 Qb8 ( 4...Kxh7 5.Qh6# )
+ 1...Bd2!! ( 1...Rxd5? 2.Rxd5 Re1+ 3.Kxf2 Rxh1 4.Rxg5 ) 2.g3 ( 2.Rxd2 Re1# ) Rxd5
+ 1...Bg5!! ( 1...Qe4? 2.Qd5! ) ( 1...Re8? 2.Kxf2 ) ( 1...Rf5? 2.Qg4 d5 3.Nd6! ) 2.Nxd6 ( 2.Qxg5 Qh3+) Bd2!!
+ 1...d4! 2.Bxd4 Nxd4 3.Qxd4 Bxc3 4.Qxd7 Qa3
+ 1...Qa3! 2.Rxd5 Qb2#
+ 1.Qd8! Qe4 2.Be7 ( Rxe7 4.Rd8+ )
+ 1.Be7! Qxe7 2.Qxe7 Rxe7 3.Rd8+
+ 1...Bc2!! ( 2.Nxc2 Qxg2# ) ( 2.Qxc2 Rxe1# )
+ 1...Bf2+! 2.Qxf2 ( 2.Nxf2 Qxh2# ) Nxf2 3.Kxf2 Qxh2+
+ 1.Nc6!! ( 1.Rxe4? Qxb5! ) Rg7 ( 1...Bxc6 2.Qxc7# ) ( 1...Qxc6 2.Nxa7+! Kb8 3.Nxc6+ ) ( ) 2.Nbxa7+ Kd7 3.Qe5 Bxc6 4.Qxg7+ Kd6 5.f3 (5...Nxd2 6.Qe7# )
+ 1.Rxc6+! Qxc6 2.Na7+ Kc7 3.Nxc6
+ 1.Qg5! ( 1.Bc2? Bxf5 ) ( 1.Rxg7? Kxg7 2.Qg5+ Kh7! ) Bh8 2.Qh6+! Ke7 3.Rg7! Bxg7 4.Qxg7Qf8 5.Bxf6+ Ke8 6.Qxf8+ Kxf8 7.Bxe5 cxd3 8.Bxd6+ Kg7 9.g4!
+ 1.Bh7!! ( 1...Qxe2 2.Bxh6# )
+ 1.Bh7+! Kxh7 2.Qxd5
+ 1.g4!! ( 1.Rd1 ?? h6! ) ( 1...Qxf3 2.Rc8+ ) ( 1...h6 2.Qxh3)
+ 1.f6! Rg7! ( 1...Qxe5 2.Rd8# ) 2.Rd8+ Kh7 3.fxg7 Qxe5 4.g8Q+
+ 1...Nf4+! 2.Bxe4 Qxg5!
+ 1...Nf6!! ( 2.Rxd8+ Nxd8 3.Bxf6 Qe1+ 4.Bf1 Qxf1# )
+ 1...Bd1!! 2.Nxf7+ Kg8 3.Rxe8+ Nxe8 4.Qe7 ( 4.Qxb2 Qe1# ) Re2 c6)
+ 1...Bd2+! 2.Kxd2 Rxb3
+ 1.Bd8! ( 1...Raxd8 2.Qxf7+ Kh8 3.Qxg7# ) ( )
+ 1.Bf7+! Bxf7 2.Qxg7#
+ 1...Be3!! 2.Bxf7 ( 2.Rxe3 Rxf1+ 3.Kg2 Rg1# ) Qxe4+ 3.Qg2 Qxg2+ ( 4.Kxg2 Bxc1 5.Rxc1 Rxf7 )
+ 1...Bxh2+! 2.Kxh2 Rxf3
+ 1.Rf1! Rd8 ( 1...Qe7 2.Bf7+! Kh8 3.Bd5!! ( 3.Bc4? Rd8! ) ) ( 1...Qd8 2.Qf7+ Kh8 3.Qxf8+ ) 2.Bf7+Kh8 3.Be8! ( 3...Rxe8 4.Qxf8+ Rxf8 5.Rxf8# )
+ 1.Be8!! Qxe8 2.Qxf8+ Qxf8 3.Rxf8#
+ 1...Rxe1+ 2.Qxe1 Qg2#
+ 1...Bc4! 2.Qxc4 Qh3
+ 1.Bd6! Qxd6 2.f8Q+ Qxf8 3.Rxf8#
+ 1.Bc7!! ( 1.Bf6? Qxd7! ) Rxc7 2.Re8+ *
+ 1...Bc3+! 2.Ka2 ( 2.dxc3 Qa3# ) Nb4+ 3.Ka3 c1Q+ ! 4.Nxc1 ( 4.Rxc1 Nc2+ 5.Ka2 Qa3+ 6.Kb1Qb2# ) Nd3+ ! 5.Ka2 ( 5.Kb3 Qb4+ 6.Kc2 Qb2+! 7.Kxd3 Qxd2# ) Qa5+ 6.Kb1 Qa1+ 7.Kc2Qb2+ 8.Kd1 Qxd2#
+ 1...Bf2!! ( 1...Rc7? 2.Be6+! Kh8 3.Qf8+! ) 2.Rxf2 Qd8! 3.bxc3 Rf8! 4.Qxf8+ Qxf8 5.Rxf8+ Kxf8
+ 1...Qg1+! 2.Rxg1 Nf2#
+ 1...Qg1+! ( 1...f6? 2.h3 Qg3 3.Be1! ) 2.Rxg1 Nf2#
+ 1.Nf7+ Kg8 2.Nh6+ Kh8 3.Qg8+! Rxg8 4.Nf7#
+ 1.Nf7+ Kg8 2.Nh6+ Kh8 ( 2...Kf8 3.Qf7# ) 3.Qg8+!! Rxg8 4.Nf7#
+ 1.Qg8+! Rxg8 2.Nf7#
+ 1.Qf8+!! ( 1.Ne7+ ?? Rxe7! 2.Qxe7 Qh1+!! 3.Nxh1 Rg2# ) Rxf8 ( 1...Kxf8 2.Rh8# ) 2.Ne7#
+ 1.Nf7+! Rxf7 2.Rd8+
+ 1.Qg8+! Kxg8 ( 1...Rxg8 2.Nf7# ) 2.Ne7+ Kh8 3.Nf7+! Rxf7 4.Rxc8+ Rf8 5.Rxf8# E.
+ 1.Qxg7+! Nxg7 2.Nf7#
+ 1.Qf7!! Rg8 ( 1...Rxf7 2.Nxf7+ Kg8 3.Nxd8 Bxh6 4.Nxb7 ) 2.Qxf6 ! ( 2...exf6 3.Nf7# ) ( 2...Be8 3.Bxg7+ Rxg7 4.Qxg7+! Kxg7 5.Ne6+ ! )
+ 1.Nf7+ Kg8 2.Nh6+ Kh8 ( 2...Kf8 3.Qf7# ) 3.Qg8+ Rxg8 4.Nf7#
+ 1.Neg5! fxg5 2.Rxd7 ( 2.Nxe5? Bd6! ) Qxd7 3.Nxe5 (3...Qxb5 4.Nf7+ Kg8 5.Nh6+ Kh8 6.Qg8+! Rxg8 7.Nf7# ) ( 3...Qe8 4.Nf7+ Kg8 5.Nd6+! )
+ 1.Qh7+!! Nxh7 2.Ng6#
+ 1.Qh7+! Nxh7 2.Ng6#
+ 1...Ng3+ 2.Kh2 Nf1+ 3.Kh1 Qh2+! 4.Nxh2 Ng3#
+ 1...Bxf2! 2.Qxf2 ( 2.Rxf2 Ng3+ 3.Kh2 Nf1+! 4.Kh1 Qh2+! 5.Nxh2 Ng3# ) Ng3+ 3.Kh2 Nxf1+4.Kh1 Ng3+ 5.Kh2 Nxe4+
+ 1.Qf7+! Nxf7 2.Ne6#
+ 1.Qf7+!! ( 1.Rf3? gxf6 2.Qxf6+ Kg8 3.Qe6+ Kg7 4.Qe5+ Kg8 = ) Nxf7 2.Ne6#
+ 1...Qc2+! 2.Nxc2 Nb3#
+ 1...Qb2+!! 2.Nxb2 Na3#
+ 1...Qg2+! 2.Nxg2 Nf3#
+ 1...Qg2+! 2.Nxg2 Nf3#
+ 1.Qg7+! Nxg7 2.Nh6#
+ 1.Nf5+! Kg8 ( 1...gxf5 2.Qg5# ) 2.Qh6! Nh5 3.Qg7+! ( 3.g4? gxf5! ) Nxg7 4.Nh6#
+ 1...Rb1+!! 2.Rxb1 Nc2#
+ 1...Rb1+! 2.Rxb1 Nxc2#
+ 1.Qf8+!! Rxf8 2.Ng7#
+ 1.Qg8+! Rxg8 2.Nxh7#
+ 1.Rh3+!! ( 1.Rf3? Be1! 2.g3+ Kh3 3.g4+ Kh4 4.g5? Bg4! ) Bxh3 2.g3#
+ 1.g3#
+ 1.Qh5+! gxh5 2.g5#
+ 1.Qh5+!! ( 1.g5+ ?? Kh5 2.Be2+ Kh4 ) gxh5 2.g5#
+ 1...Qh5+!! 2.gxh5 g5#
+ 1...Rh4+! 2.gxh4 g4#
+ 1.Qg6+!! ( 1.Rc6? Rxh2+!! 2.Kxh2 Rh1+!! 3.Kxh1 Qe4+ 4.Kg1 Qe1+ 5.Kg2 Qe2+ 6.Kh3 Qf1+7.Kh2 Qf2+ = ) Qxg6 2.Rh4#
+ 1.Qg5+!! Qxg5 2.Rh3#
+ 1.Re8+! Kxe8 2.Rg8#
+ 1.Nd7+!! Rxd7 2.Rxe8+ Kxe8 3.Rg8#
+ 1.Qe5+! Kf8 ( 1...Kg8 2.Re8+ ) ( 1...Kh6 2.Qf4+! ) 2.Qf6! ( 2...Rxe7 3.Qh8# )
+ 1.Qf6! Qxe7 2.Qh8#
+ 1...Qxg5+! 2.Qxg5 Bxg5+ 3.Kxg5 h4! *
+ 1...f4 2.Bxf8 Rf5#
+ 1...f6+! ( 1...Rxe5+? 2.Kf6! ) ( 2.Qxf6 Rxe5+ 3.Kh4 Rh5+) ( 2.exf6 Re5+ 3.Kh4 Rh5+ 4.Kg3 Rh3# )
+ 1...g3+! 2.fxg3 Rh1#
+ 1...Nf2#
+ 1...Kf1! 2.Rxh3 Ng4! ( 2...Nd1! )
+ 1.Nf6+!! ( 1.Bd3? f5 ) ( 1.Nbd2? Bf5 ) Bxf6 2.Bd3 (2...Re8 3.Bxh7+ Kh8 4.Bg6+ Kg8 5.Qh7+ Kf8 6.Qxf7# )
+ 1.Nf6+! Bxf6 2.Be4 h6 3.Qxh6
+ 1.Nf6! Bxf6 2.Bf5!
+ 1.Nf6 ( 1.Be4? f5! ) ( 1...Bxf6 2.Be4! )
+ 1.Bxd4! exd4 2.Rf6!! ( 2.e5? f5! 3.Qxe8 Raxe8 ) Kg8 ( 2...Bxf6 3.e5! Qxe5 4.Qxh7# ) 3.e5! ! ( 4.Rxd6? Qxe5! ) ( 4...Bxf6 5.Qxh6 ) ( )
+ 1.f6! Qxf6 2.Qxh7#
+ 1.Qh6! gxh6 2.Ng4! f2 f4)
+ 1.Ng4! and 2.Nh6#
+ 1.Ra8+!! ( 1.Kxc7 ? = ) Nxa8 ( 1...Kxa8 2.Kxc7 Ka7 3.Kc6 ) ( 1...Kb7 2.Ra7+! Kxa7 3.Kxc7 )2.Kc8 ( 2...Nc7 3.Kxc7 Ka8 4.Kxb6 Kb8 5.Ka6 )
+ 1.Nxd5 ( 1...cxd5 2.Bc7 ! )
+ 1.Nxd6+! Bxd6 2.Qxb7
+ 1.Na4! b5 2.a3! Qxa4 3.b3
+ 1.b3!
+ 1.Nf5!!Rd7 ( 1...gxf5 2.g3! ) 2.Rad1! ( 2.g3? Bc4! ) Bc4 3.Qxc4 gxf5 ( 3...Rxd1 4.Bxd1 ) 4.Rxd7 Qxf3 6.Bd1 Nb6 7.Qf1
+ 1.g3!
+ 1...Rxh2+! 2.Kxh2 Qf2+ 3.Kh3 ( 3.Kh1 Nxg3# ) Qxg3#
+ 1...Rxh2+! 2.Kxh2 Qf2+ 3.Kh1 ( 3.Kh3 Qxg3# ) Nxg3#
+ 1...Qxh2+! 2.Kxh2 R5d2+ 3.Kh3 Rh1#
+ 1...Rxh2+! 2.Kxh2 Qc2+ 3.Kh3 Rh1#
+ 1...Rxa2! 2.Kxa2 Ra8+
+ 1...Rxa2+! 2.Kxa2 Ra5+ 3.Kb2 Qa3#
+ 1.e6! ( 1.Rxf7+? Kxf7 2.Qh7+ Ke8! ) fxe6 ( 1...Rf8 2.Nxd5 cxd5 3.Qf6+ Kg8 4.exf7+ Kh7 5.Rh1+) ( 1...f6 2.Nxd5 ) 2.Rxg6+ ! Kxg6 3.Qh5+ Kg7 4.Rf7+ Kg8 5.Qh7#
+ 1.Rxg6+! Kxg6 2.Qh5+ Kg7 3.Rf7+ Kg8 4.Qh7#
+ 1.Nxe6+! fxe6 2.Qxg6+ Kf8 ( 2...Kh8 3.Qh6+ Rh7 4.Qf6+ Rg7 5.Qxg7# ) 3.Qg8+ Ke7 4.Rg7+Kf6 5.Rg6+ Kf5 6.Qxe6+ Kf4 7.Rg4+ Kxf3 8.Nd2+ Kf2 9.Rf1#
+ 1.Nxe6+! fxe6 2.Qxg6+ Kh8 3.Qg7#
+ 1.Nxg6+! hxg6? 2.Qxg6 Ng5 3.Rh4+
+ 1.Nxg6+ hxg6 ( 1...Kg7 2.Nxf8+ Kxf8 3.h3 ) 2.Qxg6 Qxd4 3.Qh6+!! ( 3.Rxd4 ?? Rc1+ )
+ 1.Nxg6+! hxg6 ( 1...Kg8 2.Nxe7+! Kf7 3.Nxd5 ) 2.Qh6+ Kg8 3.Qg7#
+ 1.Rxh7+! Kxh7 2.fxg6+ Kxg6 3.Qd3+ Kh6 ( 3...Kg7 4.Rxf7+ Kxf7 5.Qh7+ Kf6 ( 5...Ke8 6.Qg6+!Kd8 7.Ne6# ) 6.Qf5+ Kg7 7.Ne6+ Kh8 8.Qh5+ Kg8 9.Qg6+ Kh8 ) 4.Qh3+ ( 4.Rxf7?Rc1+ 5.Rf1 Rxf1+ 6.Qxf1 Qxd4 ) Kg6 5.Nf5! Rxf5 ( 5...Kf6 6.Qh6+ Ke5 7.Qe6# ) 6.Qxf5+ Kh8 8.Rf7
+ 1.Ne6! fxe6 ( 1...f6 2.Nxd8+! ) 2.Bxe6+
+ 1.Ne6! fxe6 2.Bxe6+ Kf8 3.Qh8#
+ 1.Nh5+! Kg8 2.Qxd8+
+ 1.Rxf7+! ( 1...Rxf7 2.Nh5+! Kg8 3.Qd8# )
+ 1.Rf7! Kxf7 2.Qxh7+ Kf8 3.Nh6
+ 1.Rf7! Kxf7 2.Qxh7+ Kf6 3.Rf1+
+ 1.Rxf7! ( 1.Rh4? Bxg5! ) Kxf7 2.Qxh7+ Kf8 3.Bh6#
+ 1.Rxf7!! ( 1.c4? Qb2 2.Rab1 Rf5! ) Kxf7 2.Qxh7+ Ke6 3.Rd1
+ 1...Qxf2+!! 2.Kxf2 Rc2+! 3.Kf1 Bg2#
+ 1...Qxg1+! 2.Kxg1 Re1#
+ 1...Nh3#
+ 1...Qh4! ( 2.gxh4 Nh3# ) ( 2.gxf4 Bf3+ 3.Kf1 Qh3# ) (2.Qxd7 Qxh2+! 3.Kxh2 Rh6+ 4.Kg1 Rh1# )
+ 1...Bxg3! 2.hxg3 ( 2.fxg3 f2+! 3.Kxf2 Qxd1 ) ( 2.Bf1 Bxh2+! 3.Kxh2 Bg2+! 4.Kg3 Qh3# ) ( 2.Bxg5Be5 ) Bg2!
+ 1...Bxg3! 2.hxg3 Bh3! 3.Bg5 Bg2 4.Bh4 Qg4! (4...Qf5 )
+ 1.Rxh5! gxh5 2.g6! hxg6 3.Qxg6+ Kh8 ( 3...Kf8 4.Bh6# ) 4.Qxe8+
+ 1.Rxh5! ( 1.Nxe6! fxe6 2.Rxh5! ) gxh5 2.g6 ! ( 2.Nxe6! fxe6 3.g6 ) ( 2...hxg6 3.Nxe6 fxe6 4.Qxg6+ ( 4.Rg1 ) Kf8 5.Rg1 )
+ 1.Ne6!! N6h5 ( 1...Nxe6 2.Qxd2 ) ( 1...fxe6 2.Rxg6+! Kf7 3.Rg7+ ) 2.Qf8+! Kh7 3.Ng5#
+ 1.Rxg7+! Nxg7 2.Qxe4
+ 1.Rxf6!! Ne4 ( 1...Re2+ 2.Kg1! Rxd2 3.Rf8# ) ( 1...Qe2+ 2.Qxe2 Rxe2+ 3.Kg1 ) 2.Rxg6+! Kxh7 4.Rf7+ Kg8 ( 5.Rg7+ Kf8 6.Qf4+ )
+ 1.Qxe5! Qxe5 2.Rf8#
+ 1.Nf6+! Kh8 2.Nf7#
+ 1.Rxd5!Rxc2 ( 1...exd5 2.e6 fxe6 ( 2...f5 3.exd7 Qxe1 4.Nf6+ Kf8 5.Qd6+ Qe7 6.Nfxh7+ ) 3.Rxe6 Kxf8 ( 4...Nxf8 5.Nf6+ Kh8 6.Nf7# ) 5.Nxh7+ Kg8 6.Ng5 Bb7 7.Rxg6+ Kf8 8.h7 ) 2.Rxd7! Bxd7 3.Nf6+ Kh8 4.Nxd7 Qxd7 5.Qf6+
+ 1.Rxg6+! fxg6 2.Qxd7
+ 1.Rxe6! Qc8 ( 1...fxe6 2.Qxe6+ Kf8 3.Qxe5 Kg8 4.Bd4 ! ) 2.Bd7! ( 2...Qxd7 3.Rxg6+! hxg6 4.Qxd7 )
+ 1.Rh5+! ( 1.Re5? Rxd4! ) Kg8 2.Rh8#
+ 1.Nxh7! Kxh7 ( 1...Bf5 2.Rxf5! ) 2.Rh5+! Kg7 ( 2...Kg8 3.Qxg6#! ) 3.Be5+! f6 4.Rg5!
+ 1...Qxa2+! 2.Kxa2 Ra8+! 3.Na3 ( 3.Ba3 Ncb4+ 4.Nxb4 Nxb4# ) Ncb4+ 4.Ka1 Rxa3#
+ 1...Rxa3+! 2.Kxa3 Qa5#
+ 1...Rxh3+! 2.Kxh3 Qh5#
+ 1...Bxg2+! ( 1...Rxh2+? 2.Kxh2 Rh8+ 3.Bh3+ Rxh3+ 4.Kxh3 Qf5+ 5.g4! Qf3+ 6.Kh4 Be7+7.Rxe7 Qh1+ 8.Kg3 Qf3+ 9.Kh4 Qh1+ = ) 2.Rxg2 ( 2.Kxg2 Qb7+ ) Rxh2+! 3.Rxh2 (3.Kxh2 Rh8# ) Qf3+ ( 3...Qb7+ ) 4.Rg2 Rh8#
+ 1...Rxh2+ 2.Kxh2 Rh4#
+ 1...Rxh3+! ( 1...Qxh3+! 2.Bxh3 Rxh3+ 3.Kxh3 ) 2.Bxh3 Qxh3+! 3.Kxh3 Rh8+ 4.Kg4f5+ 5.Kg5 Rh5+! ( 5...Bd8+ ?? 6.Qe7+! Bxe7+ 7.Rxe7+ Kxe7 8.Ne3 ) 6.Qxh5 Bd8+ 7.Re7+Bxe7#
+ 1.Rxh7+! Kxh7 2.Qxf7+ Bg7 3.Rh3#
+ 1.Rxh7+! ( 1.Qxf7? Qg7 2.Rxh7+? Qxh7 ) Kxh7 2.Qxf7+ Qg7 3.Rh4#
+ 1.Rxh6+! Kxh6 2.Qxg6#
+ 1.Ndf5!!d5 ( 1...exf5 2.Qxf7 Bd7 3.Rxh6+! ) 2.Nxh6 Rxe7 ( 2...Bxh6 3.Qd4 ) ( 2...dxc4 3.Nhf5+ ) 3.Nf5+ Kg8 4.Nxe7+ Kf8 5.exd5 Kxe7 6.d6+ Ke8 7.Rh5 Bf6 8.Qd3
+ 1.Rh8+! Kxh8 2.Bxf7 and 3.Rh4#
+ 1.Rh8+! Kxh8 ( 1...Bxh8 2.Qxg6+! ) 2.Bxf7 Nh5 3.Qxg6
+ 1.Qxh5+! Kg8 2.Bxg6! ( 2.Qxg6? Bxe6 )
+ 1.Nxh7! Kxh7 2.Qh5+! Kg8 3.Bxg6 Rf7 4.Qh7+ Kf8 5.Bh6! Bxh6 6.Qxh6+ Qg7 7.Re8+! ( 7...Kxe8 8.Qxg7 )
+ 1.Rxh7+! Kxh7 2.Qh5#
+ 1.Rxh7!Kxh7 ( 1...Nf4 2.Rxg7+! Kxg7 3.Qg4! g5 4.g3 ) 2.Qh5+ Kg8 3.Bxg6 Rf5 ( 3...Rf4 4.g3! ( 4.Qh7+) Nf6! 5.exf6 Rxf6 6.Qh7+ Kf8 7.Bh6 Rxg6! 8.Qxg6 Qxd4 9.Rd1! Qe5+ ) 4.Qh7+ Qd7 ( 5...Rf7 6.Nxd5! exd5 ( 6...Qxd5 7.Bxg7+! Rxg7 8.Qh8+ Rg8 9.Qf6# ) 7.Qh8+! Kd7 9.Qh3+! ) 6.Bxf5 Bxh6 7.Qxd7
+ 1.Rxh7+! Kxh7 2.Qh5+ Kg8 ( 2...Bh6 3.Qxg6+ Kh8 4.Qh7# ) 3.Bxg6 Bh6 4.Bxh6
+ 1.Nxh7! Kxh7 2.Rxf7! Rxf7 3.Qh5+ Kg8 4.Bxg6 Rf1+ ( 4...Qe8 5.Qh7+ Kf8 6.Bh6 ) 5.Kxf1 Kf8 7.Bh6 e6 8.Qh8+ ( 8...Ke7 9.Bg5+Bf6 )
+ 1...Qxg3+!! 2.hxg3 Rh1#
+ 1...Qxh3+! 2.Kg1 Qxg2#
+ 1.Nxh5! gxh5 2.Bxh7+ Kxh7 3.Bxg7 Kxg7 4.Qg5+ Kh7 5.Qxh5+ Kg7 6.Ng5!
+ 1.Ng5! ( 1.Qg5+? Ng6 ) Kg7 2.Qh7#
+ 1.Ne6+! ( 1.Nxh7+? Kg8 2.Qxh6 exf6! ) fxe6 ( 1...Kg8 2.Qxh6 ) 2.Qxh6+ Kg8 3.Qg7#
+ 1.Nxg5! hxg5 2.Qxh5 Bxg2 ( 2...gxh4 3.e6! d5 4.e7 Rfe8 5.Bc2 f5 6.Bxf5 ) 3.Bc2
+ 1.Nf7#
+ 1.Ne5!! Rf8 ( 1...hxg5 2.Nxf7# ) 2.Qxg6! ( 2...fxg6 3.Nxg6#) ( 2...Bxf6 3.Qxh6+ Kg8 4.Qxf6 )
+ 1.Bxf7+! Kxf7 ( 1...Rxf7 2.Qe8+ Rf8 3.Qxf8# ) 2.Qe6#
+ 1.Bxf7+! Kxf7 ( 1...Kh8 2.b4! ) 2.Qc4+! ( 2.Nxe5+ ?? Qxe5! 3.Bxe5 Bxe2 ) Ke8 ( 2...Be6 3.Ng5+) ( 2...Ke7 3.Nxe5 ) ( 2...Kf8 3.Nxe5 ) 3.Nxe5 ( 3.Ng5 ?? Qd2+! 4.Kh1 Qxg5 ) Rd2+ 4.Kh1
+ 1...Nxf2! 2.Qb3 ( 2.Kxf2 Qe3+ 3.Kf1 Bd3+ ) Nd3! 3.Rxc6 Qe3+ 4.Kh1 ( 4.Kh2 Bxg3+! 5.Kxg3Qf4# ) Bxg3 5.Rxg6 ( 5.Bf1 Be4! ) Nf2+ 6.Kg1 Nxh3+ 7.Kh1 Qg1+!
+ 1...Bxg3+! 2.Kh1 ( 2.Kxg3 Qf4# ) Nf2+! 3.Kg1 Nxh3+! 4.Kh1 Qg1+! 5.Nxg1 Nf2#
+ 1.Qxf7+! Kxf7 ( 1...Kh7 2.Qxg7# ) 2.Ng5+ Kf8 ( 2...Kf6 3.Nh7# ) 3.Nh7#
+ 1.Nd6! hxg5 ( 1...Rf8 2.Bxe7 Qxe7 3.Nxc8 ) 2.Nxf7! Qa5 ( 2...Kxf7 3.Nxg5+ Kf6 4.Nh7+ ) 3.N7xg5 ( 3.Nd6 Rf8 4.Bb3+ Kh8 5.Nxc8 Raxc8 6.Qxd7 ) Rf8 4.Bxd7
+ 1.Bxf6! exf6 2.Qh7+ Kf8 3.Ne6+! fxe6 4.Nf4 Bd7 ( 4...Qxa2 5.Nxg6+ Kf7 6.Rxf6+ Kxf6 7.Rf1+Kg5 8.Ne7!! Rxe7 ( 8...Be8 9.Qxg7+ ) 9.h4+ Kg4 Kxh4 ) 5.Nxg6+ Kf7 6.Rxf6+!!Kxf6 7.Rf1+ Kg5 8.h4+ Kg4 9.Rf4+ Kg3 Kg4 ! ( Kxh4 )
+ 1.Rxf6+! Kxf6 2.Rf4#
+ 1.Rxh7! Kxh7 2.Qh4+ Kg8 3.Qh8#
+ 1.Rxh7! Kxh7 2.Bxf5!! Rxf5 3.Qh3+ Kg8 ( 3...Rh5 4.Rf7+ Kh6 ( 4...Kg8 5.Qe6 ) 5.Be3+ Bg5 (5...g5 6.Qe6+ ) 6.Bxg5+ Kxg5 7.Qe3+ ) 4.Qh8+ Kf7 5.Qh7+ ( 5.Qg7+ ) Ke8 6.Qxg6+ Qc4 8.Bg1 Rc8 9.Rf7 Qxd5 Kc7 ! Rh8 Kb8
+ 1.Qxf7+! Kxh6 2.Qg7#
+ 1.Re7!! Bxe7 2.Nxh6+ Kh7 3.Qxf7+! Kxh6 4.Bg7+ ! Kg5 ( 4...Kh7 5.Bf8+ Kh8 6.Qg7# ) ( Kg5 6.Qg4# ) 5.h4+! Kh5 ( 5...Kxh4 6.Qf4+! ) 6.Qf3+ ! Kxh4 7.Qf4+ Kh5 8.g4+ Kg5
+ 1.Qxg8+! Kxg8 2.Be6+! Kh8 ( 2...Kf8 3.Rd8# ) 3.Rd8+
+ 1.Bxe6!Bxe2 ( 1...fxe6 2.Qe7! Qb2 3.Qxe6+ Kh8 4.Rxg7 ! Bxe2 5.Rg8+! Rxg8 6.Be5+ ) 2.Qxf8+ !! (2.Qe7? Qb1+! 3.Bc1 Qxd3! 4.Bxf7+ Kh8 ) Kxf8 ( 2...Bxf8 3.Bxf7+ Kh8 ( 3...Kg7 4.Be8+! )4.Be5+ Bg7 5.Rc8+ ) 3.Bd6+ Kg8 ( 3...Ke8 4.Rc8# ) 4.Bxf7+ Kh8 5.Rc8+ Bf8 6.Be5# Der *
+ 1.Nxf7! Kxf7 2.Qxe6+ Kf8 3.Bxg6 hxg6 4.Bh6+ Ng7 5.Qxg6 ( 5...Bf6 6.Rxe8+ Qxe8 7.Qxf6+ Qf7 8.Bxg7+ )
+ 1.Nxf7! Kxf7 2.Qxe6+ Kf8 3.Ng6#
+ 1.Rxh7+! Nxh7 ( 1...Kf8 2.Qh6+ ) 2.Qxg6+ Kf8 3.Qh6+ ! Kf7 ( 3...Kg8 4.Bxh7+ Kf7 5.Qg6+Kf8 6.Qg8# ) 4.Bg6+ Kf6 5.Bxh7+ Kf7 6.Qg6+ Kf8 7.Qg8#
+ 1.Nxf7!Kxf7 2.Rxh7+!! Kg8 ( 2...Nxh7 3.Qxe6+ ) 3.Rh6 Bf8 4.Rxg6+ Bg7 5.Bh6 Nf4 ( 5...Re7 6.Bxg7Rxg7 7.Qxe6+ ) 6.Rxg7+ Qxg7 7.Bxf4
+ 1.Bg7! Kxg7 ( 1...Bxg5 2.Qh8# ) 2.Qh7+ Kf8 3.Qh8#
+ 1.Bxg6! hxg6 ( 1...fxg6 2.Qxe6+ Kh8 3.Qf7 ) ( 1...Bxg5 2.Bxh7+ ! Kxh7 3.Bxg5+ Kg8 4.Bf6 )2.Bg7!
+ 1.Nxg6! fxg6 2.Qxg6+ Kh8 3.Qh7#
+ 1.Nxg6! hxg6 2.Bxg6! fxg6 ( 2...Bd6 3.Bxf7+ Kxf7 4.Rg7+ Kf8 5.Qf3 ) ( 2...Bf8 3.Bc2+ Kh8 4.Bxf8Rxf8 5.Qd2 Ng8 6.Rh3+ Kg7 7.Rh7+ Kf6 8.d5 ) 3.Qb1! Ne5 4.dxe5 Ne4 5.Nxe4 Kh7 6.Nf6+ .Keene
+ 1.Qxe6+! ( 1.Bxh7+? Kh8 2.Bg7+ Kxg7 3.Qg6+ Kh8 4.Qh6 Bf8 ) Kh8 2.Qf7!
+ 1.Nxf7! Kxf7 2.Bxg6+! Kxg6 ( 2...Kg8 3.Qxe6+ Kh8 4.Qf7! ) 3.Re5 Bh4 ( 3...Nf6 4.Rg5+ Kf8 6.Qxe6 ) 4.Qg4+ Kf6 5.Rd3 Nb4 6.Rg3!! Rc1+ 7.Bxc1 Bxg3 8.Bg5+ Kf7 9.Qh5+ Kg8
+ 1...Qh4+! 2.Kg1 ( 2.Kg2 Be4+ 3.f3 Qxg3+ 4.Kh1 Qh2# ) Bxg3! 3.fxg3 Qxg3+ 4.Kh1 Be4+
+ 1...Ng4! 2.Bxg4 ( 2.gxh4 Qxh4 3.Nf3 Qh3 ) ( 2.Nf3 Rh3! 3.Re1 Nxh2 4.Nxh2 Rxh2 5.Kxh2 Qh4+6.Kg1 Bxg3 7.fxg3 Qxg3+ 8.Kh1 Re6 9.Bh5 ( 9.Bxg7 Rg6 ) Rh6! and Bg4 ) Bxg4 3.f3 ( 3.Qe1Rh6 4.f4 f5! Rhe6
+ 1...Rxh2+! 2.Kxh2 Qh4+ 3.Bh3 Qxh3#
+ 1...Rxh2+! 2.Kxh2 ( 2.Kg1 Qh4 3.Nd7+ Ke7! ) Qh4+ 3.Kg1 Qg3+ 4.Kf1 Qg2#
+ 1...Rxa2+! 2.Kxa2 c3+! 3.Ka1 Ra8+ 4.Na3 Rxa3+
+ 1...Rxa2+! ( 1...c3? 2.Nxc3! ) 2.Kxa2 c3+ 3.Ka3 cxd2
+ 1.Qxg7+!! ( 1.Qg6? Nxd3! 2.Ng5 Rxf4! ) Kxg7 2.Be5+ Kg8 3.Nh6#
+ 1.Qxg7+!! Kxg7 2.Be5+ Kg8 3.Nxh6#
+ 1...Rxg2+!! ( 1...Raa2 ?? 2.Qd8+ ) ( 1...Qe5+? 2.Kh1 Rxg2 ( 2...Raa2 3.Qd8+!? Kg3 4.Qd6! )3.Qe1+! Qxe1+ 4.Rxe1 ) 2.Kxg2 ( 2.Kh1 Rh2+!! ) Qe4+!! ( 2...Ra2+? 3.Kf3! Qf6+ 4.Ke4 ) 3.Kg1( 3.Kf1 Rf8+! 4.Kg1 Qe3+ ) ( 3.Qf3 Ra2+! ) Qe3+! 4.Kh1 Qh3+! 5.Kg1 Qg3+! 6.Kh1 Ra2
+ 1...Rxg2+! 2.Kxg2 Rf2+ 3.Kg1 Qh2#
+ 1...Rxb2!( 1...c4? 2.Qf4! ) 2.Kxb2 ( 2.Rxb2 Qxc3+ 3.Kb1 Qxf3 ) Qb4+ 3.Kc2 Qc4! 4.Rc1 Rb8 5.Re2 Nxd5!6.Ng5 ( 6.Kd2 Qd4+ ) Qxc3+ 7.Kd1 Qd4+ 8.Ke1 Qg1+ 9.Kd2 Rb2+ Rxc2+ a4) ( ( Qd3+ ) Qd4+ ( Nd3+ Qa1+ N5f4+ Nxe2+) Qa1+ Qb2+ ( Nc3+ ) Nd3+ Qc1+ N5f4+ )
+ 1...Rxb2+! ( 1...Qxc3? 2.Bxb5 ) 2.Kxb2 Qxc3+ 3.Kb1 Qxe1+ 4.Kb2 Qc3+ 5.Kb1 Qc1#
+ 1...Rxh3+!2.gxh3 Qxh3+ 3.Qh2 Qxh2#
+ 1...Rdxf2+! ( 1...Rfxf2+ ) 2.Kg1 ( 2.Bxf2 Qxf2# ) Rf1+! 3.Kh2 Qg1#
+ 1...Qxg2+! ( 1...Rxg5? 2.fxg5+ Kg6 3.Rg1 ) 2.Rxg2 Raxg2+ 3.Kh1 Rg1+! 4.Kh2 R8g2#
+ 1...Rxa3+! 2.Kxa3 Qa5+ 3.Kb3 Qa4#
+ 1...Rxa3+!! 2.Kxa3 Qa5+ 3.Kb3 Qa4#
+ 1...Rxa3+! 2.Kxa3 ( 2.Rxa3 Qxb2# ) ( 2.bxa3 Qa1# ) Qa1#
+ 1...Rxa3+! 2.Kxa3 ( 2.bxa3 Qa1# ) ( 2.Rxa3 Qxb2# ) Qa1#
+ 1...Qxh3+!! 2.gxh3 Bb7+!
+ 1...Qxh3+! 2.gxh3 Be4#
+ 1...Rxh3+! ( 1...Bxh3? 2.Bxg3! ) 2.gxh3 Be4+! 3.Qg2 Qxh3+ !
+ 1...Qxh3+! 2.gxh3 Bf3#
+ 1...Qxh3+!! 2.gxh3 Rh2+! 3.Kg1 Rg8+
+ 1...Qxh3+! 2.gxh3 Rh2#
+ 1...Rxg2+! 2.Kh1 ( 2.Kxg2 Qf2+ 3.Kh1 Nxg3+ ) Rh2+! 3.Kxh2 Qf2+ 4.Kh1 Nxg3+
+ 1...Rxg2+! 2.Kxg2 Qf2+ 3.Kh1 Ng3+! 4.Rxg3 Be4+
+ 1...Qh3!! 2.gxh3 Nf2+ 3.Kg1 Nxh3#
+ 1...Nf2+! 2.Kg1 Nh3#!
+ 1...Rxg2+ ( 2.Kxg2 Qg8+! 3.Kf2 ( 3.Kh3 Qg4# ) (3.Kh1 Bc6+ ) Ng4+ and 4...Nh6 )
+ 1...Ng3+ 2.Kg2 Nxh5
+ 1.Rxf7! Bxf7 2.Qxh6
+ 1.Bxg7! Nxd6 ( 1...Kxg7 2.Qe5+! ) ( 1...Qc7 2.Be5! Nxd6 3.Qg5+! ) 2.Bd4! ( 2...Nf7 3.Rxf7 Bxf7 4.Qh6! ) ( 2...Qd8 3.Qe5 ) ( 2...Ne4 3.Qe5 )
+ 1.Bxb7! Rxb7 ( 1...Qxg3+ 2.Bg2+! ) 2.Rxb7+ Kxb7 3.Qg2+ Kb8 4.Rb5+ Kc7 5.Qb7+
+ 1.Bc6+!
+ 1.Ng6+! fxg6 2.Re8#
+ 1.Rxg7+!! Kxg7 2.Nxe6+! dxe6 3.Rd7+ Kg8 4.Qxh7#
+ 1...Rf8! ( 1...Qxd1+? 2.Nxd1 Rxd1+ 3.Re1 ) 2.Ree1! ( 2.Rde1 Rfh8 ! 3.h3 Rxh3+! ) Rxh2+!!3.Qxh2 ( 3.Kxh2 Rh8+ ) Bxg2+! ( 3...Qxc3!? 4.Re7 Qxc2!? ( 4...Rh8!? 5.Rh7 Qxc2! 6.Rxb7+!Kxb7 7.Rd7+! Kc8 8.Rc7+ Kd8 9.Qxh8+ Kxc7 = ) 5.Rxb7+!! Kxb7 6.Rd7+! Kxa7 8.Qc7+ Ka8 9.Qc6+ Kb8 Kc8 = ) 4.Qxg2 ( 4.Kxg2 Rf2+5.Kg1 Rd2+ 6.Kf1 Qf6+ 7.Kg1 Qd4+ = ) Rh8+ 5.Qh2 Rxh2+ 6.Kxh2 Qf2+! ( 6...Qxc3? 7.Rd7+. ) 7.Kh1 Qf3+
+ 1...Rxh2+! ( 1...Qh5? 2.Qe5 ) 2.Kxh2 Qh4+ 3.Kg2 Qg5+ 4.Kh3 Qh5+ =
+ 1.Qxf6! gxf6 2.Bxf6#
+ 1.Qxf6!!gxf6 ( 1...c3 2.Qf7 Bb4 3.Qg8+! Rxg8 4.Nf7# ) 2.Bxf6+ Bg7 3.Rd7! Qe5 ( 3...Rg8 4.Nf7# ) (3...Bxf6 4.Rxh7# ) 4.Nf7+ ( 4...Kg8 5.Nxe5 Kf8 ( 6...Kh8 7.Ng6# ) 7.Ng6# )
+ 1.Bxh7+! Kxh7 ( 1...Kh8 2.Qh5 ) 2.Qh5+ Kg8 3.Ng5
+ 1.e5!dxe5 ( 1...Nxe5 2.Nxe5 dxe5 3.Qh4! ) ( 1...Nxd3 2.Bxe7! Nxe7 ( 2...Qxe7 3.exd6! ) 3.exd6 ( 3.Ng5?Nf5 ) Nf5 4.dxc7 Nxg3+ 5.hxg3 Nxb2 6.Ne5! Re8 7.Rab1! Nc4 8.Nxc4 bxc4 9.Rb8 Bd7 ) 2.Bxh7! Kxh7 ( 2...Rxf3 3.Qxf3 Kxh7 ( 3...Bxg5 4.Bg6! ) 4.Qh5+ Kg8 5.Qf7+Kh7 6.Rf3! Bxg5 7.Qxc7 ) 3.Bxe7 Rxf3 ( 3...Qxe7 4.Ng5+ ! ) ( 3...Nxe7 4.Ng5+ Kg8 5.Rxf8+Kxf8 6.Qf3+! ) 4.Rxf3 ! Qxe7 ( 4...Nxe7 5.Rf7! ) 5.Raf1! Kg8 ( 5...Ra7 6.Rf8 ) ( 5...Nd8 6.Rf8Nd7 7.Qh3+ Kg6 8.Rh8 Nf6 9.Ne4 ! ) 6.Qg6! ( Nf7 8.Qh7+ Kf8 9.Qh8# )
+ 1.Rxg7+! Kxg7 2.Rg1+ Kh8 ( 2...Kh6 3.Qh4# ) 3.Qxe8+! Rxe8 4.Nxf7#
+ 1.Qxe8+! Rxe8 2.Nxf7#
+ 1.Rd8+! Rf8 2.Rxf8#
+ 1.Bxf7+! Rxf7 ( 1...Kxf7 2.Rf1+ Kg8 3.Nxe6 Rxf1 4.Nxc5 Rxc5 5.Qd8+ Kh7 6.Rxf1 Bxf1 7.Qxb6. ) 2.Nxe6 Qf5 ( 2...Qc8 3.Qd8+ ! Qxd8 4.Rxd8+ Kh7 5.h5! g6 6.Nf8+ Rxf8 7.Rxf8 gxh5 8.Re7+Kg6 9.Rg8+ Kf5 Kg4 ) 3.g6! Qxd3 4.gxf7+! Kxf7 5.Rxd3
+ 1...Rxf2!! 2.Kxf2 Nd3+ ! 3.Nxd3 Qxg2+ 4.Ke3 Nd6! 5.Rf1 ( 5.b3 Qxg3+ 6.Kd2 Ne4+ ) Nc4+ 6.Kf4Qd5 7.Kg4 Bc8+ 8.Kh4 Qd8+ 9.Kh5 Qe8+ Qe7+ Ne3
+ 1...Nf2+! 2.Nxf2 Qh2#
+ 1.Bxf7! Qxf7 2.g6+
+ 1.Bg5!! ( 1.Qh5? Qxh4+ ) hxg5 ( 1...f6 2.Bxf6! ) ( 1...Qf8 2.f6! hxg5 3.hxg5! Bb6 4.Qh5+ Kg8 5.g6) 2.hxg5 Nd7 ( 2...Kg8 3.f6 Qf8 4.Qh5 Nd7 5.Qg6+ Kh8 6.Bxf7 Nxf6 7.Qxf6+ ) 3.Bxf7! ( 3...Nf6 4.Qh3+ Kg7 5.Be6 ( 5.Bc4 ) ( 5.Bb3 ) Nh7 6.f6+Nxf6 7.Qh6# ) ( 3...Kg7 4.f6+ Nxf6 5.gxf6+ Kxf6 6.Qg6# )
+ 1...Nxh3+! 2.gxh3 Rg4+! ( 3.hxg4 Qh2# )
+ 1...Rg4+! ( 1...Qxh3? 2.f4! ) 2.hxg4 Qh2#
+ 1.e6! ( 1.Nxh6+! gxh6 2.e6! ) fxe6 ( 1...Qc8 2.exf7+ Kxf7 3.Nxh6+! ) 2.Nxh6+! gxh6 3.Qg6+ Kh8( 3...Kf8 4.Qxh6+ Kf7 5.Rd3 Ne5 6.Rxe5 ) 4.Qxh6+ Kg8 5.Qg6+ Bc6; add Nc6) ( 5...Kh8 6.Re4 Ne5 7.Rxe5 )
+ 1.Nxh6+! Kh8 ( 1...gxh6 2.Qg6+ Kh8 3.Rf7! ) 2.Nf7+ Kg8 3.Nxd8
+ 1.Bg6+! Kg8 2.Qh7+ Kf8 3.Qxf7#
+ 1.Bxh6! gxh6 2.Qxh6 Rfc8 3.Bh7+! Kh8 4.Bg6+! Kg8 5.Qh7+ Kf8 6.Qxf7#
+ 1.Bxh6! gxh6 2.Qxh6 Nb2 3.Ng5 Nxd3 4.Nh7!
+ 1.Nh7! and Nf6!
+ 1...Qxh3+!! 2.gxh3 Bxe4+ 3.f3 Bxf3#
+ 1...Qxh3+! 2.gxh3 Bf3#
+ 1...Qxa3+!! ( 1...gxf6? 2.Qxf6+ Kg8 3.Qe6+ Kg7 4.Qe5+ Kg8 5.Qe6+ = ) 2.bxa3 Bc3+ 3.Ka2Rb2+ 4.Ka1 Rxc2+ 5.Kb1 Rb2+! 6.Ka1 ( 6.Kc1 Rb1# ) Rxe2#
+ 1...Qxa3+! ( 1...Bc3? 2.Qxb5! ) 2.bxa3 Bc3+ 3.Ka2 Rb2+ 4.Ka1 Rxc2+ 5.Kb1 Rxe2
+ 1.Bxh6! gxh6 2.Rxf7! Kxf7 3.Ne5+ Kf8 4.Qh7
+ 1.Qg6!
+ 1.Qh5+! Kg8 2.Qxf7+ Kh7 3.Rh4+ gxh4 4.Rxh4#
+ 1.Bh7+!( 1.Ng5? f5! ) Kxh7 ( 1...Kh8 2.Ng5 hxg5 3.Qh5 ) 2.Ng5+ Kg8 ( 2...hxg5 3.Qh5+ Kg8 4.Qxf7+Kh8 5.Qh5+ Kg8 6.hxg5 Ne7 7.Qf7+ Kh8 8.Kf2 ) 3.Nxf7 Qb8 4.Nxh6+ gxh6 5.Qg4+ Kh8 ( 6...Rg8 7.Qh5 )
+ 1...Qxf2+! 2.Rxf2 Ng3#
+ 1...Qb6! 2.Bf3 Qxf2+! 3.Rxf2 Ng3#
+ 1.Bg5!Qd7 ( 1...Qxg5 2.Qxf7+ Kh7 3.Qg8# ) ( 1...hxg5 2.Ng6! ) 2.Rad1! Bd6 3.Bxh6! gxh6 ( Kxg7 5.Nf5+ ) 4.Qg6+! Kf8 5.Qf6! Kg8 6.Re3!
+ 1.Bg5! hxg5 ( 1...Qxg5 2.Qxf7+ Kh7 3.Qg8# ) ( 1...g6 2.Qxg6+ Kh8 3.Bf6+! ) 2.Ng6! and 3.Qh8#
+ 1.Rh8+! Kxh8 2.Qxf7 Nf6 3.gxf6
+ 1.Ng5! hxg5 2.hxg5 g6 ( 2...f6 3.g6! ) 3.Rh8+! Kxh8 ( 3...Kg7 4.Qh3 ) 4.Qxf7
+ 1.Qg4+! Nxg4 ( 1...Ng6 2.Rh8# ) 2.Rh8#
+ 1.f4!Ng6 ( 1...gxh2+ 2.Kh1 ) 2.f5! Nge5 ( 2...Nf4 3.Qg4 ! ) 3.f6! gxf6 ( 3...g6 4.Qxh6 ) 4.Rxd7!! Qxd7 (4...Nxd7 5.Qg4+ Kh8 6.Rxf6! ) 5.Rxf6! Rfe8 6.Rxh6 Qd2 7.Qg4+! ( 7...Kf8 8.Ba3+ Re7 9.Rh8# ) ( 7...Nxg4 8.Rh8# )
+ 1.Rf6! Ng5 ( 1...Nf8 2.Qxh6+! ) 2.Rxg5! hxg5 ( 2...gxf6 3.Rh5! ) 3.Qxg5 Kg8 4.Qh4! Qa3 5.Rf3!g6 6.Bxg6! Qxf3 7.Qh7+! Kf8 8.gxf3
+ 1.Qxh6+! ( 1.Rxh6+? Kg8 ) gxh6 2.Rxh6+ Nh7 3.Rxh7#
+ 1.Rxf8+! Kxf8 2.Qh8+ Ke7 3.Qxg7+ Bf7 4.Bf6+ Ke8 ( 4...Ke6 5.f5# ) 5.Qh8+ Bg8 6.Qxg8#
+ 1.Bh5! hxg5 ( 1...g6 2.Nxf7! ) 2.fxg5 g6 ( 2...Bc6 3.Bxf7+ Qxf7 4.Rxf7 Kxf7 5.Rf1+ Kg8 6.Qf3 )3.Bxg6 fxg6 4.Rxf8+! Kxf8 5.Qf3+ Kg8 6.Rf1 Nf6 7.Qxf6 e5 8.Qxg6+ ( 8...Kh8 9.Rf7 )
+ 1.Bd4!f6 ( 1...Rfd8 2.Bh7+ Kf8 ( 2...Kh8 3.Bxg7+! Kxg7 4.Qg6+ Kh8 5.Qxh6 ) 3.Rxf7+! ( 3.Bc5? Qd5+!4.Qxd5 cxd5 ! ) Kxf7 4.Qg6+ Ke7 5.Bc5+ Rd6 6.Qxg7+ Ke8 7.Bg6+ Kd8 8.Bb6+! ) ( Kf8 3.Rd7 ) 2.Bh7+ Kh8 3.Qg6 Rg8 4.Bxf6 h4 and c6) ( 4.Bxg8 )
+ 1.Bxg7+! Kxg7 2.Qg6+! Kh8 3.Qxh6 Rxd7 4.Bg6+ Kg8 5.Qh7#
+ 1...Bxh3! 2.gxh3 Rxd4! 3.Bxd4 Nf3+ 4.Kg2 Nf5! 5.Rg1 ( 5.Be3 N5h4+ 6.Kh1 Qf5! ) ( 5.Bf6 Re8 ) N5xd4 6.Bd3 ( 6.Qe3 Qg6+ 7.Kh1 Nxg1 8.Rxg1 Qc6+ ) Nxg1 7.Qxd4 Nxh3 h6) ( 8.Rh1 Qd5+! 9.Qxd5 Nxd5 )
+ 1...Qxe5+! 2.Qxe5 Nf3+ 3.Kh1 Rg1#
+ 1.Bxh6!gxh6 ( 1...Nxe5 2.dxe5 gxh6 3.exf6 Bxf6 4.Ne4 ) 2.Bxe6! Nxe5 ( 2...Kg7 3.f4 Nxe5 4.fxe5 Bxf6 6.Rxf6! Kxf6 7.Qh7! ) ( 2...fxe6 3.Qg6+ ) 3.dxe5 Nd5 ( 3...fxe6 4.Qg6+ Kh8 5.exf6Bf8 6.f7 Bg7 7.Ne4 Rd5 8.Nf6! ) 4.Qg6+ Kh8 5.Qxh6+
+ 1.Qg6+! Kh8 ( 1...Kf8 2.Qxf7# ) 2.Qxh6+ Kg8 3.Qg6+ Kh8 4.Rh5#
+ 1...Rxg2+! 2.Kxg2 Qxf3+ 3.Kg1 Qg2#
+ 1...Rxg2+!! 2.Kxg2 ( 2.Kf1 Qxf3+ ) Qxf3+ 3.Kg1 Qg2#
+ 1.Rxb7! Kxb7 2.Qb5+ Kc8 3.Bh3+ Rd7 4.Qxa6+ Kd8 5.Rd1 Re8 ( 5...Qb7 6.Qxb7 Rxb7 7.Rxd6+) 6.Bxa7! Qxa7 7.Rxd6! Qxa6 8.Rxd7+ ( 8...Kc8 9.Ra7+ )
+ 1.Rxb7+! ( 1.Qxc6? Bb6! ) Kxb7 2.Qxc6+ Kb8 3.Qb7#
+ 1.Rxh7+! Kxh7 2.Qh5+ Kg8 3.Qf7+ Kh8 4.Qxg7#
+ 1.Rxh7+! Kxh7 2.Qh5#
+ 1...Rxa2+! 2.Kb1 Ra1+! 3.Kxa1 Qa4+ 4.Kb1 Rd1+ 5.Qxd1 Qxd1+ 6.Ka2 Qxh5 7.g4 Qb5 (7...Qa5+ )
+ 1...Rxa2+! 2.Kxa2 Qa4#
+ 1.Bxe5! fxe5 2.Rxh7+! Kxh7 3.Rxg7+! ( Kg8 5.Qxg7# )
+ 1.Rxg7+! Rxg7 2.Qh6+ Kg8 3.Qxg7#
+ 1...Qg1+! 2.Kc2 Rxc3+ ( 3.bxc3 Qb1+ 4.Kd2 Rb2+ 5.Ke3Qc1+ 6.Kd3 Qxh6! ) ( 3.Kxc3 Qd4+ 4.Kc2 Rc8+ 5.Kb1 Qd1+ )
+ 1...Rxc3+! 2.bxc3 Qb1#
+ 1.Rxg7+! Qxg7 2.Rd8+
+ 1.Rxg7+! Bxg7 2.Rc8+ Kf7 3.Qh5+ ( 3.Qg6+ ) Ke7 4.Qe8#
+ 1...Rxc2+! 2.Rxc2 Nxb3+ 3.Kd1 Nxd2
+ 1...Rxb2+! 2.Rxb2 Nxc3+ 3.Ka1 Qxa3+ 4.Ra2 Qxa2#
+ 1.Rxh6+! gxh6 ( 1...Kxh6 2.Qg6# ) ( 1...Kg8 2.Nxf6+ Kf7 3.Qg6# ) 2.Nxf6+ ( 2...Kh8 3.Qg8# )
+ 1.Rxh6+! ( 1.Nxf6+ ?? gxf6 2.Rxh6+ Bxh6 ) gxh6 ( 1...Kxh6 2.Qg6# ) ( 1...Kg8 2.Nxf6+ ) 2.Nxf6+! Kh8 3.Qg8#
+ 1.Rxg7+! Kxg7 ( 1...Rxg7 2.Qxa8 ) 2.exf6+ Kh8 ( 2...Bxf6 3.Qe7+! Kh8 4.Bxf6+ ) ( ) 3.f7+! ( 3.fxe7+? Kh7 ) Kh7 ( 4.fxg8Q+Qxg8 5.Qxe7+ )
+ 1.Qf8+! Kh7 2.Qxg7#
+ 1...Nh3+!! ( 1...Nxg2 ?? 2.Rxe8! f6 3.Rxf8+ Rxf8 4.Nd4 ) 2.Kh1 ( 2.gxh3 Qxf3 3.Re4 Bxe4 )Qxf3!! 3.gxf3 Bxf3#
+ 1...Qxf3! ( 1...Bxf3? 2.Qxg4 Bxg4 3.gxh3 ) 2.gxf3 ? Bxf3#
+ 1...Bxg2+! 2.Kxg2 Qg4+ 3.Kh1 Qf3#
+ 1...Bxg2+! ( 1...Qxg4 ?? 2.Qxc7# ) 2.Kxg2 Qxg4+ 3.Kh1 Qf3#
+ 1.Nf6+! gxf6 2.Qg4+ Kh8 3.Bxf6#
+ 1.Nf6+! gxf6 2.Qg4+ Kh8 3.Bxf6#
+ 1.Qh6! Bxf6 ( 1...gxf6 2.gxf6+ Kh8 3.Qg7# ) 2.gxf6 Ra1+ 3.Kd2 Qc3+ 4.Ke2
+ 1.Qh6! gxf6 ( 1...gxh6 2.gxh6+ ) 2.gxf6+ Kh8 3.Qg7#
+ 1...Bxh3+! 2.Kg1 ( 2.Kxh3 Qf3# ) ( 2.Kh1 Qf3+ 3.Kg1 Qg2# ) Qg4+ 3.Kh1 Qg2#
+ 1...Nxg2! ( 1...Nxd3? 2.Qxd3 Qxf2? 3.Rf1! ) 2.Kxg2 Bh3+! ( 2...Qf3+? 3.Kg1 Bh3 4.Qe4 ) 3.Kxh3Qf3+ 4.Kh4 g5+ ! 5.Kxg5 Rf5+ 6.Kh4 Rh5#
+ 1.Rxe4! dxe4 2.Bf6! Qb6 ( 2...gxf6 3.Qg4+ Kh8 4.Qg7# ) 3.Bxg7 Rfe8 4.Be5 Qg6 ( 4...Re6 5.Qg4+Rg6 6.Ne7+ Kf8 7.Nxg6+ ) 5.Nh6+ Kf8 6.f5! ( 6...Qg5 7.Nxf7!)
+ 1.Rxe4! dxe4 ( 1...f6 2.Qxd5+ Kh8 3.Qf7 ) 2.Bf6 g6 3.Qh6
+ 1.Nf5+! Kg8 2.Nh6#
+ 1.Nxg7!! Bxc4 2.Bf6!! Be7 ( 2...Bxe2 3.Nf5+! Kg8 4.Nh6# ) 3.Qf3 (add ( 3.Qf2 )
+ 1.Qxg7+! ( 1.Rg4? e5! ) Kxg7 2.Rg4+ Kh6 ( 2...Kh8 3.Bf6# ) 3.Bf6 Bd8 4.Bg7+ Kh5 5.Rg5+ !Bxg5 6.Ne5+ Kh4 7.g3+ Kh3 8.Bg4#
+ 1.Qxg7+! ( 1.Bf6? Ne8 ) Kxg7 2.Rg4+ Kh8 3.Bf6#
+ 1.Rxg7 Kxg7 2.Qg4+ Ne2 Bd7; Qb6 c3) ( 2...Kh8 3.Qh5 )
+ 1.Qxh7#
+ 1.Bxh7+! Kxh7 2.Rxf7 Rg8 3.Qh3+ Kg6 4.Qf5+ Kh6 5.Be3+
+ 1.Rxf7! ( 1.Bxe5? Rxe5 2.Rxf7! Qxf7! 3.Qxd8+ ! Re8! ) Nxf7 2.Qxg7#
+ 1.Bxh7+! Kxh7 2.Qh5+ Kg8 3.Rxg7+! Kxg7 4.Rg1+ Kf6 5.f5!
+ 1.Rxg7+! Kxg7 2.Rg5+ Kf8 3.Qh6#
+ 1...Rxg3+! 2.hxg3 Qxg3#
+ 1...Nh3+! 2.gxh3 ( 2.Kh1 Nxf2+ ) Rxg3+! 3.hxg3 Qxg3+! 4.Bg2 Rd1 b4)
+ 1.Bxh7+! Kxh7 2.Qh5+ Kg8 3.Bxg7 De f4) ( 3...Kxg7 ( 3...f5 4.Be5! Rf6 5.Rd3 ) 4.Qg4+! Kh8 5.Rd3 )
+ 1.Bxg7! Kxg7 ( 1...f5 2.Qh8+ Kf7 3.Qxf8# ) 2.Rg4+ Kf6 3.Qg5#
+ 1...Qxg2+! 2.Rxg2 Ra1+ 3.Rg1 Raxg1#
+ 1...Qxg2+! 2.Rxg2 Rd1+ 3.Rg1 Rdxg1#
+ 1.Nf6+! Kh8 2.Rh4! ( 2...h6 3.Qf4! ) ( 2...gxf6 3.Rxh7+!Kxh7 4.Rh4# )
+ 1.Rxh7+! Kxh7 2.Rh5#
+ 1...Nf3+! 2.gxf3 Rg5+ 3.Kh1 Qxf1#
+ 1...Nf3+!! 2.gxf3 Rg5+! 3.Kh1 Qxf1#
+ 1.Bxg7+! Kxg7 2.Qh6+ Kh8 3.g6 Qc5+ 4.R1f2 fxg6 5.fxg6 Qg5+ 6.Qxg5 Bxg5 7.Rxf8+ Kg7 9.gxh7!
+ 1.Bxg7+! ( 1.f6? Qxd4 ) ( 1.g6? fxg6 2.fxg6 h5 ! 3.Be5 Rf5! 4.Qe7 Qg8! ) Kxg7 ( 1...Kg8 2.Bxf8Kxf8 3.Qxh7 ) 2.Qh6+ ( 2.f6+? Kg6 ) Kg8 3.f6
+ 1.Rxg7+! Bxg7 2.Rg1 Rfc8 3.Bxe4 Kf8 4.Rxg7! b3 ( 4...Kxg7 5.Qh6+! ) 5.Qxh7 bxa2 6.Qg8+
+ 1.Rxg7+! Kxg7 2.Be5+ Kg8 3.Qh6
+ 1.Qg6! hxg5 ( 1...Qxe5 2.Qh7# ) 2.Qxg7#
+ 1.Qh5 h6 2.Rxe6! fxe6 ( 2...Qd8 3.Rxh6! ) 3.Qg6 Rf6 4.Qh7+ Kf8 5.Qh8+ Ke7 6.Qxg7+
+ 1...Nxg2! 2.Kxg2 ( 2.Nxb7 Qg5! 3.Nxd6 Nxe3! ) Qh4 ! 3.f4 Rxe3 4.Nf1 Bxf4 5.Qf2 Bf3+ 6.Kg1Qg5+ ( 7.Ng3 Rxd3 ! )
+ 1...Nxg2! 2.Kxg2? Qg4+! 3.Kh1 Qh3! 4.f3 Qxf1#
+ 1...Qf3!! ( 1...Bh3? 2.f4! ) ( 2.gxf3 Nexf3+ 3.Kh1 Bh3)
+ 1...Qf3! ( 1...Qh3? 2.f4! ) 2.gxf3 Nexf3+ 3.Kh1 Bh3!
+ 1.Nh6+! Kh8 ( 1...Kf8 2.Bc5+! Be7? 3.Rxf7# ) 2.Rxf6! gxf6 3.Qh4! ( 3...Qe7 4.Nf5 Qe6 5.Qg4 ( 5.Qg3 ) ( 5.Qh6 ) Rg8 6.Rxd8 ) ( 3...Re6 4.Rxd8+ Qxd8 5.Nxf7+)
+ 1.Qh6!
+ 1.Rh8+! Kxh8 2.Qh6+! Kg8 3.Qxg7#
+ 1.Bxh7+! Kxh7 2.Rxd6 Bxd6 3.Rh4+ Kg8 ( 3...Kg6 4.Qd1 ! ) 4.Rh8+! Kxh8 5.Qh6+! Kg8
+ 1.Bxh7+! Kxh7 2.Ng5+ Kh6 ( 2...Bxg5 3.hxg5+ Kg6 4.Qh5+ Kf5 5.g6+ Ke4 6.Rh4+ ) ( ) ( 2...Kg6 3.Qd3+ f5 4.h5+! Kh6 ( 4...Kxg5 5.Qg3+ Kh6 6.Qg6# ) 5.Bxg7+! ( 5.Nxe6Qa5+ 6.Bc3 Qa6 7.Bxg7+ ) Kxg7 6.Nxe6+ Kg8 7.Qg3+ ) 3.Qd3 g6 ( 3...f5 4.Bxg7+! ) ( 3...Qa5+ 4.Bc3! ) 4.Qd2 ( 4.h5! Bxg5 5.hxg6+ Bh4 6.g3 f5 7.Rxh4+ Kxg6 8.Qf3 )
+ 1.Bxg7+! Kxg7 2.Nxe6+ Kf6 3.Nxd8
+ 1.Bxf7+! ( 1.Rxe4? Rxc4! ) Kxf7 2.Rxe4 Bxe4 3.Qe6+ Kf8 4.Qxe4 Kg8 5.Nf5 Rc7 ( ) 6.Nh6+ gxh6 7.Qe6+ Kg7 8.Bxh6+
+ 1.Bxf7+! Kxf7 ( 1...Kf8 2.Rh8+ Kxf7 3.Qe6# ) 2.Qe6+ Kf8 3.Rh8+ Ng8 4.Rxg8#
+ 1.Nh6+! Kf8 2.Rxg7! Kxg7 3.Qg4+ Bg5 ( 3...Kf6 4.c4! Qa5 5.d5! exd5 6.Bg5+ ) 4.c4 Qxd4 (4...Qa5 5.d5! ) 5.Qxg5+ Kf8 6.Be3 Qh8 7.Bc5+ Ke8 8.Ng4 Kd7 9.Qf4 Rc7
+ 1.Qg4+! Kxh6 ( 1...Kh8 2.Qg8# ) 2.Qg5#
+ 1.Rg3!! Bd7 ( 1...bxc3 2.Rxg7+ Kxg7 ( 2...Kh8 3.Rxh7+ ! ) 3.Bxf6+ ) 2.Rxg7+! Kxg7 3.Qg5+Kf8 4.Qh6+ ! ( 4.Rxf6? Qf1+! ) Kg8 5.Rf3 Bg4 6.Qg5+ Kf8 7.Qxg4! bxc3 ( 7...Nxg4 8.Rxf7+ ) 8.Qh5!
+ 1.Rxg7+! Kh8 ( 1...Kxg7 2.Qg5+ Kh8 3.Bxf6+ Qxf6 4.Qxf6+ Kg8 5.h6 ) 2.Rg8+! Rxg8 3.Bxf6+Rg7! 4.Qg5 Qf8 5.h6
+ 1.Bxh7+! Nxh7 2.g6! fxg6 ( 2...Ng5 3.h4 ) 3.Qxg6 Nf8 4.Qf7+ Kh8 5.Rhg1 ( 5.Rdg1 ) Bf6 6.Rxg7!Bxg7 7.Rg1 Ne6 8.Rg6! ( 8...Rg8 9.Qxe6 Qc7 Qh7 ) ( 8...Qc7 9.Rh6+ ! Bxh6 ) ( 8...Kh7 9.Rh6+! Kxh6 )
+ 1.Rh6+! Bxh6 2.Ng6#
+ 1.Bxh6!gxh6 ( 1...Kxh6 2.Rh1+ ) 2.Rd1! ( 2.Rf7+! Kh8 3.Rd1 Qc8 ) Qc8 ( 2...Bd6 3.Rf7+ Kh8 4.Qe3!g5 5.Rh1 Bf8 6.Qf3! Qd6 ( 6...Bg7 7.Rxg7! ) 7.Qf5 Bg7 8.Qxg5! Rg8 9.Rxg7! Rxg7 ) 3.Rf7+ Kh8 4.Qe3! ( 4.Qd2 ) Bg5 5.Qxg5! hxg5 6.Rh1+ Kg8 7.Rd7+
+ 1.Rh4+ Kg8 2.Rd7+!
+ 1...Rg2+! 2.Nxg2 Qh3+ 3.Kf2 Qxg2#
+ 1...Rxh2+! 2.Kxh2 Ra2+ 3.Ng2 ( 3.Kh1 Qxg3 ) Qh5 4.g4 ( 4.Kh1 Nf2+! 5.Kg1 Qh1# ) Qh4!5.Qe1 Qh6! 6.Kg3 Nf4! 7.Nh4 Rg2+! ( 8.Nxg2Qh3+ 9.Kf2 Qxg2# )
+ 1.Rxf6+! Ke8 2.Rxf8+
+ 1.Bxf6! ( 1.Rxf6+? Bxf6 2.Qh7+ Ke8 3.Bxf6 R4c7! ) Rh8! ( 1...Bxf6 2.Qh7+ Ke8 3.Rxf6 Rxc3 5.Qg8+ Kd7 6.Rf7+ ) 2.Bxg7+! ( 2.Be5+? Kg8! 3.Qg3 ( 3.Qg4 Qxe5!! ) Qe4! 4.Re3Rxc3!! ) Kxg7 3.Qg4
+ 1...Rxh3+! 2.Kxh3 Qh1#
+ 1...Rxh3+! 2.Kxh3 Qh1+! 3.Kg3 Rb3+ 4.Qc3 ( 4.Kf2 Rf3+ 5.Ke2 Qf1# ) Rxc3+ 5.bxc3 Qe1+6.Kg2 Qd2+ 7.Kf3 Qxc3+
+ 1.Rxf6! ( 1.Re6? Qd8 2.Rd3 Rd7 ) Qxf6 2.Bxe5
+ 1.Rxg7! Qxg7 2.Bxf6
+ 1.d6! exd6 2.Re8+ Kf7 3.Qe6#
+ 1.b5! cxb5 2.c6! dxc6 3.Rxe6+ Rf6 4.Rxf6+ Kxf6 5.Rd6+ Kf7 6.h4! gxh3 7.Kh2 Rg7 8.Qd4 Kh7 Kg6 Kf7 Kg8 Kh7 Rg6
+ 1.Rxg6! Kxg6 2.Qg4+! Kh7 3.Bxf5+ Rxf5 4.Qxf5+ Kg8 5.Qg6+ Kf8 6.Bd6 h3)
+ 1.Qxg6+! Kf8 2.Qxf7#
+ 1.Nxf5!gxf5 2.Rxe6! Nxe6 3.Bxe6+ Kh7 ( 3...Kh8 4.Rf4 ) 4.Bxf5+ Kh8 5.Bxg7+ Qxg7 6.Qh4+
+ 1.Bxe6+! Kh7 ( 1...Qxe6 2.Qxg7# ) ( 1...Kf8 2.Ng6# ) ( 1...Kh8 2.Qh6# ) 2.Qg6+ Kh8 3.Qh6#
+ 1...Rh1+! 2.Kxh1 Qxf2
+ 1...Nxf3+! 2.Qxf3 ( 2.Kf2 Nd4!? ) Bxe4 3.Qxe4 Qxg3+ 4.Qg2 ( 4.Kf1 Rf6+! 5.Ke2 Rf2+ ) Qe3+5.Qf2 ( 5.Kf1 Rf6+ ) Rh1+! 6.Kxh1 Qxf2
+ 1.Nxf6! Kxf6 2.Ne4+ Kg7 3.Rc2 Qa4 4.Qxg5+ Bg6 ( 4...Kh8 5.Qxd8 Qxc2 6.Qxf8+ ) 5.Rc7+ Kg8( 5...Rd7 6.b3! Qb5 7.Qf6+ Kg8 8.Qe6+ Rf7 9.Ng5 ) 6.Qxg6+ !! hxg6 7.Nf6+
+ 1.Qxg6+ Kh8 ( 1...fxg6 2.Nf6+ Kh8 3.Rh7# ) 2.Nf6
+ 1...Bg4+! 2.Kg2 ( 2.Kg1 Bf3 ) Qh3+ 3.Kg1 Bf3
+ 1...Qh4! 2.gxh5 ( 2.Kg2 Bxg4! ) Bh2+!! ( 2...Bxh3? 3.f4 ! ) ( 2...Qxh3? 3.f4! ) 3.Kxh2 Qxh3+ 4.Kg1Qg4+ 5.Kh1 ( 5.Kh2 Re5! ) Qf3+ 6.Kh2 ( 6.Kg1 Bh3 ) Re5!
+ 1...Qxc3+! 2.bxc3 Ba3#
+ 1...Qxc3+!! 2.bxc3 Bxa3#
+ 1...Qxc3+! 2.bxc3 Ba3#
+ 1...Qxc3+! 2.bxc3 Ba3#
+ 1...Qxc3+!! 2.bxc3 Ba3#
+ 1...Qxc3+! 2.bxc3 Ba3#
+ 1...Qa1+! 2.Qb1 Rxc2+! 3.Kxc2 Qc3#
+ 1...Rxc2+! 2.Kxc2 Qc3#
+ 1...Rxb2+! 2.Rxb2 Na3+ 3.Ka1 Qxc1+ 4.Rb1 Qxb1#
+ 1...Rxc2+!! 2.Rxc2 Nb3+ 3.Kb1 Qxd1+ 4.Ka2 Qxc2
+ 1...Rxc3! 2.bxc3 ( 2.Nxe6 Rxc2+ 3.Kb1 fxe6 ) ( 2.Rxh5 Rxc2+! 3.Kb1 Rc1+ ) Qxc3 3.Kb1 ( 3.Rh2Qa1+ 4.Kd2 Qxd4+ ) Rc5 4.Rd3 Bxa2+! 5.Kxa2 Ra5+ 6.Kb1 Ra1#
+ 1...Bxa2+! 2.Kxa2 Ra5+ 3.Kb1 Ra1#
+ 1...Bxb2+ 2.Kb1 Bxc3+ 3.Kc1 Bb2+! 4.Kb1 Bxd4+ 5.Kc1 Bxe3
+ 1...Ba3! 2.Na4 ( 2.Qxe7 Bxb2+ 3.Kb1 Bxc3+ 4.Kc1 Bb2+ 5.Kb1 Ba3+ ) Bxb2+ 3.Nxb2 Re8 5.Qd4 c5 6.Qc3 Qxa2 7.Be1 Re2! 8.Bxe2 Ne4!
+ 1...Nxc2! ( 1...Nxd3? 2.Nxd3! ) 2.d4 ( 2.Kxc2 Qxb2# ) Nxe3 3.dxe5 Nxd1
+ 1...b4! 2.axb4?! ( 2.Nxb4!? Nxe4 ) Nxd5 3.Bxd5 Nxb4 ! 4.Bc3 ( 4.Bxa8? Nxc2! ) Bxd5 5.exd5 a3!6.Re2 ( 6.Bxg7 a2+! ) ( 6.b3 Qc7 7.Bxb4 a2+! ) Bxc3 7.Qxc3 axb2 8.Qa3 Ra8 9.Qxb2 Qa5 Rfc8
+ 1...b3! 2.a3 ( 2.axb3 Qa5 3.Kd1 ( 3.c3 Qa1+ 4.Kc2 Qxe1 ) ( 3.Kb1 Qxd2! ) Qa1+ 4.Nc1 Bxb2 ) (2.Qxb3 Rb8 3.Qa4 Bxb2+ 4.Kd1 Rb4 5.Qa6 Ba3! ) ( 2.c3 bxa2 3.Kc2 Rb8 4.Ra1 Rxb2+ 5.Kxb2Rb8+ 6.Kc2 Qb5! ) Qxc2+! 3.Rxc2 Rxc2+ 4.Kb1 Rxb2+ 5.Kc1 ( 5.Ka1 Ra2+ 6.Kb1 Ra1# )Rc8+ 6.Kd1 Rb1+! ( 6...Rcc2? 7.Qxb3! ) 7.Kd2 Rc2+ 8.Kd3 Rxe1
+ 1...Qxc2+! ( 1...bxc2? 2.Nc3 ) 2.Rxc2 Rxc2#
+ 1.Na4! Kb8 ( 1...Qe7 2.Bxc7! Rxd1 3.Nb6# ) 2.Rxc7 Qxd1 3.Rc8+! Ka7 ( 3...Kxc8 4.Nb6# )4.Bb8+! Ka8 5.Nb6#
+ 1.Rc8+! Ka7 ( 1...Kxc8 2.Nb6# ) 2.Bb8+! Ka8 3.Nb6#
+ 1.Rac1!! ( 1.Rfc1 ) ( 1.Na7+? Kd7! ) Qxb3 2.Rxc7+ Kb8 3.Rc5+ Ka8 4.Nc7+ Ka7 ( Ka7 6.Rxa5# ) 5.Rxa5+ Kb8 6.Rc1! Qb4 ( 6...Kc8 7.Nd5+ Kd7 8.Rc7+ Ke8 9.Re7# )7.Na6+!
+ 1.Rc8+! ( 1.Rxd7+? Qxe5 2.Rxd8+ Nc8 ) Kxc8 2.Na7#
+ 1.b6!!Bxb6 ( 1...axb6 2.Nc6+! Kc8 ( 2...bxc6 3.Bxc6 ) 3.Na7+ Kb8 4.Nb5 gxf4 5.Bxb7! Kxb7 6.Qa7+Kc6 7.Qxc7# ) 2.Nc6+! Ka8 ( 2...bxc6 3.Qxc6 ( 3.Bxc7+ ) Kc8 4.Bxc7! Bxc7 5.Rab1! ( 5.Rfb1! )Qe6 6.Rb8+ ) ( 2...Kc8? 3.Ne7+ ) 3.Bxc7! Qc5 4.Bxb6
+ 1.Nc6+! bxc6 2.Qxc6
+ 1.Qxd7! ( 1.Rf7? Qd6 ) Qxd7 2.Rf8#
+ 1.Nxe6! ( 1.Rxe6? fxe6 2.Bg6+ Kf8 3.Nxe6+ Kg8! ) (1...fxe6 2.Bg6+ Kf8 3.Rxe6!! Qxe6 ( 3...Qxc7 4.Re8# ) 4.Qd8+ )
+ 1.Rxf6! gxf6 2.Qxh5+! Kg7 3.Qh7+ Kf8 4.Qxd7
+ 1.Rxf6!gxf6 2.Qh5+ Kd8 ( 2...Ke7 3.Nf5+! exf5 4.Nd5+ Kd8 5.Bb6+ ) 3.Qf7 Bd7 ( 3...Be7 4.Nf5 ! Qc7( 4...Re8 5.Nxd6 Bxd6 6.Bb6+ Bc7 7.Rd1+ ) 5.Na4 ! Rf8 6.Qxh7 Ke8 7.Bb6 Qd7 8.Qh5+ Kf8 ) 4.Qxf6+ Kc7 5.Qxh8 Bh6 6.Nxe6+! Qxe6 7.Qxa8 Bxe3+ 8.Kh1
+ 1...Bg4+! 2.Rxg4 Qf2#
+ 1...Rxf3!! 2.Kxf3 ( 2.Nxd4 Rf2+ 3.Rxf2 ( 3.Kxe3 Rxg2 ) Qxf2+ 4.Kd1 Bxg4+ ) Bxg4+! ( 3.Rxg4 Qf2+ 4.Ke4 Qf5+ 5.Kxd4 Qe5# )
+ 1.Rxg6! hxg6 ( 1...Rxd6 2.Qe8+! ) 2.Be5
+ 1.Rxd5! exd5 2.Bb4+ Ke6 ( 2...Kd7 3.Qh3+ Kc7 4.Ba5+ Kd6 5.Qf5 ) 3.Qh3+ ! f5 4.Re1! d4 (4...Rg5 5.Rxe5+! Kxe5 6.f4+! Kxf4 7.Bd6+ Ke4 8.Qf3+ Kd4 9.Qc3+ Ke4 ) 5.Qxb3+Kd7 6.g3! Re8 ( 6...Rg5 7.Rxe5 Rgxh5 8.Qf7+ Kc6 9.Qd5+ ) 7.Bxe8+ Rxe8 8.Rxe5 Rxe5
+ 1...a4! ( 1...b4 ?? 2.a4! ) 2.Ke4 b4! 3.Kxd4 bxa3 4.Kc3 Kg5 5.d4 Kxg4 *
+ 1...f3! 2.gxf3 gxh3 3.Ke2 h2
+ 1...f4! ( 1...h4 ?? 2.gxh4 f4 3.g3! ) 2.exf4 ( 2.gxf4 h4! ) h4 ! 3.gxh4 g3! ( 4.fxg3 e3 )
+ 1.c6! dxc6 2.a5 Kd5 3.a6
+ 1.f6!! ( 1.Kxg2? Kg5 2.a4 bxa3 3.bxa3 Kf6! ) gxf6 2.Kxg2 ( 2.a4? bxa3 3.bxa3 Kg3! ) Kg5 3.a4bxa3 4.bxa3 Kf5 5.a4 Ke5 6.d6!! cxd6 7.c6 !! dxc6 8.a5
+ 1...Nxd5+! ( 2.exd5 e4! 3.Nc4 ( 3.fxe4 f3! ) exf3 4.Nd2 f2! (4...fxg2? 5.Nf3! ) 5.Kd3 f3 )
+ 1...f4! 2.gxf4 ( 2.Ke1 fxg3 ) g3 3.hxg3 h2
+ 1...h4!2.gxh4 Bb4 Ree ( 3.Bxb4 g3 4.fxg3 f2. )
+ 1...Be2! 2.Bxe2 h3! 3.gxh3 ( 3.Bf3 h2 ) g2
+ 1.f6!! Rxe2 ( 1...gxf6 2.g7! Rg2 3.Bg5! Rxg5 4.Qxg5 Qxe2 5.Qg1! ) 2.fxg7 Rxd2 3.Bxd2 Qe2
+ 1.g6! hxg6 ( 1...Kf8 2.gxh7 ) 2.h7
+ 1.Nxe3! Bxh2 ( 1...Bxe3 2.b8Q+ ) 2.Nxg4 Bc7 3.Nf6 Kg7 4.Nd7
+ 1.Nxc5+! ( 1.Nxd6? Rb6 ) Bxc5 2.b8Q
+ 1...Rc1+! 2.Kxc1 bxa2 and 3...a1Q
+ 1...Rc1+!! 2.Kxc1 bxa2 3.Rf8+ Kxf8 4.gxh7 a1Q+ 5.Kd2 Qxb2+ 6.Kxd3 ( 6.Kd1 Qc2+ 7.Ke1Qe2# ) Qb1+! 7.Kd4 Qxh7
+ 1.Rf8+!! Kxf8 2.gxh7 Rc1+ ( 2...d2 3.h8Q+ Kf7 4.Qxg7+ Ke8 5.Qg8+ Kd7 6.Qd5+ Kc8 7.Qxd2) 3.Kxc1 bxa2 4.h8Q+ Kf7 5.Qxg7+ Ke8 6.b4
+ 1.Rf8+! Kxf8 2.gxh7 and 3.h8Q
+ 1.Rd8+! ( 1...Bxd8 2.e7+ Qd5 3.exd8Q+ )
+ 1.Rd8+! Bxd8 2.e7+ Kh8 3.exd8Q+
+ 1.Rh5 ( 1.fxe7? Rxe6 ) (1...Rxh5 2.fxe7 )
+ 1.Rh5! ( 1.fxe7? Rxe6 ) Rxh5 2.fxe7
+ 1.Rxa7! Rxa7 2.c7!
+ 1.Rxa7!! Rxa7 2.c7
+ 1...Bh2+! ( 1...e2? 2.Qc8+! Kg7 3.Rd7+! Kh6 4.Qf8+! ) ( 1...Qxd7? 2.Rxd7 Bb6 3.Kf1 ) ( 1...Qc5?2.Kf1 ) 2.Kxh2 ( 2.Kf1 Qf6+! 3.Ke2 Qf2# ) Qxd7! 3.Rxd7 e2
+ 1...Rxb4! 2.axb4 a3 3.Kd2 a2
+ 1...Rc4!! ( 1...Bc5? 2.Rxc2 Rc4+! 3.Rcf2! Rc3! 4.Kg2 Bxf2 5.Rxf2 Rxb3 6.Rd2! Ra3 7.Rd8+! Kg6 9.Rxa7 = ) 2.bxc4 ( 2.Rc1 Bc5! ) Bc5! 3.Kg2 Bxf2 4.Kxf2 b3
+ 1.f5+! ( 1.h7? f5! ) Kxf5 2.h7
+ 1.Bf4! ( 1.h6? f4! 2.h7 f5! ) ( 1...Kxf4 2.h6! )
+ 1.d5! exd5 2.a8Q
+ 1.Bh3! Bxh3 ( 1...f5 2.Bxe5 ) 2.f5 *
+ 1.g4! Re4 2.a5! Rxg4 3.a6 Rh4 ( 3...Rg1 4.a7 Ra1 5.Ra3!! ) 4.Rd8!! Kxd8 5.a7 *
+ 1.Rd8! Kxd8 2.a7
+ 1...Bxc3! 2.bxc3 ( 2.b3 Ra1+ 3.Kg2 a4 ) b3 3.Rb6 Rb4! 4.cxb4 a4! 5.Rb8+ Kh7 ( 6.Ra8 b2 7.Rxa4 b1Q+ 8.Kg2 Qc2+ )
+ 1...Rb3! 2.cxb3 b1Q
+ 1...g5!!2.fxg5 ( 2.hxg5 h4 3.Bd6 Bf5 4.g6 Bxg6 5.f5 Bxf5 6.Kxb3 Kg2 ) d4+! 3.exd4 ( 3.Bxd4 Kg3 ( 3...Kg4) 4.g6 Kxh4 5.Kd2 Kh3 ! ( 5...Kg3 ) 6.Bf6 h4 7.Ke2 Kg2 ! ) Kg3! ( 3...Kg4? 4.d5 Bxd5 5.Bf2 =) 4.Ba3 ( 4.g6 Kxh4 5.g7 Kg4 ) Kxh4 5.Kd3 Kxg5 6.Ke4 h4 7.Kf3 Bd5+
+ 1...g3! 2.hxg3 h2
+ 1.Qxf7+! Kxf7 2.d8N+!! ( 2.d8Q? Qxc2+! 3.Kxc2 e1Q ) Kf6 3.Nxc6
+ 1.e8N+! Kf7 2.Nxd6+
+ 1.Rc8+! ( 1.Qxa6 ?? dxc4+ ) Rxc8 2.Qa7+! Kxa7 3.bxc8N+! Kb7 4.Nxe7
+ 1.Rc8+! Rxc8 2.Qa7+!! Kxa7 3.bxc8N+ NN ( 3...Kb7 4.Nxe7 )
+ 1...Rd1+! 2.Ke2 ( 2.Rxd1 e2+ 3.Kxf2 exd1N+! 4.Kf1 Nxc3 ) Rd2+ 3.Qxd2 ( 3.Kf1 e2+ 4.Kxf2e1Q# ) exd2+ 4.Kxf2 Bf3! 5.Nd6 ( 5.Kxf3 Re1! ) Rf8
+ 1...f2+! 2.Kxh2 f1N+! ( 2...f1Q ?? 3.Qg3# ) 3.Kg1 Nxe3
+ 1.Bb5!! Nb6! ( 1...Nc3 2.Rxe8+!! Kxe8 3.c7+ Ke7 4.c8N+!! ( 4.c8Q ?? Ra1+ 5.Bf1 Ne2+ 6.Kh1Rxf1# ) Kf6 5.Nxa7 ) 2.h3! ( 2.g3 ) ( 2.g4 ) ( 2.f4 ) ( 2.f3 ) Ke7 ( 2...Ra5!? 3.c7!! ( 3.Nd7+?Ke7 4.Rxe8+ Kxe8 5.Nxb6 Kd8! ) Rxb5 4.Nd7+ Nxd7 5.c8Q Nf6 6.g4 ) 3.Rb8! Kd6 4.Rxb6
+ 1.c8N+! ( 1.c8Q? Rc7+! 2.Qxc7+ Bxc7 ) Kd7 2.Nxa7
+ 1.Nc7+! Ka7 2.Nb5+ Ka8 3.Nc7+ Ka7 4.Nb5+ Ka6 5.Nc7+ =
+ 1.e7 h2 2.e8N!! h1Q 3.Nc7+ Ka7 4.Nxb5+ Ka6 5.Nc7+
+ 1.Rf8+! Rxf8 2.Qd5+! Kh7 ( 2...Rf7 3.e8Q+ ) 3.exf8Q
+ 1.Rf8+! Rxf8 ( 1...Kh7 2.Qg6# ) 2.Qd5+! Kh7 3.exf8N+ ! ( 3.exf8Q? Qg1# ) ( 3...Kh8 4.Neg6# )
+ 1...exf1N+! ( 1...fxe4? 2.Re1 ) ( 1...exf1Q? 2.Qxe5 ) 2.Kg1 fxe4
+ 1...e2! 2.Nxe7+ Qxe7! 3.Rxd8+ ( 3.Qxe7 Rxd1 ) Qxd8 4.e7 ( 4.Re1 Rxg2! ) Bxg2+ 5.Kh2 exf1N+!6.Kg1 Qd4+ 7.Qf2 Bd5+ 8.Kxf1 Qd1+
+ 1...b2! 2.Rb1 a3 3.Kd2 a2
+ 1...Qxd4!! 2.Rxd4 Rc1+ 3.Rd1 Rxb1 4.Rxb1 a3! *
+ 1.Qh8+! Kxh8 2.Nxf7+ Kg7 3.Nxe5
+ 1.Qd8+! Kg7 2.Qg8+!! ( 2...Kxg8 3.Ne7+ Kf7 4.Nxf5exf5 5.a6! ) ( 2...Kh6 3.Qh8+! Kg6 4.Ne7+ )
+ 1.b7! Rxc7 2.bxa8Q+
+ 1.d7! Rxe7 2.Bxb8 Rxd7 ( 2...Nd2+ 3.Rxd2 ) 3.Rxd7 Nd2+ 3...cxb2 4.Rd8+! Bf8 5.Nxb2 )
+ 1...Re2+! 2.Rxe2 ( 2.Kd5 Rxe1 3.Bxe1 a1Q ) a1Q+ 3.Kd5 Qxa5
+ 1...Re4! ( 1...b2? 2.Re7+! Kxf6 3.Bg5+! Kf5 4.Rf7+ Ke5 5.Bf6+ ! Kxd5 6.Bxb2 = ) 2.Re6! b2!( 2...Rxe6? 3.dxe6+ Kxe6 4.Bc1 ) 3.Rc6 b1Q 4.Rc7+ Re7! ( 4...Kxf6? 5.Bg7+! Kf5 6.Rf7# )5.Rxe7+ Kxf6 6.Bg5+ Kf5
+ 1.Rxf7! Nxf7 2.Qxf7+ Kh7 ( 2...Kh8 3.Qe8+! Bf8 ( 3...Kh7 4.Qg8+!! ) 4.Rf1! ) 3.Qg8+!! Kxg8 ( 4...Kh8 5.d8Q Bd4+ 6.Rxd4! cxd4 7.Qxb6 axb6 8.Bc4 ) 5.d8Q+ Qxd8 6.Rxd8+Bf8 ( 6...Kh7 7.Rd7 ) 7.Rd7! b5 8.Rxa7 Bg7 9.b3 b4 Bd4
+ 1.Qg8+! Qxg8 2.Bxg8+ Kxg8 3.d8Q+
+ 1...Rxc6!! 2.bxc6 g5! 3.a7 f5 4.c7 ( 4.h4 g4! ) f4! 5.h4 g4! 6.h5 h6 !. (add Nc6)
+ 1...Rxc6! 2.bxc6 Kc7 3.a7 Kc8 =
+ 1.Rc1! Qxc1 ( 1...Rxb3 2.Rxc6 Rb2+ 3.Ka3 ) ( 1...Qd7 2.Nf6+! gxf6 3.Qxb7! Qxb7 4.Rc7+ )2.Nf6+! gxf6 ( 2...Kh8 3.Qg8# ) 3.Qxb7+ Kg8 4.Qb8+ Kf7 5.Qc7+ !
+ 1.Nf6+! ( 1.Qxe7? Qxe4 ) gxf6 ( 1...Kh8 2.Qxe7 Nxe6 3.Qe8+ ) 2.Qxe7+ Kg8 3.Qf7+ Kh8 4.e7
+ 1.g6+! Kf8 2.g7+
+ 1.Rxe7+!Rxe7 2.Bh4! Kf7 ( 2...Rde8 3.f6+! ) ( 2...Red7 3.Bxd8 Rxd8 4.Rc7+! ) 3.Bxe7 Kxe7 4.Rc7+ Ke8 6.Bg6+! Kd8 7.f7!
+ 1...h1Q+! ( 1...d1Q? 2.Ne3+ = ) 2.Kxh1 d1Q
+ 1...g3! 2.hxg3 h2 3.Kg2 e2 ( 4.gxf4 h1Q+! 5.Kxh1exd1Q+ )
+ 1...Rxe5+! 2.Kxe5 Kf7
+ 1...Qh5+ ( 1...gxf5+? 2.Nxf5+ Kh7 3.f8Q ) d6 c5; add e3) ( 2.Nxh5 gxf5+ 3.Kxf5 c4 ) ( 2.Qxh5+ gxh5+3.Nxh5 c4 )
+ 1.Ne6!! ( 1.Nb5 ?? c2 2.Rc8 Bc6! ) ( 1.d7 ?? c2 2.Rxf8+ ! Kg7!! ) fxe6 2.d7 c2 3.Rxf8+! Kg7 (3...Kxf8 4.d8Q+ ) 4.Rf1 (!)
+ 1.Rxf8+! Kxf8 2.d8Q+
+ 1.Be6! Rxe6 ( 1...h1Q 2.e8Q+ ) 2.Rb6!! h1Q ( 2...Rxb6 3.e8Q+ Kg7 4.Qe7+ Kg6 5.Qh4 ) ( h1Q 4.e8Q Qb1+ 5.Kc3 Qa1+ 6.Kb4 Qa7 7.Qg6+ ) 3.e8Q+ Kf5 4.Qxe6+ Kxf4
+ 1.Rh6! Rxh6 ( 1...Ke7 2.Rxf6 Kxf6 3.f8Q+ ) 2.f8Q+ Ke6 3.Qxh6+
+ 1.Rd8!! ( 1...Rxd8 2.c7+ Kb7 3.cxd8Q+ ) ( 1...Rf8 2.Rb7#)
+ 1.Rd8! Rxd8 2.c7+ Kb7 3.cxd8Q
+ 1...Re1+!! ( 1...Re2? 2.Kf1 Qe6 3.Qc3! ) 2.Rxe1 Qd4+! ( 3.Qxd4 dxe1Q# )
+ 1...Qe4+! 2.Qxe4 exf1Q#
+ 1.e7+!( 1.Bxe5? c6! 2.Qxd6 Rxe6 ) Kh8 2.Bxe5! dxe5 3.Qxa8! ( 3...Qxa8 4.Rd8+! )
+ 1.Qxd8! Qxd8 2.Re8+
+ 1.Rd8! R6xc7 ( 1...Rxd8? 2.cxd8Q+ Kxd8 3.a8Q+ ) 2.a8Q
+ 1.Nf5+! Kf6 ( 1...Ke6 2.c7 Rc8 3.a7! Ra6 4.Rd8 ! Rxc7 5.Nxg7+! Kf6 6.Ne8+! Ke7 7.a8Q ) 2.c7! Kxf5 ( 2...Rc8 3.Nd6! Rxc7 4.Ne8+! Ke7 5.Nxc7 ) 3.Rd8 Rbxa6 4.Rb8! add
+ 1.Qxg7+! ( 1.d8Q ?? Qxf2+! 2.Kh3 Qf1+! 3.Kg4 h5+ ) Kxg7 2.d8Q+! Kg8 3.Qxd2 *
+ 1.Qxh7+! ( 1.e8Q? Nxf7! 2.Qxe5+ Nxe5 ) Kxh7 2.e8Q+ Qg7 3.Qg6+! Kh8 4.Rxg7 Rxg7 5.Qxd6
+ 1.Qe7! ( 1.Qxc6? Rxc6 2.Bd6? Rxd6! 3.Rxd6 e2! ) Rxe7 2.fxe7 e2 3.exf8Q+
+ 1.e7!
+ 1.b6!
+ 1.Bf5+! Kd8 2.Rxd5! ( 2...cxd5 3.c6 Re7 4.Bxe7+ )
+ 1.e8Q+! ( 1.exd8Q+? Qxd8 ) Bxe8 2.Rxe8+ Rxe8 3.Qxe8+ Bf8 4.Qxf8#
+ 1.Bg5! Qxg5 ( 1...Qxf7 2.exf7 Rxe1+ 3.Rxe1 Rf8 4.Re8 h6 5.Be7 ) 2.e7! ( 2...Rb8 3.Rd8! Rexd8 4.e8Q+! ( 4.e8R+! ) Rxe8 5.Rxe8+ Rxe8 6.Qxe8+Bf8 7.Qxf8# )
+ 1...d2! 2.Rxe5+? ( 2.Rd1 Bc7 ) Be6!! ( 3.Rxe6+Kd7 )
+ 1...d2!
+ 1...Rxd3! 2.cxd3 Qxe4!! ( 2...c2? 3.Rc4! Qxd3 4.Qf7 ! = ) 3.fxe4 c2
+ 1...Qxc4! ( 1...a2? 2.Ra4 ) 2.bxc4 a2
+ 1.Rxb2! Qxb2 2.Qxc8+!! Nxc8 3.d7
+ 1.Qxb8+! Nxb8 2.a7
+ 1.Bxg6! hxg6 2.h7
+ 1.Bxg6!! hxg6 2.Re7+! Rxe7 3.dxe7+ Kxe7 4.Rd8 !! ( )
+ 1.Bd8!! a5 ( 1...Rxd8 2.Rxd8 Nxd8 3.c7 Ke7 4.c8Q! ) ( 1...Nxd8 2.c7! ) 2.Rb8! ( 2.c7? Nxc7! )
+ 1.b7! and 2.b8Q
+ 1.Bd5! g5 2.e8Q+!
+ 1.Bd5!! ( 1.Bb7? Bd4+! 2.Be3! Rxc7! 3.Bxd4 Rxb7 4.e8Q+ Bxe8 5.Rxe8+ Kf7 6.Rh8! Ke6! 7.Bb2Kd5 ) Bxd5 2.e8Q+! Rxe8 3.Rxe5 Rc8 4.Rxd5
+ 1...a1Q+! 2.Rxa1 Nc2+ 3.Kd2 Nxa1
+ 1...b3! 2.Rdxc5 ( 2.Rcxc5 b2! 3.Rb5 Nc3! 4.Rxb2 Nxd5 5.Rb7 = ) ( 2.Rc8 b2 3.Rd1 Be7 4.Ke2Rxd7 ) b2! 3.Rb5 b1Q+! 4.Rxb1 Nd2+ 5.Ke2 Nxb1 = a7)
+ 1.cxb7 Qxc4 2.bxa8Q+
+ 1.Nxc7! Qxc7 2.Rxc5!! Rxd1 3.cxb7! Rxf1+ 4.Kxf1 Qxb7 5.Bxb7 Bxb7 6.Nxe5
+ 1...dxc3!! 2.Rxc4 ( 2.Na4 axb4 ) ( 2.Nd1 c2 ) cxb2 *
+ 1...Rxb2!! 2.Nxb2 c3 3.Rxb6! ( 3.Nd3 c4+! 4.Rxb6 cxd3 ! ) c4!! 4.Rb4 a5!! 5.Rb5 ( 5.Na4 axb4 ) ( 5.Rxc4 cxb2 ) c2!
+ 1...Nxb2+! ( 1...Ne5+? 2.Ke4 ) 2.Bxb2 Bxe1
+ 1...Nxb2+! 2.Bxb2 Bxe1
+ 1.b4! Bxb4 2.Nc2 f3) *
+ 1.Nc2!
+ 1...Ng5! 2.Qxg6 Nxf3+ 3.Bxf3 hxg6
+ 1...Nh5! 2.Qxg5 Nxg3+ 3.Kg2 Rxg5
+ 1.Rc8! Rxc8 ( 1...Qxe3 2.Rxd8+ Kf7 3.fxe3 ) 2.Qxb6 Rxc1+ 3.Kh2 Rc8 4.Qxa5
+ 1.Rxe6+! ( 1.Rb7+? Qxb7 ) Kxe6 2.Qxa7
+ 1...Rf1+! 2.Rxf1 Qxe3+
+ 1...Rxf3! ( 2.Qxg5 Rxf2 !! 3.Qe3 Rxf1+ 4.Qg1 Ne2) ( 2.Nxf3 Qxe3 )
+ 1.f5!Bxe3 2.f6! Bxf2+ 3.Qxf2 Qe8 4.Qf4 Kh7 5.Nxe6 ! Rxc2 6.Ng5+ Kh8 7.Rxc2 Nc6 8.Rg2
+ 1.f6! Bxf6 2.Bxh7+ Kh8 3.Bg6+ Kg8 4.Qh7+ Kf8 5.Qxf7#
+ 1...Nfxe4 2.Nxe4 Nxe4 3.fxe4 Bxd4+! 4.Qxd4 ( 4.Kh1 Qb6 ) Qxg5 5.Qxd6 Qe3+ 6.Rf2 Be6! 7.Qf4Qxf4 8.Rxf4 Rad8 9.Bf1 Rd4
+ 1...Ne2+! 2.Rxe2 Qxh2#
+ 1...Rxf5! 2.Qxf6+ Rxf6
+ 1...Rxf3! 2.Qxf4 Rxf4
+ 1...Rxe3! 2.Qxf3 ( 2.Qxe8+ Rxe8 3.Rxe8+ Kg7 4.Rxb8 Kxh6 ) Rc8+! 3.Kb1 Rxf3
+ 1...Rxd3+! 2.cxd3 Qxc5+
+ 1.Ne5! ( 1...Qd2 2.Ne7+ Kh8 3.Nxf7# )
+ 1.Ne7+ Kh8 2.Nxf7#
+ 1...Ne4! 2.Nxe4 ( 2.Qd3 Rxe1+! 3.Rxe1 Qf2+ ) ( 2.Qh4 g5! ) Rg6! 3.Rb8 dxe4! ( 3...Rxg3? 4.Rxc8+Kh7 5.Nxg3 ) 4.Rxc8+ Kh7 Bd4 e1)
+ 1...Nf2+! 2.Rxf2 Rxh4
+ 1.Rxe4 Qxg3 ( 1...dxe4 2.Bf4 ) 2.Rxd4! Qg4 ( 2...Qc7 3.Bf4! ) 3.Rxg4 Bxg4 4.Bxg6 Rhg8 5.Bh7Rh8 6.Bd3 Rde8 7.f7 Re7 8.f8Q+! Rxf8 9.Bb4
+ 1.Rxa5+! bxa5 ( 1...Kb8 2.Bd5 ) 2.Bd5
+ 1...Rxg3! 2.Kxg3 Bxf1
+ 1...Rxg3!2.Qxg3 Bxf1 3.Rxf1 Qc2! 4.Qe3 ( 4.Qg2 Rb2! 5.Rf2 Qd1+! 6.Kh2 Bd4! 7.Be3 ( 7.Re2 Bc3! ) Bxe3!8.Rxb2 Bxf4+ ) Rb2 ! ( 4...Rb3? 5.Rc1! ) 5.Rf2 Rb3! 6.Qe2 Bd4! 7.Rh2 ( 7.Be1 Qb1! 8.Kg2 Re3!) ( 7.Rg2 Rxh3+ 8.Rh2 Rxh2+! ) Rb1+
+ 1.Qf6! ( 1.Qxe4? Bxe4 2.Bxd8 Bf5! ) Rxd7 ( 1...Qe6 2.Qxd8+ Kg7 3.Qf6+ ( 3.Bh6+ Kxh6 4.Qf8+) Qxf6 4.Bxf6+ Kxf6 5.d8Q+ ) 2.Bh6
+ 1.d7!Rd8 2.Qf6! Rxd7 ( 2...Qxd7 3.Bg5! ( 3.Bh6? Qd4! ) Rc8 4.Bh6! ) 3.Bh6! Qd4 4.Re1! Be4 ( ) 5.Rxe4 a6) *
+ 1...Rh1+! 2.Kxh1 Qh5+ 3.Kg1 Qh2+ 4.Kf1 Qh1#
+ 1...Rh1+! ( 1...Rdh8 ?? 2.Ra8+! Ncb8 3.Rxb8+ Nxb8 4.Rc7+ Kd8 5.Nxb7+ Ke8 6.Qf7# ) 2.Kxh1Qh4+ 3.Kg1 Qh2+ 4.Kf1 Qh1# *
+ 1.Rh8+!! ( 1.Qxc3? Rea7! ) Kxh8 2.Rh1+ Kg8 3.Rh8+ ! Kxh8 4.Qh1+ Kg8 5.Qh7#
+ 1.Rh8+! Kxh8 2.Qh5+ Kg8 3.Qh7#
+ 1...Rg1+! 2.Kxg1 Qg4+ 3.Kf1 Qg2+ 4.Ke1 Qg1#
+ 1...Rdg8+! 2.Kh1 Rg1+! 3.Kxg1 Qg8+! 4.Kf1 ( 4.Kh1 Qg2# ) Qc4+! ( 5.Ke1 Qe2# ) ( 5.Kg1 Rg8+! 6.Kh1 Qf1# )
+ 1...Rh1+! 2.Kxh1 Qh5+ 3.Kg1 Qh2+ 4.Kf1 Qg2#
+ 1...Rh1+! 2.Kxh1 Qh8+! ( 2...Qc6+ ?? 3.Re4! ) 3.Kg1 Qh2+ 4.Kf1 Qg2#
+ 1...Ra1+!! 2.Kxa1 Ra7+ 3.Kb1 Ra1+ 4.Kxa1 Qa3+ 5.Kb1 Qb2#
+ 1...Ra1+! 2.Kxa1 Qa3+ 3.Kb1 Qb2#
+ 1.Rh8+! Bxh8 2.Qh1
+ 1.Rh8+! Bxh8 2.Qh4 Re8 3.Qh7+ Kf8 4.Qxh8#
+ 1.Rh8+! Kg6 ( 1...Kxh8 2.Qe8+ Kh7 3.Qxh5# ) 2.Qe8+ Kf5 3.Qc8+! ( 3.Rxh5+? Ng5+! 4.fxg5Rxh2+! 5.Kxh2 Qf2+ 6.Kh3 Qf1+ 7.Kh2 Qf2+ = ) Kg6 4.Bf7+! Kxf7 5.Qe8#
+ 1.Rh8+! Kxh8 2.Qe8+ Kh7 3.Qh5#
+ 1.Qh8+!! Kxh8 2.Bf6+! Kg8 3.Rd8#
+ 1.Qh8+! ( 1.Qxg4? Nxg4 ) ( 1.Bf6? Qxd4 2.Rxd4 Rd5 ) Kxh8 2.Bf6+ Kg8 3.Rd8#
+ 1.Qxh7+! Kxh7 2.Nf6+ Kh8 3.Rg8#
+ 1.Qh7+!! Kxh7 2.Nf6+ Kh8 3.Rg8#
+ 1.Qxg7+! Kxg7 2.Rfxf7+ Kg8 ( 2...Kh6 3.Rh7# ) ( 2...Kh8 3.Rh7+ Kg8 4.Reg7# ) 3.Rg7+ Ke8 5.Rf8#
+ 1.Qg7+! ( 1.Qh7+ ) Kxg7 2.Rfxf7+ Kg8 ( 2...Kh6 3.Rh7# ) 3.Rg7+ Kh8 ( 3...Kf8 4.Ref7+ ) 4.Rh7+ Kg8 5.Reg7#
+ 1.Rh6+! Kxh6 ( 1...gxh6 2.Qg8# ) 2.Qh8+ Kg6 3.Qh5# e4) *
+ 1.Rh6+! Kxh6 ( 1...gxh6 2.Qg8# ) 2.Qh8+ Kg6 3.Qh5#
+ 1...Qa1+! 2.Kg2 Rxf2+! 3.Kxf2 ( 3.Kg3 Qg1# ) Qxd4+
+ 1...Rxf2+! 2.Kxf2 Qxd4+ 3.Kg2 Qxh4
+ 1...Rg3+!! ( 1...Nxd2? 2.Bxe5 Nxf1 ?? 3.Bxc3! ) ( 1...Qe4+? 2.f3 ! ) 2.fxg3 ( 2.Kh2 Nxd2 (add ( 3.Bxe5 Nxf1+! ) ) Qe4+! 3.Kh2 Nxd2
+ 1...Qxh2+! 2.Kxh2 Nxd2
+ 1...Nf3+!! ( 2.Qxf3 exf3 3.Bxe7 axb5! ) ( 2.gxf3 Qxg5+3.Kh1 axb5 )
+ 1...Nf3+! 2.gxf3 Qxg5+ 3.Kf1 Qxh4
+ 1...Qc2+!! ( 1...Kxh7 ?? 2.Ng5+! Kg8 3.Qh3! ) ( 1...Nxe3 ?? 2.Rh8# ) ( 2.Ka2 Nb4+ 3.Ka3 Nd3+! 4.Ka2 Qxb2# ) ( 2.Kxc2 Nxe3+! 3.fxe3 Kxh7 ) (2.Ka1 Qd1+ 3.Ka2 Nb4+ 4.Ka3 Qa1# )
+ 1...Qxb2+! 2.Kxb2 Nxd3+ 3.Kb3 Nxc5+
+ 1.Rd1! Qa5! ( 1...Qxe2? 2.Qxg7+! Nxg7 3.Rxd8+ Ne8 4.Rxe8# ) 2.Rd7
+ 1.Qxg7+! ( 1.Rxd8? Qxe5 2.Bxe5 f6 ) Nxg7 2.Rxd8+ Ne8 3.Rxe8#
+ 1.Rb8+! Kd7 ( 1...Kxb8 2.Qxc6 ) 2.Rd8+! Kxd8 3.Qxc6
+ 1.a4! Bxa4 2.Qa3! Bb5 3.Rxb5! Qxa3 4.Rb7+ ( Kxf7 6.bxa3 )
+ 1.Rg5! ( 1...Qxc2 2.Rh5# )
+ 1.Rxh6+! gxh6 2.Rh7#
+ 1.Nd5#
+ 1.Rxg7!! Qxf2 2.Rg8+ Ke7 3.Nxd5# *
+ 1...Ne7
+ 1...Ne7!
+ 1...Nf2+! 2.Kg1 Nxd3 3.fxe5 Nxe1
+ 1...Nd4!! 2.Bxd5 Nxe2+ 3.Kh1 Bxd5+! 4.f3 Nxc3 *
+ 1...Bxc4! ( 2.Rxa8 Qxa8 3.bxc5 Qa6 )
+ 1...Qd4!
+ 1...Bc3! 2.Rg1+ ( 2.Rxd8 Ra1# ) Kh6 3.Rxb7 Ra1+ 4.Rb1 Rxb1+ ! ( 4...Rda8 ) 5.Kxb1 Ra1x *
+ 1...Qxa2+! ( 1...Qa3? 2.Qxc3 Rxc3 3.Rxc3 ) 2.Kxa2 Ra5+ 3.Kb1 Ra1#
+ 1...Rd1+! ( 1...Qxe3? 2.Qxe3 Rf1+ 3.Qg1 Rdd1 4.Nf3 ! ) 2.Qxd1 Qf1+ 3.Qxf1 Rxf1#
+ 1...Rc1! ( 2.Rxd4 Rxe1+ 3.Kh2 Rxd4 ) ( 2.Qxc1Qxf2+! 3.Kh2 Qxg2# )
+ 1...Qc6! ( 1...Qd5? 2.Ng5+! hxg5 3.Qh5+ Kg8 4.Qe8+ = ) 2.Qxe5 Bb7 3.Re1 Kh8 4.Qg3 Re8
+ 1...Rxg5! 2.Qxg5 Qxf3+
+ 1...Bg2! ( 1...Qd1+? 2.Qf1 ) 2.Qxf5 Qd1+ 3.Kh2 ( 3.Kf2 Qf1# ) Qh1#
+ 1...Bxd4! 2.Rxe6 ( 2.Rxd4 c5! ) Qxf2
+ 1.Bxe6! Rxd1 2.Qa8+!! ( 2...Kh7 3.Bxf7! h5 4.Qg8+ )
+ 1.Qe8! h5 2.Qg8+ Kh6 3.Qh8#
+ 1.Kd1! Rh2 2.Ke2! ( 2.Ke1 ) Rxg2 3.Kf1 Rh2 4.Kg1 Rh3 5.Kg2 Rh5 6.f3 ! =
+ 1.Nc3!! Qd8 ( 1...exd4 2.Rxf6+! gxf6 3.Qg6+ Ke7 4.Nd5+ ) 2.Nc6! ( 2...Qd7 3.Rxf6+! )
+ 1.Rxg7+! Kxg7 2.Ne6+ Kf6 3.Nxd8
+ 1...Qe4! 2.f3 Qxe2 3.Rf2 Qe1+ 4.Rf1 Qxf1#
+ 1...Bxg2! 2.Nxd8 ( 2.Kxg2 Qh3+! 3.Kh1 Nf3! ) Qe4 3.h3 ( 3.Qxg5 Bh3 4.f3 Qe2! ) Nf3+!! ( 4.Kxg2 Nxd4+ 5.f3 Qxf3+ 6.Kh2 Nxb5 )
+ 1.Ne6!! ( 1...Qxe5 2.Rh3+ Qh5 3.g5# ) ( 1...Qxe6 2.Rh3#) ( 1...Qxf3 2.Qg5# )
+ 1.Qxh7+! Kxh7 2.Rh4#
+ 1...Qc5! 2.Qf2 ( 2.Rxe5? Qc2+ 3.Ka1 Ra8+ 4.Na2 Rxa2+ ! 5.Kxa2 Ra8# ) Rf8! 3.Qd2 Rfd8!4.Rxe5 ( 4.Qf2 Ng4! ) Rxd2 5.Rxc5 Rxc5 6.Ne4 Rxc1+! 7.Kxc1 Rxg2
+ 1...Ra5+ 2.Na2 Rxa2+ 3.Kxa2 Ra5#
+ 1.Bc3! Bf8 ( 1...fxe4 2.Qe5 Bf8 ( 2...Bd6 3.Qh8+ Kf7 4.Qxh7+ Ke6 5.Rxe4+ Kd5 6.Qxd7 ) 3.Qh8+ Kf7 4.Rf1+ Qf5 5.Rxf5+ gxf5 6.Qf6+ )2.Rxe8 Rxe8 3.Qc4+ Qf7 4.Rxe8
+ 1.Qe5! Be8 2.Qh8+ Kf7 3.Qg7#
+ 1.Bd4!! Rf8 ( 1...Rxe4 2.Bxf6+ Qg7 3.Bxg7+ Kxg7 4.Rxe4 ) 2.Qe8 !! Qg7 ( 2...Qxe8 3.Rxe8! ) 3.Qxf8+!! Qxf8 4.Re8! ( 4...Qxe8 5.Bxf6# ) ( )
+ 1.Re8! Rd8 ( 1...Qxe8 2.Bxf6+ Rg7 3.Bxg7# ) 2.Bxf6# *
+ 1.Nxd5!!Rxd5 ( 1...Bxh5 2.Nxf6+ Kh8 3.Rxh5+ Bh6 4.Nxd7+ Kh7 5.Rxd6 ) 2.Rxd5 ( 2.Bxd5+ ) Bf7 3.Qxf7+! Rxf7 ( 3...Kxf7 4.Rxd7+ ! ) 4.Rxd8
+ 1.Re7+!
+ 1.Bd3!! Bxd3 ( 1...Qxc5 2.Bxf5 Nxd5 ( 2...gxf5 3.Qh7+ Kf8 4.Qh5! ) 3.Be6! ) 2.Qh7+ Kf8 3.Nce6+!! fxe6 4.dxe6
+ 1.Rxf5! gxf5 ( 1...f6 2.Ne6+ ) 2.Qh5!
+ 1.Qg5+!Kxg5
+ 1...Qg4+!! 2.Kh2 ( 2.fxg4 = ) Qh5+ 3.Kg2 ( 3.Kg3 Qg4+!! 4.Kxg4 = ) Qg4+! 4.Kf1 Qxa4 =
+ 1.Qf4+!!Qxf4
+ 1.Qxh6+! Kxh6 2.g5+ Kg7 =
+ 1...Qg8!! ( 1...Qc8? 2.c5! Qxc5 3.Qb8+ ) 2.Qb5 Qxc4! 3.Qxc4 3.Qe8+ Qg8 = )
+ 1.g7! a1R! ( 1...a1Q 2.g8Q! Qh1+ 3.Kg5 Qg2+ 4.Kh6! Qxg8 = ) 2.Kg5 Ke7 3.Kh6! ( 3.g8N+? Kf7! 4.Nh6+ Ke6 5.Ng4 Rg1 ) Kf7 4.Kxh7 Rg1 5.h6 Rg6 6.g8Q+! Rxg8 =
+ 1...Re2+! ( 1...Rb2+ ?? 2.Qxb2 ) 2.Kh3 ( 2.Kg1? Rb1+ ) Rb3+! 3.Bxb3 Rh2+! ( 4.Kg3 Rg2+! )
+ 1...Rxe7 ! Der c4) ( 2.Qxe7Qf5+! 3.gxf5 = )
+ 1.Rxg8! Kxg8 ( 1...Rh1+? 2.Rg1 ) 2.Rg3+! Qxg3 3.Qb8+ ! Kg7 4.Qg8+! Kxg8
+ 1.Bf2! ( 1.Bd8+? Kc5 ) e3 2.Bxe3! Qxe3 3.Qf2!! Qxf2 ( 3...Qc5 ?? 4.a5+! Kxa5 5.Qxc5 ) 4.a5+ !=
+ 1.Qe7+! Kg6 ( 1...Kg8 2.Qe8+! Nf8 3.Bd5+! Qxd5 4.Qxf8+! ( 4.Qg6+! ) Kxf8 = ) 2.Be4+! Kxg7
+ 1...Rd1+2.Kh2 Qg1+ 3.Kg3 Rd3+!! 4.Qxd3 Qe3+!! 5.Qxe3
+ 1.Qf8+! ( 1.g4? g5+! 2.Qxg5+ Qxg5+ 3.Kxg5 hxg4 ) Kf6 2.Qh8+ Kf5 3.g4+! hxg4 4.Rd5+! !! Qxc8
+ 1...Qc6+!2.Kf5 Ng7+! 3.Bxg7 Qg6+!!
+ 1.Kc5! ( 1.a8Q? c5+! 2.Kxc5 Bxa8 )
+ 1.d6! exd6 2.Kd3!! ( 2.a5? Ke2! ) Bxg3 3.a5 d5 4.a6 Bb8 5.a7!! Bxa7 G.
+ 1.Nxf4+! gxf4 ( 1...Kf5 2.Nxh5 ) 2.Kxf4 =
+ 1.Kh1
+ 1.Nxg5! Nxg5 2.Bxd4! cxd4 3.Kxd4 =
+ 1.Bxa3! bxa3 2.Kxa3
+ 1.g7! Re1+ ( 1...Re8 2.Bh7 ) 2.Bd1! ( 2.Ka2? Be5 ! ) Re8 3.Bh5! Rg8 4.Bf7! Rxg7 5.g6 ! =
+ 1.Bf7! Rxg7 2.g6!
+ 1.Nc6! d3 2.Nxa7! d2 3.Nb5 d1Q 4.Nc3 Qd6+ 5.Kh1 ! = and Ne4!
+ 1.Ne4!
+ 1.Bxe2! Qxe2
+ 1.Nxg4! Bxg4 2.Rg7 e3 ( 2...Be6+? 3.Ka1! Bf2 4.Rg6! ) 3.Rxg4 e2 4.Rxg3 e1Q 5.Rc3 Kb5 6.a4+!Kb4 7.Ra3 a5 8.Rc3
+ 1.Bg4!
+ 1.Rb1! cxb1Q 2.Bxb1 e3! 3.Bxf5! e2 4.Bg4 !! ( 4.h3? g4! ) e1Q ( 4...Kxg4 5.f3+! Kf4 6.Kf2! ) 5.h3!Qc1 6.Kf3! Qf1 7.Ke3 Qg2 8.Ke2 =
+ 1.Rf2! Rxf2 2.Qh5+ ( 2...Kg8 3.Qe8+ )
+ 1.Rxh5+! gxh5 ( 1...Kg8 2.Qe6+ Rf7 3.Qe8+ Rf8 4.Qe6+ Rf7 5.Qe8+ = ) 2.Qxh5+ Kg8 3.Qe8+Kh7 4.Qh5+ =
+ 1.Qe6+! Kh8 2.Ng6+! hxg6 3.Qh3+ ( )
+ 1.Qd5+! Kh7 2.Qh5+ Kg8 3.Qd5+ =
+ 1.Rxh7+! Kxh7 2.Qe7+ Kg8 3.Qe8+ Kg7 4.Qe7+ Kh6 5.Qf8+ Kh7 ( 5...Kh5? 6.Qh8# ) 6.Qf7+=
+ 1.Rxh7+! ( 1.Qxd3? Qf2! ) ( 1.a6? Nf2+ 2.Kg1 Ng4+ 3.Kh1 Qh2# ) Kxh7 2.Qe7+ ( 2...Kh6 3.Qf8+ Kh5 4.Qh8+ Kg5 5.Qd8+ Kf5? 6.Bxd3+! Kd4 8.Qe4+ )
+ 1.Bxf6! exf6 ( 1...Qxf6? 2.Qg8# ) ( 1...Kxf6? 2.Qg6# ) 2.Qd7+ ( 2...Kf8 3.Qd8+ Kf7 4.Qd7+ )
+ 1.Rxg7+! ( 1.Qe5? Nf5 ) Kxg7 2.Qe7+ Kg8 3.Qe8+ Kg7 4.Qe7+ =
+ 1.Bb6!Qxb6 2.Nxf6+ gxf6 3.Bxh7+! ( 3.Qg4+ Kh8 4.Qh4 f5 5.Qf6+ Kg8 6.Qg5+ Kh8 = ) Kxh7 4.Qh5+= (add and Rc8 d7)
+ 1.Qg4+! Kh6 2.Qh4+ Kg6 3.Qg4+ =
+ 1...Bxh2+! 2.Kxh2 Qh4+ 3.Kg1 fxg2 4.Kxg2 Rxf2+! ( 4...Qg4+? 5.Qg3 Qxd1? 6.Qxg7# ) 5.Qxf2Qg4+ 6.Qg3 Qe2+ 7.Kh3 Qh5+
+ 1...Rxf2+! 2.Qxf2 Qg4+ 3.Qg3 Qxd1
+ 1...Rxf3+! 2.gxf3 ( 2.Bxf3 Bxc4+ ) Bh3+ 3.Ke1 Qg1+ 4.Kd2 Qg5+ = a2)
+ 1...Be3+! 2.Kh2 Bf4+ 3.Kg1 Be3+ =
+ 1...Qf2+! 2.Kh2 Qh4+ 3.Kg1 Qf2+ =
+ 1...Rxc7! ( 1...Qf2+? 2.Kh1! ) 2.Qxc7 Ng4! 3.hxg4 Qf2+ 4.Kh2 Qh4+
+ 1...Rf5!! 2.Qd7+ Kh6 3.exf5 ( 3.Rxf4 Rxf4 4.Nxf4 Qxf4 5.Qxd6 Qe3+ 6.Kh2 Nf3+ ! = ) ( 3.Rf2?Qg3 ) Nxh3+! ( 4.gxh3 Qg3+ = ) ( 4.Kh2 Nf2+5.Kg1 Nh3+ = )
+ 1...Nxh3+! 2.gxh3 ( 2.Kh2 Ng5+ 3.Kg1 Nh3+ = ) Qg3+ 3.Kh1 Qxh3+ 4.Kg1 Qg3+ =
+ 1.Qxg7+! Rxg7 2.Rxf8+ Rg8 3.Rff7 Rc8 4.Rxh7+ ( 4...Kg8 5.Rhg7+ )
+ 1.Qxg7+! ( 1.Bxg8? Bxd7 ) Rxg7 2.Rd8+ Rg8 3.Rxg8#
+ 1...Rxh2+! ( 1...Rxf2? 2.Re8+ Kh7 3.Qg8# ) 2.Kg1 ( 2.Kxh2? Rxf2+ 3.Kh3 Qh6# ) Qxg3+!3.fxg3 Rag2+ 4.Kf1 Rf2+ = d6)
+ 1...Qxf3! 2.gxf3 Rhxh2+ 3.Kg1 Rhg2+ =
+ 1...Qxf1+! 2.Rxf1 Bg3+ 3.Kg1 Bh2+ 4.Kh1 Bg3+ =
+ 1...e4! ( 1...Qxd1? 2.Bg6# ) ( 1...Bxb7? 2.Qxa4 ) 2.Qxa4 Bxh2+ 3.Kh1 Bf4+ ( 4.Kg1 Bh2+ )
+ 1...Qxf5!! 2.Bxf5 ( 2.Rxf5? Bxd6+ 3.Re5 Rd8! ) Bxd6+ 3.Rxd6 Rg2+ 4.Kh1 Re2+! ( 5.Kg1 Rg2+! )
+ 1...Rg2+! 2.Kh1 Rf2+! ( 2...Rg4+! ) 3.Kg1 ( 3.Qf3 Bxf3+ ) Rg2+ 4.Kh1 Rf2+ !=
+ 1...Nd2+! 2.Kh2 Nf1+ 3.Kg1 Nd2+ =
+ 1...Nxe3! 2.Rxc2 Ra1+! 3.Kh2 Nf1+ ( 4.Kg1Ne3+ 5.Kh2 Nf1+ )
+ 1.Ne5!! Qxc2 2.Nxg4+ Kh7 3.Nxf6+ Kh6 4.Ng4+ Kh5 5.Nf6+ Kh6 ( 5...Kh4? 6.Rg4# )
+ 1.Nf6+! Kf8 2.Nd7+ Kg8 3.Nf6+ =
+ 1.fxg6! Nc3+ 2.Qxc3! bxc3 3.Nf5+ Kg8 ( 3...Kh8? 4.g7+ Kg8 5.Nh6# ) 4.Ne7+ ( 4.Nh6+ ) ( 4...Kg7 5.Nf5+ )
+ 1.Nf5+! Kg8 ( 1...Kh8 2.g7+ Kg8 3.Nh6# ) 2.Nh6+ Kg7 3.Nf5+ =
+ 1.Qe6+! Qxe6 2.Rf8+ Kh7 3.Rh8#
+ 1.Rf1! d1Q 2.Qe6+! Kh7! ( 2...Qxe6? 3.Rf8+! Kh7 4.Rh8# ) 3.Nf8+ =! ( 3...Qxf8 4.Qg6+! Kg8 5.Qe6+! Kh7 6.Qg6+ = )
+ 1.Qh6+! Kxh6 2.Rh3+ Kg5! 3.Nxh7+ ( 3.Rg3+ ) Kg4 4.Rg3+
+ 1.Qh6+! ( 1.Nh5+? Kh8 2.Qh6 Nxf5 ) Kxh6 ( 1...Kh8 2.Qxh7# ) 2.Rh5+ Kg7 3.Rxh7#
+ 1.c6!! Nxc6 ( 1...Kxc6? 2.Bxb4 ) ( 1...Rxd6? 2.c7 Rc6 3.Rc3 ! ) 2.Rb3+! Ka5 3.Ra3+ Kb5 ( 4...Kc4 5.Rc3+ )
+ 1.Rb1+! Ka3 ( 1...Kxa4? 2.Ra2# ) 2.Ra1+ Kb3 3.Rb1+ =
+ 1.Bxe4!! ( 1.Bc2? Ra2! 2.Bb1 Rb2! ) Rxf1 2.Bf5! 2...Ra1 3.Be6+ Kh7 4.Bf5+ Kg8 5.Be6+ )
+ 1.Be6+! Kh7 2.Bf5+ Kg8 3.Be6+ =
+ 1.Bf6+! Kf8 2.Be7+ Kg7 3.Bf6+ =
+ 1.Nxe7! Nxe7 2.Qxf6+! Kxf6 3.Bd4+! ( Kf6 5.Bd4+ )
+ 1...Bd4+! 2.Kg3 Be5+ 3.Kf2 Bd4+ =
+ 1...Nxf2!! ( 1...Nxc3? 2.bxc3 Bxc3 3.Ra3 Bxd2 ( 3...Nxf2 4.Kxf2 Bxa5 5.Bb2 ) 4.Bxd2 ) ( 1...Nh6?2.Nc4 ) 2.Kxf2 Bd4+ 3.Kg3 ( 3.Kf3 Bxc3! 4.Bxb5 ( 4.bxc3 Nxc3! ) Bxd2 5.Bxd7 Bxe1 ) ( 3.Re3f5! 4.exf5 Bxe3+ ! 5.Kxe3 Nxc3 6.bxc3 Rxf5 7.Nf3 e6 ) Be5+! 4.Kf2 Bd4+ 5.Kg3
+ 1...Nxe5! 2.dxe5 Qc5+ 3.Rf2 Qd5 ( 3...Qc6 ) 4.Rf3 ( 4.Nf3? fxg4 5.Qxg4 Rxf3 ) Qc5+
+ 1...f2+! 2.Rdxf2 ( 2.Nxf2 Qg2# ) Qh1#
+ 1.Ra8+! Kxa8 2.Bxb7+ Kxb7 3.Qxb5
+ 1.Rc8+! Kb6 ( 1...Kxc8 2.Bxb7+ Kxb7 3.Qxd4 ) 2.Rc6+! Ka7 ( 2...Ka5? 3.Ra6+! ) 3.Ra6+! Kc7 5.Rc8+!
+ 1...Qxg1+! 2.Kxg1 Nxf3+! 3.Kf2 Nxe1+
+ 1...Qf1+!! ( 1...Nxe3 ?? 2.fxe3 Qf1+ 3.Kh2 Rf3 ( 3...Rxe3 4.Qg4 ) 4.Ra8+! Kf7 5.Rb7+! Re7 (5...Kf6 6.Rf8# ) 6.Rxe7+ Kxe7 7.Bb4+! Kd7 8.Qxf1 ) 2.Kxf1 Nxe3+ 3.Ke2 Nc4+! ( 4.Kf1 Ne3+! )
+ 1.Qd8+! Kf7 ( 1...Qe8 2.Rg8+! Kxg8 3.Qxe8+ Kg7 4.Qe7+ Kg6 5.Qe6+ Kg7 6.Qe7+ = ) 2.Qd7+Kg8 3.Qe8+ Kh7 4.Qe7+ =
+ 1.e6!( 1.Qxd5? Rg1+! 2.Rxg1 Qxh3# ) ( 1.hxg4? Qxg4 2.Nxf7+ Kh7 ) Qxe6! ( 1...Rh4? 2.Qd4+!! ) ( 1...fxe6? 2.hxg4 ) 2.Nxf7+! ( 2.Rxe6? Rg1+ ! 3.Kh2 R8g2# ) Kh7 ( 2...Qxf7 3.hxg4Qf3+ = ) 3.Ng5+! R8xg5 4.Qa7+ ( 4.Qc7+ ) Kh8 ( 4...Rg7? 5.Qxg7+! ) 5.Qb8+ ( 5.Qa8+ ) Kf8 7.Qd8+ Kf7 8.Qc7+
+ 1...Qg2+! 2.Ke2 Qf3+ 3.Kf1 Qg2+ =
+ 1...Ra4! ( 1...Ra2? 2.Qxa2 Qf3 3.R1c2! Qh1+ 4.Kf2 Qxh2+ 5.Ke1 Qh1+ 6.Kd2 Qg2+ 7.Kc1 )2.Rb3 ( 2.b5 Rb4 3.Rc5 h5! ) Ra2! 3.Qxa2 Qf3 4.Ra1 ( 4.Rc8+ Kh7 5.Ra8 Qd1+ 6.Kf2 Bc2! )Qh1+ 5.Kf2 Qxh2+ 6.Ke1 Qg1+ 7.Kd2 Qf2+ 8.Kc1 Qe1+ 9.Kb2 Qe2+ ( Qa6+ )
+ 1...Rxd2! ( 1...f3+? 2.Nxf3 ) 2.Qxd2 f3+! 3.Kxf3 Qxd2
+ 1...Bxe3! 2.Rb1 ( 2.Bxe3 f4 3.Bf2 Rxc2 4.Rh3 Qf5! ( 4...Qd3! ) 5.Rh2 ( 5.d5 Rxf2+! ) fxg3 !6.Kxg3 Rc3! 7.Qa8 Ne4+! ) Bxf2 3.Kxf2 f4 ! 4.Rxb2 Qxg3+ 5.Ke2 Qg2+ 6.Ke1 Qg1+ 7.Kd2Qe3+
+ 1...Bg4!! 2.hxg4 ( 2.Qf2 Bxe2 3.Nxe2 Qxf2+ 4.Rxf2 Nxe4 ) Nxg4 3.Rfe1 Nh2! 4.Qf2 Ng4! 5.Qf3Nh2
+ 1...Ng3! 2.Qh2 Nf1 3.Qh1 Ng3
+ 1.Rb5!! ( 1.Rd1? Qxd1+! 2.Nxd1 Rxg7 ) Re8!! 2.Rb1! Rg8! 3.Rb5!
+ 1.Rxd5+! Qxd5 2.Qxg7+
+ 1.Rxg7! Rxg7 2.Qg8+! Nd3) (2...Rxg8 3.hxg8Q# )
+ 1.Rxg7! Rxg7 2.Qg8+! Rxg8 3.hxg8Q#
+ 1.Rxg5+! hxg5 2.h6+! Kxh6 3.Qh8+
+ 1.Qd8+ Kg7 2.Rxg5+! hxg5 3.h6+! Kxh6 4.Qh8+
+ 1.Qxe5+! Rxe5 2.f8Q+ Qg8 3.Qf6+ Qg7 4.Qxg7#
+ 1.f5! Qg5 2.Bxg7+! Qxg7 3.f6! Qg6 4.f7+ Ne5 5.Rxe5! dxe5 6.Qxe5+!
+ 1.Rxg7! Rxg7 2.Nxf6 Qe7 3.Nxe8 Qxe8 4.Qf4 Re7 5.f6 Ng6 ( 5...Re6 6.Rxe5! Rxe5 7.f7! ) 6.Rxe7 (6.Qc7 ) Nxe7 7.f7! ( 7...Qf8 8.Qf6+ Qg7 9.f8Q+ )
+ 1.f7! Qf8 2.Qf6+
+ 1.e7+! Rxd5 2.exd8Q+
+ 1.Bg5! fxe4 2.Rxh7+!! ( 2...Kxh7 3.Qxe4+Kh8 4.Qh4+ Kg8 5.d6+! )
+ 1.Bg5!! h1Q ( 1...fxg5 2.f6! ) ( 1...Qxg5 2.Qc8+ Kg7 3.Qc7+ Kg8 4.Qxh2 ) 2.Qe8+ Kg7 3.Qg6+Kf8 4.Qxf6+ Kg8 5.Qd8+ Kg7 6.Qe7+ Kg8 7.Qe8+ (7...Kg7 8.f6+ Kh7 9.Qf7+ Kh8 ) ( 7...Kh7 8.Qg6+ Kh8 9.Bf6# )
+ 1.Bg5+! Rxg5 2.hxg5+ Kxg5 3.Qxe8
+ 1...b1Q+! 2.Qxb1 Rdc5+ 3.Kd2 Rxb1
+ 1...Qxc2+!! ( 1...Qxf3 ?? 2.Rb5!! Rxb5 3.Rxh7+! Nxh7 4.Qg7# ) 2.Kxc2 b1Q+!! 3.Qxb1 Rc7+4.Kd2 Rxb1
+ 1...Qxf3! 2.Bxf3 Bxf3#
+ 1...Qc6! 2.Ba3 ( 2.Bxc6 Bxc6+ 3.Kg1 Rd1+! 4.Qxd1 e2+ ! 5.bxc5 exd1Q+ ) ( 2.bxc5 Rd1+! ) Bxc6+ 4.Kg1 Rxe2 5.bxc5 Rg2+ 6.Kf1 e2+
+ 1...g1Q+! 2.Rxg1 Qxe4 3.Rxg5 Qe2+ 4.Rg2 Qxd1
+ 1...Bxh3!2.gxh3 g2 3.Rfe1 ( 3.Rf2 Bxd4 4.cxd4 Qxc1+ ) Rxd4! 4.cxd4 Bxd4+ 5.Kh2 Qd6+ 6.e5 Bxe5+ ( 7.Qxe5 g1Q+ )
+ 1...Qd4! 2.Qxd4 ( 2.Kf2 Qxe3+ 3.Kxe3 e1Q+ ) e1Q#
+ 1...Rxe3!! 2.fxg6 hxg6! ( 2...Rxg3! 3.Rxg7+ Kxg7 4.Qf7+ Kh6 5.Qxh7+ Kg5 ) 3.Qxe3 Qc5! (3...Bd4 ?? 4.Rf8+! Kh7 5.R1f7+! ) ( 3...Qd4? 4.Rxg7+ ! Qxg7 5.Qe8+! ) 4.Qxc5 Nxc5 5.Rc7 ( 6.Rxc5? Bd4+ ! )
+ 1...Rxh4+!2.Kxh4 Bd5! ( 3.Rg4 Bf6+ 4.Kg3 Be5+!5.Kh3 e2 6.Rh4+ ( 6.Bxe2 Be6 = ) Kg5 7.Bxe2 Bxg2+ = ) ( 3.Bxd5? e2! )
+ 1...Rxh4+! 2.Kxh4 e1Q+
+ 1.d6! Bxd6 2.Bd5+ Kf8 ( 2...Kh8 3.Ng6# ) 3.Ng6#
+ 1.d6!Rad8 ( 1...Bxe2 2.Bd5+! Kg7 ( 2...Kf8 3.Nd7# ) 3.Nxg4+ Kf8 4.Nf6! Bxd6 5.Nxh7+! Ke7 6.Re1!) ( 1...Nxe5 2.Rxe5 Rxe5 3.Bxe5 Rd8 4.d7 Bb5 5.Bh3! ) 2.Nd7! Bc4 ( 2...Bxe2 3.Bd5+ ) ( Kf7 4.Rh8! ) 3.Rxe8+ Rxe8 4.Nxc5 bxc5 5.d7 Rd8 6.Bh3 Be6 ( 6...h5 7.Bxg4 hxg4 8.Bf6) 7.f3
+ 1.b4! cxb3 2.Rxc5
+ 1.b4!!cxb3 ( 1...Nxb4 2.d7! ) ( 1...Qb5 2.a4 Qa6 3.b5 ) 2.Rc1! Qa5 ( 2...Qa3 3.Nxe5! Bxe5 4.Rxc6!bxc6 5.d7! ) 3.Qxb3 Nxf3 ( 3...Bd7 4.Nxe5 Bxe5 5.Qxb7 ) 4.Qxf3 Ne5 5.Qb3! Nc6 6.Nc7 Nxb3 8.Rxc8+ Bf8 9.Rxf8+ Kg7 Kh6 Kg5 Kxh4
+ 1.c7! Rxe4 2.Bxb6! Rxc4 ( 2...Be6 3.Ng5!! ) 3.Ng5!! Rc6 ( 3...Be6 4.Nxe6 axb6 ( 4...Qxe6 5.Qd8+!Qe8 6.Qd5+! ) 5.Qd5! Qc6 6.Qd8+ ! Qe8 7.Rac1 ) 4.Qb3+! ( 4.Qd5+? Be6 5.Nxe6 Rxe6 ) axb6 ( 5...Rxe6 6.Rad1! axb6 7.Rd8! Rxd8 8.Qxe6+ ! Kh8 9.Rc1 ) 6.Nd8+ ( 6.Ng5+ ) Kg8 8.Nd6+!
+ 1.Nf7+! Kg8 2.Nh6+ Kh8 ( 2...Kf8 3.Qf7# ) 3.Qg8+ Rxg8 4.Nf7#
+ 1.Ne7+! Bxe7 2.fxe7 Qxe7 ( 2...Rxd2 3.Bxf7+! Kg7 4.Qa1+! Kh6 5.exf8Q+ Kh5 6.Rf5 ) ( Kg7 4.exf8Q+ Kxf8 5.Bd5+ ! Kg7 6.Qxd2 ) 3.Rxf7! Rxf7 4.Rxd8+ ( 4...Kg7 5.Bxf7 )
+ 1.Rxd8! Nxf4 ( 1...Qxd8 2.Qxf7+ Kh8 3.Qxg6 ) 2.Rxe8+ Kg7 3.Bxf7
+ 1.Bd6!Qxd6 2.dxe6! Qb4 3.Re4! Qc3 4.Qxf7+ ! Kh8 5.e7! Rxf7 ( 5...Bf5 6.exf8Q+ Rxf8 7.Re8 ! ) 6.Rd8+!Bf8 7.Rxf8+ Kg7 8.Rxf7+ Kh6 9.g3! Qc1+ ( 9...Bg4 Qc1+ ) Qc6 Rxe8 Kg5
+ 1.Bxe6! Qxe6 2.exf6
+ 1.Rd8+! ( 1...Kxd8 2.Nb7+ Kc8 3.Nxc5 ) ( )
+ 1.Rd8+! ( 1.Nb7? Qxd4! 2.Rxd4 Kxb7 ) Kxd8 2.Nb7+ Kc8 3.Nxc5
+ 1.Qg7+!! Nxg7 2.fxg7+ Kg8 3.Nf6+ Kxg7 4.Nxd7 *
+ 1.Qg7+! ( 1.Ng7? Qg8 ) Nxg7 2.fxg7+ Kg8 3.Nf6+ Kxg7 4.Nxe8+
+ 1...f3+! 2.Bxf3 Nf4+ 3.Kf2 Nxe2
+ 1...d3! 2.exd3 ( 2.Qxd3 Qxd3 3.exd3 Nxd2 4.Rfd1 Nf3+ ) ( 2.Qd1 dxe2 3.Qxe2 Nxd2 ) Nd4 3.Qd1Nxd2 4.Qxd2 Nf3+ *
+ 1...Ne5! 2.Ne1 Nf3+
+ 1...Nf3+! 2.Kh1 ( 2.Nxf3 Qxg2# ) Nxd4
+ 1...Bxf2+! 2.Kxf2 Ng4+ 3.Kf1 ( 3.Kg1 Qc5+! ) Qxc4! ( 3...Nxh2+? 4.Kg1 Qxg3 5.Qe7! ) 4.Qxc4Ne3+ 5.Ke2 Nxc4 6.b3 Ne5 7.Nf1 f4 8.Nd2 f6 9.c4 Kf7 Bc6 g7)
+ 1...Qxd4! 2.Qxd4 Nf3+ 3.Kg2 Nxd4
+ 1...Rxd2! 2.Rxd2 Nb3!
+ 1...Nxc2!! 2.Qxc2 Rxd3! 3.Rxd3 Nb4
+ 1...Qxg3+! 2.fxg3 Nxe2+ 3.Kf2 Nxd4
+ 1...Qxc3!! 2.Bxc3 Nxe2+ 3.Kh1 Nxc3 4.Qb3 Nxb1 5.Qxb1 f3! 6.Bxf3 gxf3 7.Rg1 Bh3!
+ 1.Qxd8! Qxd8 2.Nxf7+ Kg7 3.Nxd8
+ 1.Bd7! Nxd7 ( 1...Qxd7 2.Nf6+ ) 2.Qxc8 ( 2...Qxc8 3.Ne7+ Kg7 4.Nxc8 Rxc8 5.Rxd7 )
+ 1.Rxb8! Raxb8 2.Rxb8 Rxb8 3.Nc6+ Kd6 4.Nxb8
+ 1.Nde5+! ( 1.Nfe5+! ) fxe5 2.Nxe5+ Kf6 ( 2...Ke7 3.Qxc6! ) 3.Qxa5 Nxa5 4.Rxb8! Rhxb8 5.Rxb8Rxb8 6.Nd7+ Ke7 7.Nxb8
+ 1.Qxg7+! Kxg7 2.Ne6+ Kf6 3.Nxd8
+ 1.Bxg6+! fxg6 2.Qxg7+! Kxg7 3.Nxe6+ Kf6 4.Nxd8
+ 1.Ne7+! Kg7 2.N7g6! hxg6 3.Qe7+ Kg8 4.Qxf8+! Kxf8 5.Nxg6+ Kan
+ 1.Qxf8+! Kxf8 2.Nxg6+ Kf7 3.Nxf4
+ 1...Nxf3+! 2.Kh1 Nxd4
+ 1...Re3! ( 2.Bxe3 Nf3+! 3.Kg3 Nxd4 ) ( 2.Qxe3 Nf1+! ) (2.Rxe3 Qxd4 ) ( 2.Qd5 Qxc3 3.Qxf5+ g6 4.Qf7+ Qg7 5.Qxg7+ Kxg7 6.Bxe3 Nf1+! 7.Kg1 Nxe3 )
+ 1.Rxd7! Qxd7 2.Bxc6 Qc7 3.Bxa8 Rxa8 4.Qc6! Qxc6 ( 4...Rc8 5.Nxe7+ ) 5.Nxe7+
+ 1.Qxd6! Qxd6 2.Nxf7+ Kg8 3.Nxd6
+ 1...Qf2+! 2.Kh1 Qxe1+! 3.Rxe1 Nf2+ 4.Kg1 Nxd3
+ 1...Bd3 ( 2.Qxd3 Qf2+ 3.Kh1 Qxe1+! 4.Rxe1 Nf2+ 5.Kg1Nxd3 ) ( 2.Rxd3 Qxe1+ 3.Bf1 Rb4 ) ( 2.Qxa4 Qf2+ 3.Kh1 Ng3+! 4.hxg3 Rxe1+ )
+ 1...Be4! 2.Qxe4 Nc3+ 3.Kc2 Nxe4
+ 1...Rxb2+!! 2.Kxb2 ( 2.Qxb2 Be4+! 3.Ka1 ( 3.Kc1 Nd3+! ) Nc2+ 4.Ka2 Nb4+ 5.Ka1 Nc2+ = )Be5! 3.f6+ Kf7 4.Qxe5 ( 4.Rd1!? Bxd4+ 5.Rxd4 Nd5 6.Nc5 Bc8 7.Bc2 h6 = ) Nd3+ 5.Ka3 Nxe5=
+ 1...Rf1+! 2.Kh2 ( 2.Rxf1 Qxd5 ) Qf4+ 3.g3 Qf2+ 4.Qg2 Qxg2+ 5.Kxg2 Rxd1
+ 1...Rxf2! 2.Ne4! ( 2.Kxf2 Ng4+! ) Nxe4! 3.Rexd3 Rf1+!! 4.Rxf1 ( 4.Kxf1 Qf5+! 5.Kg1 Qc5+ 6.Kh1Nf2+ ) Qc5+ ( 5.Kh1 Nf2+ 6.Rxf2 Qc1+ 7.Rd1 Rxd1+ )
+ 1.Rxa8! Qxa8 2.Nc7+ Kd7 3.Nxa8
+ 1.Nxb7!Rxb7 2.Qxb7! Qxb7 3.Rxc8 Kf8 4.Rb8! Qe7 ( 4...Qa7 5.Rcc8 Nac7 6.Nc6! ) ( 4...Qxb8 5.Nd7+! )5.Rxa8 g6 6.Rcc8 Kg7 7.Rxe8
+ 1.Nxb6! f5 ( 1...Qxb6 2.Rxd6 Rxd6 3.Rxd6 Bf8 4.Bxc5 Bxd6 5.Bxd6 ) 2.Bxc5
+ 1.Nxb7! ( 1.Bxc6? Bxc5 ) Kxb7 2.Bxc6+! Kb6 ( 2...Kb8 3.Qa8# ) 3.Qb5+ Ka7 4.Qb7#
+ 1...Bb4 2.Rxb2 Bxc3
+ 1...Rb2! 2.Rc2 ( 2.Qd1 Rxf2+ 3.Kh1 Qb2! 4.Ne2 Bxh3! ) Bb4!! 3.Nb5 ( 3.Rxb2 Bxc3 4.Rb3 Qxb3! 5.axb3 Bxd2 ) Bxh3+!! ( 3...Qa4? 4.Rxb2 Bxd2 5.Rxd2 ) 4.Kg1( 4.Kxh3 Qf3! 5.Qe2 Qh1+ 6.Kg4 f5+! 7.Kf4 Rxc2 8.Qxc2 Bd2+ ) Qa4! 5.Rxb2 Bxd2 6.Bxh3Qxc4 7.Bf1 Qc1
+ 1...Bxf2+! ( 1...Rc5 ?? 2.Re8+! ) 2.Kxf2 Rc2+ ( 2...Qxh2+ 3.Kf1 Qxb2 ) 3.Ke3 ( 3.Re2 Qxh2+) ( 3.Kf3 Qg2+ 4.Ke3 Qd2+ 5.Kf3 Qxg5 ) Rxb2 4.Nd4 Qxh2
+ 1...Bxf2+! 2.Kxf2 Qxh2+ 3.Kf1 Rf5+
+ 1.Re4! Qd6 2.Rxh4
+ 1.Nxe5! fxe5 ( 1...Rce8 2.Nxc4 ) 2.Qxe5+ Rf6 ( 2...Kg8 3.Re4! and 4. Rg4. ) 3.Re4! Qe6 4.Qd4 !Rd8! 5.Rxe6 Rxd4 6.Re7+! ( 6.Rxd4 ?? Bxe6 ) Kf8 7.Rxd4 Kxe7 8.Rxg4
+ 1.Nf6+! Nxf6 ( 1...Rxf6 2.Rxf6 Nxf6 3.Qxg6+ ) 2.Qxg6+ Qg7 3.Rxf6 ( 3.Qxg7+! Kxg7 4.Nh5+ )Rxf6 4.Rxf6 Qxg6 5.Rxg6+ Kh7 6.Rd6! Bg4 7.h3! Bd1 8.Rd7+ Kg6 9.Rxb7
+ 1.Nxg6+! Kg8 2.Qh8#
+ 1...Rxb5! 2.axb5 Qa5+ 3.Kb2 Qxb5+ 4.Kc1 ( 4.Ka1 Ra8+ ) ( 4.Rb3 Bxb3 ) Qxf1+
+ 1...Rxb4! ( 1...Qa4? 2.Rb1 ) 2.axb4 Qa4+! 3.Kb2 Qxd1
+ 1...Bxe2! 2.Rxe2 Rxd5! 3.Qxd5 Qb6! 4.Bc1 Qxg1 5.Qxb7 Nf8 6.Qxa6 Be5
+ 1...Qb4! 2.b3 Qxe1+
+ 1...Rf4! 2.Kg2 ( 2.Rc2 Rf3! 3.Qxb6? Qh4! ) Rxf2+! 3.Qxf2 Qg5+ 4.Kf3 ( 4.Qg3 Qxc1 5.Qxd6 Qd2+6.Kf3 Qd3+ 7.Kg4 f5+! 8.Kf4 Qd4+ = ) Qxc1 5.Qxb6 Qxc4 6.Ke3 Qc3+ 7.Ke2 Qc4+ 8.Ke3 Qc3+9.Ke2 Qc4+ =
+ 1...Rxf2+! 2.Qxf2 Qxd3+
+ 1.Nd7! ( 1.Rc1? Qxc1+! 2.Bxc1 Rxd5 ) Rfe8 ( 1...Rxd7 2.Qg4 ! g6 3.Rxd7 ) 2.Qg4! g6 ( ) 3.Qd4! f6 4.Nxf6+
+ 1.Qg4! g6 ( 1...Rxd5 2.Qxg7# ) ( 1...Bf6 2.Bxf6 ) 2.Qxd7
+ 1...Bf4!
+ 1...Rxb2!!2.Rxb2 Qe5! 3.Rfb1 Qxh2+ 4.Kf1 Bf4!
+ 1.Rxd7! Rxd7 2.Qg4+! ( 2.Qf5? Qd6! ) Kh8 3.Qxd7
+ 1.Bxd6!Rxd6 2.Nf5! gxf5 3.Rxd6 ( 3...Rxd6 4.Qg3+! Kf7 5.Qxd6Qb7 6.Qxc5 Nc8 7.Qxf5 ) ( 3...Rc8 4.Qxc5 Qc7 5.Qxf5 )
+ 1.Bxa7! Rxa7 2.b6 Ra6 3.Rc7 Qe8 4.Qxe6+
+ 1.Bxa7+! Kxa7 ( 1...Ka8 2.Nxc8 Qxc8 3.Qa5! Qe8 4.Bd4+ ! Kb8 5.Be5+ Kc8 6.Qc7# ) 2.b6+!Qxb6 3.Nxc8+ Kb8 4.Nxb6
+ 1.Bxg6!hxg6 ( 1...Rxe1 2.Bxh7+ ) 2.Rxe8+ Bxe8 3.Ne6 Qd7 4.Nxg7 Nh6 ( 4...Kxg7 5.Qb2+! Kg8 6.Qxa3) 5.Nxe8
+ 1.Rxh7+! ( 1.Qe4? Rd7 ) Kxh7 2.Qe4+ Kh8 3.Qxd5
+ 1.Rxd7! Rxd7 2.Qxf5+ Kg8 3.Qxd7
+ 1.Nxg6! ( 1...fxg6 2.Re7+ Rf7 3.Rxa7! Rxa7 4.Qd4+!Kg8 5.Qxa7 )
+ 1.Bxe5! Rxe5 2.Bxf7+! Kxf7 ( 2...Kh7 3.Nxe5 Qxe5 4.Rxd7 ) 3.Rxd7+! Qxd7 4.Nxe5+
+ 1.Rxe7+! Qxe7 2.Nxf5+ Kxg6 3.Nxe7+
+ 1.Qxe6! fxe6 2.Nxe6+ Kf7 3.Nxd8+
+ 1.Bxg6!! fxg6 2.Qxe6 ( 2...Bxe6 3.Nxe6+ Kf7 4.Nxc7 )
+ 1.Re7+! Qxe5 2.Rxe5
+ 1.Qf7+!! Bxf7 2.Rxf7+ Rg7 3.Rxg7+ Kh8 4.Rxc7+! Nxd4 5.Rxc8+ Kg7 6.cxd4
+ 1.Nxg6+! hxg6 2.Qxe7 Bxd4 3.Qxe8+
+ 1.Nd5! ( 1.e5 ?? Qxg2# ) Bxb2 2.Ne7+ Kf8 3.Nxc6
+ 1...Be4! 2.Rxd5 f1Q+! 3.Kh2 Qxg2#
+ 1...Rxe7! ( 1...Bb5 ?? 2.Rxe8+! ) 2.Bxe7 Bb5!! 3.Bxd8 ( 3.Qxb5 Rxd1+ 4.Ke2 Re1+ 5.Kf3 Rxe7) Bxd3+ 4.Rxd3 Qc1+
+ 1.f3! Qxf3 ( 1...Qh5 2.Rh2 ) 2.Qd1! ( 2...Rxd6 3.Rh2+! )
+ 1.Rh5+! Kg7 2.Rh7+! Kxh7 3.Qxf6
+ 1.Nd6+! Rxd6 ( 1...exd6 2.Qxd5 ) 2.exd6
+ 1.Nd6!! Qf8 ( 1...Rxd6 2.Re8+ ) ( 1...Nf6 2.Nf7+! Qxf7 3.Qxd8+ ) ( 1...Qg8 2.Qd4+ ! Qg6 ( 3...Kh8 4.Qe5+ Kh7 5.Rd1 !. ) 4.Qxd5 Qxd6 ( 4...Rxd6 5.Qb7+ Kh8 6.Qb8+ )5.Qf7+ Kh8 6.Re6 ! Qf8 7.Qxf8+ Rxf8 8.Rxh6+ Kg7 9.Rxb6 ) ( 1...Qf6 2.Qxd5! Qxd6 ( Kg7 4.Qg8# ) 3.Re8+! Kg7 4.Rxd8 ) 2.Qd4+! Kh7 3.Re6!! Rxd6 4.Qe4+! Kh8 5.Qe5+
+ 1.Bg5! Bxf3 2.Qd2! Qxd4 3.Bxh7+! Kxh7 4.Qxd4
+ 1.Bh7+! Kxh7 2.Qxf6
+ 1.Nd7! Re8 ( 1...Qxd7 2.Bxf7+! ) 2.Bxf7+! Kxf7 3.Qd5+ Kg6 4.g4 Bg5 5.Qf5+ ( 5...Kh6 6.h4 )
+ 1.Bxf7+! Kxf7 2.Qxd7
+ 1.Bg8+! Kxg8 2.Qxd6
+ 1.Rxe7! Nxe7 ( 1...Qxe7 2.Nf5 Qc5 3.Rxg7+ Kh8 4.Qh5 ) 2.Bh7+! Kxh7 3.Qxd6 Rad8 4.Rxg7+!Kh8! 5.Rh7+! Kxh7 ( 5...Kg8 6.Qe6+! Kxh7 7.Qxe7+ ) 6.Qxe7+ Kg8 7.f3
+ 1.Bxg7+! Kxg7 2.Rxe8
+ 1.Nh6+!gxh6 2.Bxh7+! Nxh7 ( 2...Kg7 3.Nf5+! Kxh7 4.Qxf7+ ) ( 2...Kxh7 3.Qxf7+ ) 3.Qg4+! Kh8 4.Rxd8Rxd8 5.Qe4! Nc6 6.Qxc6 Bf8 7.Nf5 Bc4 8.Bxh6 Bd5 9.Qc7 Rac8 Rc6 Rxf8
+ 1.Nxh6+! gxh6 2.Qxd7
+ 1.Rxg7! ( 1...Kxg7 2.Qg3+ ! Kh8 3.Ng6+! Bxg6 4.Qxd6 )
+ 1.Nxh6+! Rxh6 2.Qxd7
+ 1.Rxg7+! Kxg7 2.Qg3+! ( 2...Kf8 3.Ng6+! Kf7 4.Qxc7) ( 2...Kh7 3.Qg6+ Kh8 4.Nf7# )
+ 1.Nh6+! Bxh6 2.Qxd7
+ 1.Rxd5 Darga c3) ( 1...Nxd5 2.Qg4! Kg7 4.Qxd7 ) ( 1...Ng5 2.Qg4!! Nxg4 ( 2...Nxd5 3.Nh6+ ) 3.Rxd7 ) ( 1...Qxd5 2.Ne7+Kh8 3.Nxd5 )
+ 1...Qxb2+!! ( 1...Nc4? 2.Rc2! ) 2.Kxb2 Nc4+! 3.Kb1 Na3#
+ 1...Na3#
+ 1.Nf7+! Kg8 2.Nh6#
+ 1.Qxf7+!! Kxf7 2.Ne5+! Kf8 ( 2...Kf6 3.Nd7# ) 3.Nd7#
+ 1.Qh8+! Kxh8 2.Re8+! Kh7 3.Rh8#
+ 1.Rxh6+!! ( 1.Rxd5? Qh1+! 2.Ka2 Qxd5+ 3.Qxd5 Rxd5 ) gxh6 2.Qh7+ !! Kxh7 3.Rf7+!
+ 1.Rxd5! f5 ( 1...exd5 2.e6! ) 2.exf6 Bxf6 3.Qxf6 Rd7 4.Qd8+
+ 1.f6+! Kxf6 2.Qxd7
+ 1.f7+ Qxf7 ( 1...Kxf7 2.Qg7# ) 2.Qh8#
+ 1.Nxf7! Qd7 ( 1...Kxf7 2.d6+ Kg7 3.Qd4+ ( 3.Bb2+ ) Kh7 4.Bb2! ) 2.d6 Kh7 ( 2...Bxe4 3.Ne5+! )3.Rh4! Bxb1 4.Ng5+ ( 4...Kh8 5.Bb2+ Bg7 6.Rxh6#)
+ 1.c5! bxc5 2.Nxf7! Kxf7 3.Rxe6 Qxe6 4.Bxe6+ Kxe6 5.d5+! Kf7 ( 5...Kd6 6.Re1! Ne5 7.f4 ) 6.d6!Rb7 7.Qd5+ Kf8 8.Qf5+ ! ( 8.Re1? Nf6! ) Kg8 9.Re1! Rf8 Kh8 ( c4! )Nb8 Rbf7
+ 1.Nxg7! Kxg7 2.Qxf6+ Kg8 3.Qg7#
+ 1.Qxh7+! Kxh7 2.Bxd7
+ 1.Rxf8! Rxf8 2.Qxg7! Qxf2 3.Qxf8+ Kc7 4.Qxf7+ Kb6 5.Bxc4 bxc4 6.Qxe6 Qxf4 7.g6
+ 1.Rxd5!! ( 1.c4 ?? Bxc4+! ) Qxd5 2.Nf6+! gxf6 3.Be6+ ! Kf8 4.Bxd5
+ 1.Nf6+! gxf6 2.Bf5+! Kf8 3.Bxd7
+ 1...Rxb2+! 2.Kxb2 c3+! 3.Rxc3 Qxe4
+ 1...d3! ( 1...c3? 2.Rxc3+! ) 2.cxd3 Rxb2+! 3.Kxb2 c3+ ! ( 4.dxc3 Qxg4 )
+ 1...Rxg2+! 2.Kxg2 Qe2+ 3.Kg1 ( 3.Rf2 Qxf2+! 4.Kxf2 Ne4+ ! ( 4...Nfxd5+? 5.Qf3! ) ) Qxf1+!4.Kxf1 Ne4+ 5.Qf3 Nxg5! 6.Qxf8+ Kxf8 (add
+ 1...Qxd1+! 2.Kxd1 Nxf5+ 3.Ke1 Nxg3
+ 1.Qd5!Ra7 2.Ng6+! Kg7 ( 2...hxg6 3.Rh3+ Kg7 4.Qxa2 ) 3.Nxf8 Kxf8 4.e5! Nxe5 5.Qc5+! Kg8 6.Qxc8+Kg7 7.fxe5
+ 1.Rh5+! gxh5 2.Qxd4
+ 1.Qb7+!! Bxb7 2.Bxb7+ Ka5 3.Bb4+ Kb6 4.Bxd2+!! ( 4.Bc3+? Kc7! 5.Bxd4 Rxd1+ 6.Kxd1 Rb8! ) Kc7 5.Ba5+ Nxa5 6.Rxd4
+ 1.Qb7+! Bxb7 2.Bxb7#
+ 1.Rxg6+! Kh7 2.Qh5#
+ 1.Qb3! Rad8 2.Nxf5! Rxf5 3.Rxe4! Qc4 4.Qxc4 dxc4 5.g4
+ 1.Rxg7! Rxg7 2.Qxf6
+ 1.Rxf6! Rxf6 2.Qxe5 axb3 3.axb3 b6 ( 3...Kf7 4.Nxf6 ! Qxf6 5.Qc7+! ) 4.b4! ( 4...Kf7 ( 4...Ra7 5.Rf1 ) 5.Nxf6 Qxf6 6.Qc7+ )
+ 1.e6! Nxf2 ( 1...Qxf2+ 2.Kh1 Bxe6 3.Qxg4! ) 2.exd7+ Kc7 4.Nb5+ Kb8 5.Qd4 !.
+ 1.Qxg4!
+ 1...Re1#
+ 1...Qf5! 2.Nc3 Rfe8 ( 2...Rae8 ) 3.Re1 Rxe4! 4.Nxe4 Re8 5.g4 Rxe4! ( 6.gxf5 Rxe1# )
+ 1...e3! 2.Re2 ( 2.Bxe3 Qxd1+ ) exd2
+ 1...Bxf3! 2.gxf3 e5! 3.Ne2 exd4 4.Nxd4 Qb6 5.Rd2 Rfd8 ( 5...Rcd8 ) 6.Rad1 Rxd4! ( 7.Rxd4 Rd8 )
+ 1.Ng6#
+ 1.Bxf7!! ( 1...Qxd4 2.Ng6# ) ( 1...Rxf7 2.Ng6+! )
+ 1.Bxf7+! Kxf7 ( 1...Rxf7 2.Ne6! dxe6 3.Qxd8 ) 2.Ne6 ( Kf5 4.g4+! Kxg4 5.Rg1+! )
+ 1.Ne6! dxe6 2.Qxd8+
+ 1...Nxe4! 2.Bxe7 Bxf2+ 3.Kf1 Ng3#
+ 1...Nxd2! 2.Bxd5 Nxf1+
+ 1.Nxe5! dxe5 ( 1...Bxd1 2.Nf6+! gxf6 3.Bxf7# ) 2.Bxe7 Bxd1 3.Bxd8 Bxc2 4.Bb6! Bd6 5.b3
+ 1.Ng6+! Nxg6 2.Bxg7#
+ 1...Nd2+! ( 1...Nxg5+? 2.Kh2 Nf3+ 3.Rxf3 ) 2.Rf3 ( 2.Kh2 Nxf1# ) Bxf3+ 3.Kh2 Nf1#
+ 1...Nxe4!! 2.Bxe7 ( 2.Nxe4 Bd4+! ) Bd4+! 3.Kg2 Nxg3+! 4.Kh3 Bg2+! 5.Kxg2 Nxf1+! ( 6.Kh3 Rf3+ 7.Kh4 Bf2+ )
+ 1.Nxd5! exd5 ( 1...Rxc2 2.Nxe7+ Kh7 3.Rxc2 ) ( 1...Qb7 2.Ne7+ ! ) 2.Qxc8+! Rxc8 3.Rxc8+ Kxh8 5.Ng6+
+ 1.Rh8+! Kxh8 2.Nf7+ Kg8 3.Nxd6
+ 1...Nf3+! 2.Bxf3 ( 2.Kf1 Qa1+ ) Qa1+
+ 1...Qxe1+! 2.Bxe1 Rf1#
+ 1...Qxd3+! ( 1...Ra1+! 2.Kxa1 Qxd3 3.Rxd3 ) 2.Rxd3 Ra1+!! 3.Kxa1 Rc1#
+ 1...Ra1+! 2.Kxa1 Rc1#
+ 1.Rd8+! Bxd8 2.Qf8#
+ 1.Qh6! Qxf6 2.Rd8+! Bxd8 3.Qf8#
+ 1...Qxe3+! 2.Rxe3 Rd1+
+ 1...Bxg2!! ( 2.Rxg2 Qxe3+! 3.Rxe3 Rd1+ )
+ 1...Ng3+! 2.Rxg3 Rxg1+! 3.Kxg1 Re1# NN
+ 1...Ng3+! 2.Rxg3 Rxg1+! 3.Kxg1 Re1#
+ 1.Qh8+! Kxh8 2.Rxf8#
+ 1.Qh8+!! ( 1.Rxf8+? Kxf8 2.Rc8+ Ke7 3.Nf3+ Qf6! ) Kxh8 2.Rxf8+ Bg8 3.Rxg8+! Kxg8 4.Rc8+Qe8 5.Rxe8#
+ 1...Qxf2+!! ( 1...Rxb2 ?? 2.Ra8+! Bc8 3.Rxc8+ Rxc8 4.Rxc8+ ) 2.Kxf2 ( 2.Qxf2 Rxc1+ 3.Qf1Rxf1# ) Rxb2+ 3.Kf3 Rxc1 ( 4.Ra8+ Rc8 )
+ 1...Qxf2+! ( 1...Rxd1+? 2.Nxd1 ) 2.Qxf2 Rxd1+ 3.Qf1 Rxf1#
+ 1...Qc2+!! 2.Rxc2 Nb3+! ( 3.Bxb3 Rxd1# )
+ 1...Qc2+! ( 1...Bxd1? 2.cxd4 ) 2.Rxc2 Nb3+! 3.Kb1 ( 3.axb3 Rxd1# ) Rxd1+ 4.Rc1 Rxc1#
+ 1.Qxe8+! Bxe8 2.Rg8#
+ 1.Nd7+! Bxd7 2.Qxc8+!! Bxc8 3.Re8#
+ 1.b5!( 1.Nxe6? Rxd1+! 2.Rxd1 Bd7! ) Bxb5 ( 1...Qb6 2.b3! ) 2.Nxb5 Rxd1+ 3.Rxd1 ( 3...Qxb5 4.Rd8+ Rf8 5.Qxe6+ )
+ 1.Rd8+ Re8 2.Qxe6+
+ 1...Rxd2! 2.Qxd2 Qxd4
+ 1...d4! 2.Ba5 ( 2.Bd2 Rxd2! 3.Qxd2 Qxf5 ) Re5! ( 2...Qxf5? 3.Qxe2 Qxa5 4.Qe6+! ) 3.Rxe5 ( 4.g3 Qxa5 )
+ 1...Qe2!! ( 1...Ne2+ ?? 2.Rdxe2! Qxe2 3.Nf6+! Rxf6 4.exf6 ) 2.Nf6+ ( 2.Rexe2 Rf1# ) ( 2.Rdxe2Nxe2+ 3.Kh1 Rf1+ 4.Rxf1 Rxf1# ) Rxf6 ! 3.exf6 Qxd2
+ 1...Qxe2! 2.Rxe2 Rf1#
+ 1...Qxd2! 2.Qxd2 Rf1#
+ 1...Qxc1+! 2.Qxc1 Bxb2 ( 3.Qxb2 Re1# )
+ 1.Qf8+! Rxf8 2.Rxf8#
+ 1.Rc2! Qxd4 2.Rc4! Qb6 ( 2...Qd2 3.Rc8+! Rd8 4.Qxd2! ) 3.Rc8+! Rd8 4.Qb5! ( 4...Qd4 5.Qe8+! )
+ 1...Rxf4!! 2.Rac2 ( 2.Rxc3 Rb1+ 3.Qf1 Rxf1+ 4.Kg2 Rg1# ) ( 2.gxf4 Qxc1+ ) Qd3! 3.gxf4 ( 4.Rxc7 Rxe4 ) Qxc3! ( 5.Rxc3Ra1+ )
+ 1...Qxd3! 2.Rxd3 Re1+ 3.Qf1 Rxf1+ 4.Kg2 Rg1#
+ 1...c4!!2.Qd1 ( 2.bxc4 Qa3! 3.Qd1 ( 3.Qxa3 Rf1+! ) Qxc1 ! Rf1+ 5.Qxf1 Rxf1# ) Qxd5! 3.Qxd5 Rf1+
+ 1...Qxd1! 2.Qxd1 Rf1+ 3.Qxf1 Rxf1#
+ 1...Re1! 2.Rxe1 ( 2.Bxe1 Qxf1# ) Nf2+! 3.Kg1 Nxd1
+ 1...Re1! 2.Bxe1 ( 2.Rxe1 Nf2+! ) Nb2! 3.Bc3 ( 3.Nxb2 Qxf1# ) Nxd1 4.Rxd1 Qe2
+ 1.Ng6+! Nxg6 ( 1...Kg8 2.Nxe7+ Kf8 3.Nxd5 ) 2.Qxd5
+ 1.Nf6!!Qxg4 ( 1...Qxb2+ 2.Kh1 Rg8 ( 2...Rxe7 3.Qxc8+ ) 3.Qe4 ! ) (1...gxf6 2.Qg7# ) 2.Nxe8! Qe2+ 3.Rxe2!
+ 1.Bg7! ( 1.Rd8? Bf2+! 2.Kxf2 Rxb2+ 3.Kg1 Qe1+ 4.Kh2 Rxg2# ) Bf2+ ( 1...Qxg7 2.Rd8+ )2.Kf1! ( 2.Kxf2? Rxb2+ ) Bb5+ ( 2...Qb8 3.Be5! ) ( 2...f6 3.Ba2+ ( 3.Rd8+ ) ( 3.Bxg6? Bxg2+!4.Kxf2 hxg6 != ) e6 4.Rd8+ Kf7 5.Rf8+ Ke7 6.Bxf6+ Qxf6 7.Rxf6 ) 3.Kxf2 Qe2+ 4.Kg3 Qd6+ ( 5...Kxh8 6.Qf8# ) 6.Kf2
+ 1.Bh8! ( 1.Bf8? Bf6! ) Kxh8 ( 1...Bf6 2.Bxf6 ) 2.Qf8#
+ 1...Qd3+! 2.Qxd3 Re1#
+ 1...d3! 2.Qxd3 ( 2.cxd3 Nd4! ) Rd8 3.Qc3 ( 3.Qe3!? Nd4! 4.Rd2 ( 4.Re1 Nxc2 ) Re8! 5.Rxd4 Rxe3. ) f4 4.Bxf4 Qg4! 5.Bxh6 ( 5.Qe3 Qxf4 ) Rd1+ ( 5...Qxe2 ?? 6.Qxg7# ) 6.Re1 Nd4! 7.h3 Nf3+8.Kf1 Qc4+! 9.Qxc4 Rxe1#
+ 1.Qxf8+! Qxf8 2.Rxh7#
+ 1.Qxf8+! Qxf8 2.Rxh7#
+ 1.Qxh7+! Kxh7 2.Rh4#
+ 1.Qxf8+! Rxf8 2.Rxh7+! Kxh7 3.Rh1+ *
+ 1.Rxh6+!! Bxh6 2.Qxe5+ Bg7 3.Qh2+ Bh6 4.Qxh6#
+ 1.Rxh6+! Bxh6 2.Qxh6#
+ 1...Qxe4!! 2.Qxe4 Ng3+! 3.hxg3 Rh5#
+ 1...Ng3+! 2.hxg3 Rh5#
+ 1.Rxe5! ( 1...dxe5 2.Bc4+ Kh8 3.Ng6+! ) ( 1...Rxf4 2.Re8+ Kf7 ( 2...Rf8 3.Bc4+ ) 3.Rxc8! Rxc8 4.gxf4 )
+ 1.Ng6+! hxg6 2.Rh4#
+ 1.Ng6+!! ( 1.Rxe5 ?? Qd1# ) ( 1.Qxh7+ ?? Kxh7 2.Rh5+ Qh6 ) Nxg6 ( 1...Qxg6 2.Qxd8+ )2.Qxh7+! Kxh7 3.Rh5# NN
+ 1.Qxh7+! Kxh7 2.Rh4#
+ 1...Qxg3! 2.hxg3 Rh5#
+ 1...Qg3!! 2.Qe2 ( 2.hxg3 Rh5# ) ( 2.Qxe3 Qxe3 3.Rxe3 Rc1+ ) Rh5! 3.h3 ( 3.Qxh5 Qxe1# ) Bf4!4.Kg1 Rxh3
+ 1...Bg1+! ( 1...Ng4+? 2.hxg4 Qh4+ 3.Qh3 ) 2.Qxg1 Ng4+! 3.hxg4 Qh4#
+ 1...Bg1+! ( 1...Ng4+ 2.hxg4 Bg1+! ) 2.Qxg1 Ng4+! 3.hxg4 Qh6+ 4.Bh4 Qxh4#
+ 1...Qf1+! 2.Rg1 Ng3+! 3.hxg3 Qh3#
+ 1...Bg4!! ( 2.Rxg4 Qf1+ 3.Rg1 Ng3+! 4.hxg3 Qh3# )( 2.fxg4 Qxf7 )
+ 1...Bf3! 2.Qd3 ( 2.gxf3 gxf3 ) Qe5! 3.gxf3 gxf3
+ 1...Ng4!! 2.hxg4 ? ( 2.e5 Qxe5!? 3.Qxe5 ( 3.hxg4? Qg3 4.Ne4 Bxe4 5.Qxe4 hxg4 ) Nxe5 ) Bf3! 4.gxf3 Qd8! ( 5.fxg4 Qh4 )
+ 1...Rh2+! 2.Kxh2 ( 2.Kf3 Rxf2# ) Qxf2+ 3.Kh3 Rh4#
+ 1...Nxg4!! 2.fxg4 ( 2.Rh1 Qxc4! 3.Qxc4 Ne3+ ) Bxg4! 3.Qxg4 ( 3.Qf1 Bh3+! ) ( 3.Qd3 Rh2+ )Rh2+!! 4.Kxh2 Qf2+ ( 5.Kh1 Rh8+ )
+ 1...Nxg4+!! ( 1...Rc8? 2.Rc3! ) 2.Bxg4 ( 2.Kg2 Rf2# ) Rf2+ 3.Kh3 Rh1#
+ 1...Rh1#
+ 1...Nf4+! 2.gxf4 Rg2+ 3.Ke3 Re1# Gragger
+ 1...Ng4+! 2.hxg4 Rh2+ 3.Kf3 Rf1#
+ 1...Nh1+!! 2.Rxh1 ( 2.Kh3 Rf3# ) Rdf2! ( 3.Rae1 R8f3# )
+ 1...Nf1+! 2.Nxf1 ( 2.Kh3 Rh2# ) R5f3#
+ 1...Rc4#
+ 1...c3! 2.Rxc3 Rxh3! 3.Rfc2 ( 3.Rxh3 Rc4# ) ( 3.Rxc7 Rb3# ) Rc4+! 4.Rxc4 Rb3#
+ 1.Be5+! Kg6 2.Rg7#
+ 1.Rxd6+! ( 1...cxd6 2.Bg5+ Ke6 3.Re7# )
+ 1...Rf1+! 2.Kxf1 Qh1+ 3.Kf2 Ng4# *
+ 1...Rf1+! 2.Kxf1 Qh1+ 3.Kf2 Ng4#
+ 1.Qxe5! Qxe5 2.Nh6+ Kh8 3.Rf8#
+ 1.Qxe5!! Qxe5 ( 1...Ra1 2.Qe8+ ) 2.Nh6+ Kh8 3.Rf8+ Kg7 4.Rf7+! Kxh6 ( 4...Kh8 5.Rh7# )5.Rh7#
+ 1.Qg6+! hxg6 2.Rh8#
+ 1.Qe5! Rf6 ( 1...Qf6 2.Qg3+ ) 2.Qg5+! 1—0 ( )
+ 1...Rh4+! 2.gxh4 g4#
+ 1...Qf2+! ( 1...Qe1+? 2.Rg3! ) 2.Qxf2 Rh5+!! ( 3.Bxh5g5# )
+ 1.Bf8#
+ 1.Qg4+!! Bxg4 2.Rxh6+! gxh6 3.Bf7#
+ 1...e2+! 2.Bxe2 Qd4+ ( 3.Qxd4 Rc1# ) ( 3.Ke1 Rxc3 )
+ 1...d2+! 2.Rxd2 Rb1#
+ 1.Rd7+! Bxd7 ( 1...Kf8 2.Bd6+ Kg7 3.Nh5+ ) 2.Nd5+ Kd8 ( 2...Ke8!? 3.Qf6! ( 3.Qh8+? Ba4! ) Ng7 ( 3...Nf8 4.Bc7! ) 4.Be5 ) 3.Qf6+ Kc8 4.Nb6#
+ 1.Qc4+! Qxc4 2.Nb6#
+ 1.Be6+! Rxe6 2.Qd8#
+ 1.Rxd7+! Kxd7 2.Qd2+ Kc8 3.Qd6! Nxh4 4.Re7
+ 1...Nxf3! 2.gxf3 Rexe4 3.fxe4 Qf6 4.Rd3 Rf2 5.Qxf2 Qa1+ ( 6.Kc2 Qxa2+ 7.Kd1 Qxf2 8.c5 Qf3+ )
+ 1...Qc3! 2.Rb1 ( 2.Bxe4 Qb2# ) Bxd3! 3.cxd3 ( 3.Bxc5 Bxc2 ) Qc2+! 4.Qxc2 Rxc2+
+ 1...Nxf2! 2.Kxf2 ( 2.Qd2 Ne4 3.Nxf3 Qg3+! ) ( 2.Qf1 Qxe3+ ) Qg3+ 3.Kf1 Qg2+ 4.Ke1 f2+
+ 1...c1Q! ( 1...Qe7? 2.Qxe6! Qh4+ 3.Kg2 ) 2.Nxc1 ( 2.Rxc1 Bxc1 3.Nxc1 Qe7! ) Qe7!! 3.Kg3 Nxf4!4.Kxf4 Qh4+ 5.Kf3 ( 5.Kxf5 Rf8+ 6.Rf6 gxf6 ) Qxh5+ 6.Kf4 Bxc1+ 7.Rxc1 Qh4+! ( 7...Rxc1?8.Qd8+ Kh7 9.Rxg7+ Kxg7 = ) 8.Kxf5 Qh5+ 9.Kf4 Rf8+ Rxf6+
+ 1.e7! Qa3+! 2.Rb4! Qa7+ ( 2...Qa8 3.Bf6+ Bg5 4.Rxc4 ) 3.Kxc4! Qxe7 4.Nxg6+! fxg6 5.Bf6+!Qxf6 6.Kd5+! Kg5 7.h4+ Kf5 8.g4+! hxg4 9.Rf4+! Bxf4
+ 1.g5+! hxg5 2.Rf5+! Bxf5 3.e5#
+ 1.Nd5+! cxd5 2.Qa3+! ( 2...Kd8 3.Qd6+ Kc8 4.Rc1+ )
+ 1.Nxg6+! hxg6 2.Qd4+ Kh7 3.Qg7#
+ 1.Qe6#
+ 1.Re7!! Qxe7 ( 1...Bxe7 2.Qf7# ) ( 1...Nxe7 2.Qf7# ) 2.Qd5+ Qe6 3.Qxe6#
+ 1.f6+!gxf6 2.gxf6+ Ke8 3.Nxe6! Qg1+ ( 3...Qxb4 4.Ng7# ) ( 3...fxe6 4.Qg4 Nf5 5.Qh5# ) 4.Ka2 Kf7 6.Qc7 Qc5 7.Qxd8 Bxb5 8.Qxf8+!
+ 1.Ng7#
+ 1...Qe1+! 2.Rxe1 Rxe1#
+ 1...Nc1!! 2.Nd4 ( 2.Rxc1 Qd1+! ) Qb5+! 3.Kg1 ( 3.Nxb5 Rd1# ) Rxd4! 4.cxd4 Ne2+ 5.Kf1 Ng3+6.Kg1 Qf1+ ! 7.Rxf1 Ne2#
+ 1.Rxe7+! Rxe7 2.Qxf5+
+ 1.Bd8+! ( 1.Ra1? Qxe5 2.Nxe5 Rc5! ) Kxd8 2.Rd1+ Bd6 ( 2...Ke7 3.Rd7+ Ke8 4.Rc7+! Kd8 5.Rxc5) 3.Rxd6+ Ke7 4.Rd7+ ( 4.Rxe6+! fxe6 5.Qxg7+ Kd6 6.Qd7# ) Kf8 5.Rxf7+! Kxf7 6.Ng5+! Kh5 8.g4+! Kh4 ( 8...Kxg4 9.Be2+ Kh4 ) 9.Nf3+ Kxg4 Kh5
+ 1.Rxe7! Bxe7 2.Nxg6+! fxg6 3.Qxg6 Ne5 4.Bh6+ ! (4...Rxh6 5.Qg8# )
+ 1.Bh6+! Rxh6 2.Qg8#
+ 1...Rxe5!! 2.fxe5 Nxe5 3.Qd1 ( 3.Qe2 Qc5! 4.Bh3 Bb5 ( 4...Re4 ) ) Rxh4!! 4.gxh4 Ng4+ 5.Ke1 (5.Kg1 d3! 6.cxd3 Qf4 7.Qe2 Qd4+ 8.Kg2 Bc6+ 9.Kg3 Nf6 ) ( 5.Kg2 Ne3+ ) Qf4 6.Qe2 Bb5!
+ 1...Bd3! 2.Qf3 ( 2.Qxd3 Qf2# ) Qe5+ 3.Ne4 Bxe4 4.Qxg4? Bf3+
+ 1.Ne5! fxe5 2.Qh5+ Ke7 3.Bg5+ Kd6 ( 3...Nf6 4.Bxf6+ ! Kxf6 5.Qxe5+! ) 4.Ne4+! dxe4 5.dxe5+Kc5 6.Be3+ Kb5 7.Qe2+ Ka5 8.c3 Bc5 9.b4+ Kb6 ( 9...Bxb4 Ka4 )
+ 1.Rd8+! Rxd8 ( 1...Kxd8 2.Qd2+! Bd4 3.Bxd4 Rc2! 4.Bf6+ !! Ke8 5.Qxc2 Qxf6 6.Qc6+ ) 2.Qxc5Qf6 ( 2...Rd7 3.Qb5 Qd1 4.Rb8+ ) 3.Bg5! Qd4+ 4.Qxd4 Rxd4 5.Rb8+ Kd7 6.Rxh8
+ 1.Rc8+! Kxc8 ( 1...Rxc8 2.Qxd4 ) 2.Qc6+ Kb8 3.Qb7#
+ 1.Bb5! Qxb5 2.Nxc7+ Kd7 3.Nxb5
+ 1.e5!Qxe5 2.Re1 Qc5 ( 2...Qh5 3.Nd5 ) ( 2...Qa5 3.Rxe7+ ! Kxe7 4.Nd5+ ) 3.b4! Qc6 ( ) 4.Nd5 Be6 5.Bb5! ( 5...Qxb5 6.Nxc7+ )
+ 1.Rxd5! Qxd4 2.Rxd4
+ 1.Bd8! Nd5! ( 1...Ng8 2.Ne5! ) 2.Ng5! ( 2.Rxd5 ?? exd5! ) Qf4! 3.Rxd5! Qxd6 4.Rxd6 h6! ( Kxd8 6.Nxf7+ Ke7 7.Nxh8 ) 5.Nxe6 ! fxe6 6.Bh5+ Kf8
+ 1.Nxe6!Qxe6 ( 1...Nxh5 2.Qd5! Nb6 3.Qxc4 Nxc4 4.Nc7+ Kd7 5.Nxa8 ) 2.Nd5 Kd8 ( 2...Nxd5 3.exd5Qf5 4.Qe1+! ( 4.Re1+? Ne5 5.f4 h6 6.g4 Qh7! ) Ne5 ( 4...Qe5 5.f4 ) 5.f4 h6 6.fxe5 Qxg5 7.exd6+. ) 3.Bg4 Qe5 4.f4 Qxe4 5.Bxd7 Bxd7 6.Nxf6 gxf6 7.Bxf6+ *
+ 1.Nc7+
+ 1...Nf3+! ( 1...Ne4 ?? 2.bxa7+! Ka8 3.Qxb7+!! Kxb7 4.a8Q+ Rxa8 ( 4...Kc7 5.Ra7+ Kd6 6.Qd5#) 5.Rxg6 ) 2.Kf2 Rh2+! ( 2...Nxg1 ?? 3.Be5+!! Kc8 4.Rxg1 ) 3.Kxf3 Qf5+ 4.Kg3 Qf2+ 5.Kg4Rh4#
+ 1...Nf4+! 2.Kd1 ( 2.Ke1 Nxd3+! ) Qh1+! 3.Kd2 Nxd3
+ 1.Rxd4! ( 1...exd4 2.Re5+! Kxg4 3.f3# )
+ 1.Rxe6! fxe6 2.Rf7+ Kh8 3.Rxh7#
+ 1...Qg3+!! 2.Bxg3 ( 2.Kg1 Rxe1+ ) fxg3+ 3.Kh3 Rh1#
+ 1...Qg4+!! 2.Bxg4 hxg4+! 3.Kh4 g5+! 4.Kh5 Rxh2#
+ 1...Nh4+! 2.Kg3 ( 2.Kf1 Qd7! 3.Ke2 h6 4.Nf3 Qb5+ ) Nh5+! 3.Kxh4 ( 3.gxh5 Qxg5+ ) h6! 4.f4hxg5+ 5.fxg5 Qxg5+! 6.Kxg5 f6+ 7.Kg6 ( 7.Kh4 g5# ) Rh6#
+ 1...f6+! 2.Kxg6 Rh6#
+ 1...c4! 2.Bxc4 ( 2.Qxd4 exd4 ) Qxc3+! 3.Kxc3 exf4+ 4.e5 Bxe5+
+ 1...Qxb3+! 2.Kxb3? Bd5#
+ 1...Qxf3+!! ( 1...d4? 2.Nxd4 ) 2.Kxf3 d4+ 3.Kf4 Bg5+ 4.Kf5 Be4#
+ 1...f2+! 2.Qxd5 f1Q#
+ 1.Qxf7+!! Kxf7 2.Be6+ Kf6 3.e5+! Kxe5 ( 3...Nxe5 4.Ne4# ) 4.Rd1! Kf6 ( 4...Nc2 5.f4+ ) ( 4...g5 5.Bxg5! ) 5.Ne4+ Ke5 6.Bf4+! Kxe4 7.f3#
+ 1.Qxf7+! Kxf7 2.Be6#
+ 1.Rxh6+! ( 1.Bxh6? Qxg4 ) gxh6 ( 1...Kg8 2.Nf6# ) 2.Nf6+ Kh8 3.Rg8#
+ 1.Rxf5! exf5 2.Qxh6+!! Kxh6 ( 2...gxh6 3.Nf6+ Kh8 4.Rg8# ) 3.Rh1+ Kg6 4.Kf4! Qe6 5.Rh8 6.Bh5x]
+ 1.Qa7+! Kxa7 2.Rxc7+ Ka8 3.Nxb6#
+ 1.Qa7+! Kxa7 2.Rxc7+ Ka8 3.Nxb6# *
+ 1...Rxc4! 2.Qxc4 Ne3
+ 1...Ne3! 2.fxe3 ( 2.gxf4 Qg2# ) ( 2.f3 Qxf3 3.Rd2 Bxg3 ) Qxe3+ 3.Kg2 ( 3.Kf1 Qf3+ 4.Ke1 Bxg3+) Qe2+ 4.Kh1 Qxd1+
+ 1.Rxh5! ( 1.f5? Rd8 2.f6 Qf8 ) ( 1.Nf5? gxf5 2.Rxh5 f6 ) gxh5 2.Nf5
+ 1.Rxh5! ( 1.Nf5? exf5! 2.Rxh5 f6 3.Nd5 Qa7! 4.Nxf6+? Rxf6 5.gxf6 Be3+! ) gxh5 2.Nf5 b5) ( 2...exf5 3.Nd5Be3+! 4.Kb1! Qxg5 5.Nf6+ Qxf6 6.Qxf6 fxe4 7.fxe4 )
+ 1.Qh6+! Kxh6 ( 1...Kf6 2.Qf8# ) 2.Bf8#
+ 1.Ba3!!Rxb1 2.Qh6+! Kxh6 ( 2...Kf7 3.Qf8# ) 3.Bf8+ ( Kg5 5.h4# )
+ 1.Ng5!! Nc6 ( 1...fxg5 2.Qd4 Qd7 3.Re8+! Kf7 4.Qg7+! Kxe8 5.Qf8# ) 2.Qxd5+! Qxd5 3.Re8#
+ 1.Qg7+! Kxe8 2.Qf8#
+ 1.Nd5! exd5 2.Nh6+! Kg7 3.Qf7+! Rxf7 4.Rxf7+ Kh8 5.Bd4+ Bf6 6.Rxf6!
+ 1.Nh6#
+ 1.Qxh6+! ( 1.hxg6+? Rxg6 2.Nxg6 Qxg6 ) Kxh6 2.hxg6+ Kg7 3.Rh7+ Kf6 4.Rxf7#
+ 1.Qh6+! Kxh6 ( 1...Kh8 2.Nf6 ) 2.hxg6+ Kg5 3.Rh5+!! Kxh5 4.f4+ Nxe2 5.Nf6+! Kh6 6.Rh1+Kg7 7.Ne8+! Rxe8 8.Rxh7+ Kf6 9.Rxf7#
+ 1.Qd8+!!( 1.Rd8+? Kh7! 2.Rxc8 Bb3+! 3.Kb2 Qa2+ 4.Kc1 Qc2# ) Kh7 2.Rxh5+!! gxh5 3.Rh6+! ( 4...Kh7 5.Qg7# )
+ 1.Rh6+! Kxh6 2.Qf6+! Kh7 3.Qg7#
+ 1.Qh5+! gxh5 ( 1...Kxh5 2.Rh7# ) 2.Rh7#
+ 1.Nxg6!fxg6 2.Qe5+ Kh6 ( 2...Qf6 3.Rc7+ ) 3.Rc7 Rxc7 4.Rxc7 Rg8 5.Qh5+! ( 5...gxh5 6.Rh7# )
+ 1.Qb2! Kh7 2.R4f5! Bb7 ( 2...gxf5 3.Rh6+! Kxh6 4.Qh8+ Kg6 5.exf5+ Kxf5 6.Qxh5+ Kf6 7.Qg5# ) 3.Rxh5+! gxh5 4.Qd2! ( 4.Qc1 )
+ 1.Rxh6+! Kxh6 2.Qh8#
+ 1.Nf7#
+ 1.Nf6! Qxc2 ( 1...Qxf6 2.Qh7# ) ( 1...Qxg5 2.Qh7# ) 2.Nxf7#
+ 1.Nf7+! Bxf7 2.Qf8+ Bg8 3.Qf6#
+ 1.Nf6+! Bxf6 2.Qxf7+ ( 2.Nxg5+! hxg5 3.Qxf7+ ) Bg7 3.Nxg5+! ( 3...hxg5 4.h6 )
+ 1.Qxh7+! Nxh7 2.Nf7#
+ 1.Rxf6! ( 1.Ng5? Bxg5! 2.Bxg5 Rgf8! ) Nxf6 ( 1...exf6 2.Bxd5! ) 2.Bxb7 ( 2.Ng5! ) Qxb7 3.Ng5! ( 3...Qd7 4.Qxh7+! Nxh7 5.Nf7# )
+ 1.Bf8! Nxb3+ 2.axb3 Rxf8 3.Rxh8+! ( 3.Nd5! ) ( 3.Qh6? Nh5! ) Kxh8 4.Qh6+ Kg8 5.Nd5! ( 5...Nxd5 6.Rh1! )
+ 1.Rxh8+! Kxh8 2.Qh6+ ( 2.Nf6? Kg7! ) Kg8 3.Nf6#
+ 1.Nxc7!Qxc7 2.Qd5+ ( 2.Bc4+! ) Kh8 3.Re8! ( 3.Bxd6? Nf6! ) Nf6 4.Rxf8+ Bxf8 5.Bb2! Bg7 6.Bc4! ( 7.Qf7! Rf8 8.Re8!! Rxe8 9.Bxf6 Re1+ d5+ Bxf6 Kg8 .) Bxf6 8.Qf7 Qd8 9.Re8+!
+ 1.Re8+! Bxe8 ( 1...Qxe8 2.Qxf6# ) 2.Qf8#
+ 1.Rxb7! Qxc6 2.Raxb8#
+ 1.Rxb7! Qxc6 2.Raxb8#
+ 1.Qh6+! gxh6 ( 1...Kxh6 2.Rh8# ) 2.Rh8#
+ 1.Qh6+!! Kxh6 ( 1...gxh6 2.Rh8# ) 2.Rh8#
+ 1.Rxh6+! Bxh6 2.Qf6+ Bg7 3.Qh4+ Bh6 4.Qxh6+
+ 1.Rxg6+!! Bxg6 2.Qe6+ Rff7 ( 2...Bf7 3.Qg4+! ) ( 2...Rhf7 3.Qxg6+ ) 3.Qe8+! Rf8 4.Qxg6+
+ 1.Qxh7+! Rxh7 ( 1...Kxh7 2.Rh5# ) 2.Rg8+ Rxg8 3.Rxg8#
+ 1.Qxh7+! Rxh7 ( 1...Kxh7 2.Rh5# ) 2.Rg8+ Rxg8 3.Rxg8# *
+ 1...Qxh2+!! ( 1...Ng4 ?? 2.Qg6+! ) 2.Kxh2 Ng4+ 3.Kh1 Rh3+! 4.Bxh3 Rh2#
+ 1...Rh3+! 2.Bxh3 Rh2#
+ 1.Rxf7! Kxf7 2.Qh7+ Kf8 3.Qg7#
+ 1.Bh7+! Nxh7 2.Rxf7! Kxf7 ( 2...Nf8 3.Rg7+ Kh8 4.Rd7+ ! Kg8 5.Rxd8 ) 3.Qxh7+ Ke6 4.Bc7!Qd7 5.Re1+
+ 1.Ra8#
+ 1.Ne7+!! Qxe7 2.Ra5! b6 ( 2...e5 3.Bxe5 ) 3.Qf3
+ 1.Rxg7+! Kxg7 2.Qg6+ Kh8 3.Qh7#
+ 1.Rc8+!! Bxc8 ( 1...Kf7 2.Qc7+ ) 2.Qe8+! Rf8 3.Rxg7+ ! Kxg7 4.Qg6+ ( 4...Kh8 5.Qh7# )
+ 1...Bf1!! 2.Bxf1 ( 2.Qxf1 Ng3+ 3.Kg1 Nxf1 ) Ng3+ 3.Qxg3 ( 3.Kg2 Ne2+! 4.Kf3 Ng1# ) Rxg3
+ 1...Bf1!! 2.Qxf1 ( 2.Rd2 Qxe1 ) ( 2.Bxf1 Ng3+ 3.Kg2 Ne4+! 4.Kh1 Nf2+ ) ( 2.Qxh4 Bxg2+ 3.Kg1Nxh4 ) Ng3+ 3.Kg1 Nxf1
+ 1.Rg6! fxg6 ( 1...Qe5 2.Rg7 ) 2.hxg6 Rf7! 3.Qf8+!! Rxf8 4.Rxh7+ Kg8 5.Nh6#
+ 1.Qf8+!! ( 1.Qxh7+? Rxh7 2.Rxh7+ Kg8 3.Nh6+ Kf8 ) Rxf8 2.Rxh7+ Kg8 3.Nh6#
+ 1...Rd3!! 2.Rxd3 ( 2.Qxf6 Rc3+! 3.bxc3 Nb3# ) ( 2.Kc2 Rc3+! 3.Kxc3 Qb3+ 4.Kd2 Qd3+ 5.Kc1Nb3# ) Nxd3+ 3.Kd2 Qxb2+ 4.Ke3 ( 4.Kxd3 Rd8+ 5.Bd7+ ( 5.Ke3 Qd2+ 6.Kf3 Rd3+ ) Rxd7+ ) Qf2+ 5.Kxd3 Rd8+ 6.Kc3 Qd2+ 7.Kb3 Rd3+ 8.Ka4 Qa2+9.Kb4 Qa3#
+ 1...Rc3+! 2.bxc3 ( 2.Kd2 Qxb2# ) Nb3#
+ 1.Qxc6+! bxc6 2.Ba6+ Qb7 3.Bxb7+ Kxb7 4.Rxd8
+ 1.Nb6+! axb6 2.Qxc6+! bxc6 3.Ba6# *
+ 1.Rxc6+! bxc6 2.Ba6+! Qxa6 3.Qc7# *
+ 1.Ba6+! Qxa6 2.Qc7#
+ 1...Rxc1! 2.Rxc1 Qxf4 3.Rdd1 Bd4+ 4.Kh1 Be5 5.g3 Qe4+ 6.Kg1 Bd4+ 7.Rxd4 Qxd4+ 8.Kg2Qd2+ b6)
+ 1...Rxd1! 2.Rxd1 Qxf3+ 3.Kg1 Qxd1+
+ 1...Nf2+! 2.Bxf2 ( 2.Rxf2 Qxe4+! ) Rd1+ 3.Bg1 ( 3.Ne1 Rxe1+ ) Rxg1+ 4.Kxg1 Bd4+ 5.Nxd4Qe1+
+ 1...Bd4+! 2.Kh1 ( 2.Qxd4 Qxf1# ) Qxf1+
+ 1.Rxh7+!! Rxh7 2.Qc8+ Kg7 3.Qg8+ Kh6 4.g5+ fxg5 5.Qxg5#
+ 1.Rxh7+! Rxh7 2.Qxe8+
+ 1.Ng5! Qxh6 ( 1...Rxg5 2.Qxf8+ ) 2.Nxf7#
+ 1.Qh6! Rg8 2.Nf3 Qf8 ( 2...Qc6 3.b5 ) 3.Ng5! Rxg5 ( 3...Qxh6 4.Nxf7# ) 4.Qxg5 h6 5.Qb5 Qg8 7.Qh5 Be3 8.Qxf7
+ 1.Nh6+! gxh6 ( 1...Kh8 2.Nef7# ) 2.Qg4+ Bg7 ( 2...Kh8 3.Nf7# ) 3.Qxe6+ Kh8 4.Nf7+ Kh8 6.Qg8+! Rxg8 7.Nf7#
+ 1.Nh6+! Kh8 2.Qg8+! Rxg8 3.Nf7#
+ 1.Rd6! Qxd6 2.Qxh7#
+ 1.Rd6! Rf6 ( 1...Qxd6 2.Qxh7# ) 2.Qc4+ Kh8 ( 2...Kf8 3.Bc5 ! Rxd6 4.Bxd6+ Ne7 ( Kd7 6.Rd1 ) 5.f4 ) 3.Qxc6! Rxd6 ( 3...bxc6 4.Rd8+ ) 4.Qxd6! ( 4...Qxd6 5.Nf7+ Kg8 6.Nxd6 )
+ 1.Re8+ Kh7 2.g6+! ( 2.Be4+? g6 3.gxf6 Rxd2+ 4.Kg3 ( 4.Kg1 Qxf4 ) h4+! ) fxg6 ( Kh6 4.Rh8# ) 3.Qxb2! Bxb2 4.Ng5+ Kh6 5.Rh8#
+ 1.Ng5+! Kh6 2.Rh8#
+ 1.e6! Qxb2 2.exf7+ Kxf7 3.Qg6+ Kg8 4.Qxe8#
+ 1.e6! Bf6 ( 1...Qxe6 2.Qxg7# ) 2.exd7
+ 1.Rxh6+!! gxh6 ( 1...Kxh6 2.Qg5+ Kh7 3.Qh4+ Kg6 4.f5# ) 2.Qg8+! ( 2.Bg8+? Kh8! )
+ 1.Qg8+! Nxg8 2.Bf5#
+ 1...g5! ( 1...Rxf4 ?? 2.Rxf4 Qe2+ 3.Qf2 ) 2.hxg5 Rf2+ f7) ( 3.Qxf2 Qh5+ 4.Kg1 Qh1# )
+ 1...Rf2+!! 2.Qxf2 ( 2.Kg1 Rg2+ 3.Kh1 Qh5# ) ( 2.Rxf2 Qh5+ 3.Kg1 Qh1# ) Qh5+ 3.Kg1 Qh1#
+ 1...Qa4+!! 2.bxa4 b4#
+ 1...Qa4+!! 2.bxa4 ( 2.Kxa4 Rxa2# ) Rd3+! 3.Bc3 Bxd6+ 4.Qxd6 Rxc3#
+ 1.e6! Bxe6 ( 1...exd3 2.Bxd3 Nf6 3.gxf6 Bxf6 4.Rxh7+ Kg8 5.Nxf6+ ) 2.Bxg7+! Kxg7 3.Qd4+ Kf7 4.Bh5#
+ 1.Bxg7+! Kxg7 2.Qd4+ Rf6 3.Qxf6#
+ 1...Bxg2+! 2.Kg1 ( 2.Kxg2 Qf3+ 3.Kg1 Nh3# ) Nh3+! 3.Kxg2 Qf3#
+ 1...Bxe4! 2.Bd5 ( 2.Bxf7 Bxg2+! 3.Kg1 Qe3+! 4.Kxg2 Qf3+ 5.Kg1 Nh3# ) Qc2! 3.Bxe4 ( 3.Rg1Qxg2+! 4.Rxg2 Rf1# ) Nxe4 4.Qd8+ Kh7 5.Re1 Qe2
+ 1...d4! 2.cxd4 Nf3+ ! 3.Rxf3 Bxf3 4.Rf1 Bxg2! 5.Kxg2 Bh4 6.Qc1 Qg3+ 7.Kh1 Qxh3+ 8.Kg1 Qg3+9.Kh1 Rf3 Qh3+ Qg4+ Rh3+ Rxh2+! ( Bg3+! )
+ 1...Nf3+! 2.gxf3 Rg5+! 3.Kf1 Qxf3+ 4.Qf2 Rg1+! 5.Kxg1 Qh1#
+ 1.Rxh6+! ( 1.Rxd6+? Rxd4 ) Kg8 2.Rh8#
+ 1.Re2! Qh6 ( 1...Qxe2? 2.Qxg7# ) 2.Re6! g6 3.Qe5 Nc4 ( 3...Nd7 4.Qxd5 ) 4.Qxd5! Rf7 5.Rc1! Qf4 6.Rf6! Qc7 7.Be5! Qd7 8.Rxc4! Qxd5 9.Rxc8+ Kh6
+ 2...Rxc3! 3.Qxc3 Nc4 4.Qb4 a5 5.Qb3 Nxa3+ ( 5...Qxe4+ 6.Qd3 Nxa3+ ) 6.bxa3 ( 6.Qxa3 Rb8!7.b3 Qxe4+ ) Qxe4+ 7.Qd3 Rb8+ ( 7...Qe5 ) 8.Kc1 Rc8+ 9.Kb1 Qe5
+ 1...Rxc3! 2.Rd2 ( 2.Qxc3 Qxd1+ ) ( 2.bxc3 Rb5+ 3.Ka1 Qb2# ) Rc4!
+ 1...Rxc3!! 2.gxh4 ( 2.Bxc3 Bxe4+ 3.Qxe4 Qxh2# ) Rd2!! 3.Qxd2 Bxe4+ 4.Qg2 Rh3 Rh2x]
+ 1...Rh3! 2.Qxe4 Rxh2#
+ 1.Rxd5! Qxd5 2.Qxg7#
+ 1.Rb3!Qa1 ( 1...Qxb3 2.Bxg7! Bxg7 3.f6! ) 2.f6 ! Bxf6 3.Bxg7! Bxg7 4.Bh7+! Kh8 ( 4...Kxh7 5.Rxa1 ) 5.Rxa1 Bxa1 6.Be4! Bg7 7.Rh3+ !.
+ 1.Re8+! Qxe8 ( 1...Bg8 2.Rxd8 Rxd8 3.Qf6+ ) 2.Qf6+ Kg8 3.Qg7#
+ 1.Rxe7! ( 1.Qh6? Nf5 ) Qxe7 2.Re1 Qd8 3.Qh6 Rg8 4.Nxh7! Bxh7 5.Re8! ( 5...Qh4 6.Qg7# )
+ 1.e6! ( 1.Rxh6+ ?? gxh6 2.e6+ Qg7 ) Qxe6 2.Rxh6# *
+ 1.e5!! dxe5 ( 1...fxe5 2.Rf7+ Kh6 3.Qc1+! ) ( 1...f5 2.Nxf5+ ! ) 2.Nf5+! gxf5 ( 2...Kf8 3.Nd6! Ke7 5.Rf7+ Kxd6 6.Rd7# ) 3.Rg3+ Kf8 4.Qxf5 Qf4 ( 4...Qh4 5.Rh3! ) 5.Qg6 Ra7 6.Rh3!Rxh3 7.Qg8+ Ke7 8.d6+ ( 8...Bxd6 9.Qf7+ Kd8 )
+ 1.Rxf8+! ( 1.Qe7? N4g6 ) Kxf8 2.Qd8#
+ 1.Re8+! Nf8 2.Nh6+! Qxh6 3.Rxf8+! Kxf8 4.Qd8#
+ 1...Qg1+! 2.Rxg1 Nxf2#
+ 1...Rg6!! 2.gxh3 ( 2.g3 Bxf1 3.Rxf1 Ned2 ) Qg1+! 3.Rxg1 Nxf2#
+ 1.Rxf6! gxf6 2.Qh6
+ 1.Nc6! ( 1.Rxf6? Qxf6 2.Ne6 Qg6 3.Qxg6 hxg6 4.Nxf8 Rxf8! 5.Bb4 Re8 ) bxc6 2.Rxf6 cxd5 (2...gxf6 3.Qg3+ Kh8 4.Qg5 ) 3.Rxd6 ( 3...Qc7 4.Qd4f6 5.Qxd5+ )
+ 1.Bd6! cxd6 ( 1...Bxd6 2.Nf6+! ) 2.Nf6+! gxf6 3.Rg1+ Kh8 4.Qxh7+! Kxh7 5.Rh5# Rb8 a8)
+ 1.Qxh7+! Kxh7 2.Rh4#
+ 1.Nf6! Bxf6 2.Be4
+ 1.Bxg7! Kxg7 2.Nh5+ Kh8 ( 2...Kh6 3.Nf6 ) ( 2...Kg8 3.Qg3+ Bg4 4.Rxe7! ) 3.Nf6! Bxf6
+ 1...Qh3+! 2.Qxh3 Rg1#
+ 1...Rxe7! 2.Qxe7 Qxf3!! 3.gxf3 Rg8+ 4.Kf1 ( 4.Kh1 Nxf2# ) Ba6+ 5.Re2 Nd2+ 6.Ke1 Nxf3+7.Kd1 Rg1+
+ 1...Re3! 2.Qd2 ( 2.Qxe3 Qxc2+ ) Rxc3! 3.Qxc3 Rb8 4.Qd3 Nb5 ( 4...Rxb2+! 5.Kxb2 Qb4+ 6.Kc1Ne2+ ! 7.Nxe2 Bb2+! 8.Kb1 Bc3+ 9.Kc1 Qb2# ) 5.Ka1 Bxb2+! 6.Kxb2 Nc3+ 7.Kc1 Qxf4+ 8.Qd2Rb1#
+ 1...Re3! 2.b3 ( 2.Qxe3 Qxc2# ) Qa1+ 3.Nb1 Rxd3
+ 1.Rxe7! Qxe7 2.Nf5 Qd7 ( 2...Qf6 3.Bd4 Qg5 4.h4 Qd2 5.Qg4 ) 3.Nxg7! Nc2 ( 3...Kxg7 4.Bh6+!Kxh6 5.Qf6+ Kh5 6.Rf4 Qg4 7.Rxg4! Kxg4 8.Qf5+ Kh4 9.g3# ) 4.Bh6 Nd4 5.Qf6 Qg4 ( Nxe6 7.dxe6 Qd4 8.exf7+ ) 6.Qxd4 Rd7 7.Nf5 Re8 8.Bg7 Re6 9.Nh6+ Rxh6
+ 1.Bh6+! ( 1.g5? Qxf5 ) Kg8 ( 1...Kxh6 2.Qxf6# ) 2.Qxf6
+ 1.Nxf7+! Rxf7 2.Ng6+ Kg8 3.Re8+ Nf8 4.Rxf8+ Kh7 5.Rh8#
+ 1.Ne7+! Kh8 2.Qxh7+!! Nxh7 3.Nxf7+! Rxf7 4.Ng6+ Kg8 5.Re8+ Nf8 6.Rxf8+! Kh7 7.Rh8#
+ 1...Nc3+! 2.Qxc3 ( 2.Ka1 Qa2# ) Rxc3
+ 1...Nb4!!2.fxg4 ( 2.Nc1 Rxc2! 3.Nxc2 Bf5 4.b3 Qc6! ( 4...Qa3? 5.Bc5 ) 5.Kb2 Nxc2 6.Bd4 Qa6 7.a4 Qd6! )( 2.a3 Nxc2 3.Nxc2 Qxb3 4.fxg4 Ne4 5.Qd3 Rc3 6.Qe2 Rc4 7.Qd3 Nc3+ 8.Kc1 Rec8! 9.Bd4 Rxd4) Qxa2+ ( 2...Ne4 3.Qe2 Qxa2+ 4.Kc1 Nd6 5.c3 Nc4 ) 3.Kc1 a5! 4.Rhf1 Ne4 5.Qe1 Rc4 6.Rf4 Rxe4 8.Qg3 h6
+ 1.f6! hxg5 2.Qg6! *
+ 1.Qxg6+! Kh8 ( 1...Kf8 2.Qxf7# ) 2.Rh4+
+ 1.Ne6!! Rxe6 ( 1...fxe6 2.Bg6+ Bxg6 3.fxg6+ Kh8 4.Rxh6+! ) ( 1...Nb4 2.Ng5+! ) 2.fxe6 Qd6 4.Bf5+ Kh8 5.Rg6! ( 5.Bg6! ) ( )
+ 1.Bg6+ Kh8 2.Rxh6+! gxh6 3.Qxh6#
+ 1.Bh7+! Kh8 2.Nxf7+! Rxf7 3.Ng6+! Kxh7 4.Nf8+ ! Kg8 5.Qh7+ Kxf8 6.Qh8#
+ 1.Nf8+! Kg8 2.Qh7+ Kxf8 3.Qh8#
+ 1.Rxd7! Qxd7 2.Nxf6+ Kg7 3.Nxd7
+ 1.Bxh6! gxh6 2.Rd7!! Nxd7 ( 2...Qxd7 3.Nf6+ Kg7 4.Nxd7 ) 3.Qxg6+! Kf8 4.Qh7!
+ 1.Bxf7+!!( 1.e6? fxe6! ) Kxf7 2.Rd6! Bxd6 ( 2...Qb7 3.Nxh6+ gxh6 4.Qg6+ Ke7 5.Qf6# ) 3.Qxg7+ Qd8 ( 4...Rf8 5.Nxc8 Rxc8 6.Qxh6+ ) 5.Nxe8 Qxe8 6.Qf6+ Kd5 7.Qd6+ Ke4 8.Re1+ Kg4 Kh5
+ 1.Nxh6+! gxh6 2.Qg6#
+ 1.Bxh6! gxh6 2.Rd6! Nbd7 ( 2...Qxd6 3.Qg6+! Kh8 4.Qxh6+ Nh7 5.Qxd6 ) 3.Qg6+! Kh8 4.Qxh6+Nh7 5.Rg3 ( 5...f5 6.Re6 Qf7 7.Rc6! ) ( 5...Rg8 6.Rxg8+Kxg8 7.Rg6+! )
+ 1.Qxg6+! Kh8 2.Qxh6+ Nh7 ( 2...Kg8 3.Rg5# ) 3.Qxd6
+ 1.Ng6! Qxd5 2.Qh8#
+ 1.Rxd7! Nxd7 ( 1...Qxd7 2.Bxf6 gxf6 3.Nf5 ) 2.Qh5! Bc8 ( 2...hxg5 3.Ng6! ) 3.Nf5 Nf6 ( ) 4.Bxf6 ( 4...Bxf5 5.exf5 gxf6 6.Qg6+ Kh8 7.Qxh6+Kg8 8.Qg6+ Kh8 9.Qxf6+ Kh7 Kg7 Kh7 Rg8 )
+ 1.Nxf5#
+ 1.Rf6!Rh8 ( 1...Rxf6 2.Ng8+ Kh5 3.Be2+ Kh4 4.Rxh7# ) 2.Rxc8 ! Kg7 ( 2...Rbxc8 3.Nxf5+ Kh5 4.Be2#) 3.Rxh8 Rxh8 ( 3...Kxh8 4.Bxd3 ) 4.Rb6 and
+ 1.Qxd6! Rxd6 2.Re8+
+ 1.Nb4!axb4 2.Qxd6! Qd7 ( 2...Rxd6 3.Re8+ Rf8 4.Rxg7+ Kh8 5.Rxf8# ) 3.Qd5!! Kf8 ( 3...g6 4.Rge3! )( 3...Qxd5 4.Re8+ ) 4.Rxg7! Qxd5 5.Rg8+! Kxg8 6.Re8+ Rf8 7.Rxf8#
+ 1.Nxg6+! Bxg6 2.Qg7#
+ 1.Rxf6! exf6 ( 1...Bxf1 2.Rf7+ Kg8 3.Qe5 ) 2.Nf5+! gxf5 ( 2...Kg8 3.Qa7 ) 3.Qa7+ Kg6 4.Qf7+Kg5 5.Qg7+ Kh4 6.Qxf6+ Kg3 7.Qe5+ Kxh3 8.Qxf5+ Kg3 9.Qf4+ Kh3 Kg4
+ 1.Qxg8+! Rxg8 2.Bxh6+ Kh8 3.Bf8#
+ 1.Nf5+!!( 1.Bb3!! Qxa1 2.Nf5+!! ) gxf5 2.Bb3 ! Qxa1 3.Qxg8+!! Bxg8 ( 3...Rxg8 4.Bxh6+ Kh8 5.Nf7# )4.Bxh6+ Kh8 5.Bxf8+ ( 5...Bh7 6.Ng6# )
+ 1...Rxg2+! 2.Kh1 ( 2.Rxg2 Nxf3+ 3.Kf2 Nxe1 ) Nxf3! 3.Ne3 Nxe1 4.Nxd5 Rxf2
+ 1...Nxe4! 2.Nxe4 Nxd5 ( 3.Qd3 Nxf4 ) ( 3.Qd2 Rxe4)
+ 1.Nf7+! Rxf7 2.Rxd8
+ 1.Nd6+!! Rxd6 2.Nc4 ( 2...Rxe2 3.Rxe2+ )
+ 1.Nxf7!! Rxf7 2.Rxb7! Qxb7 3.Nd6 ( 3...Qa8 4.Ra1! )
+ 1.Rxd7! Qxd7 2.Nf6+ Kg7 3.Nxd7
+ 1.Rxe8+! Rxe8 2.Qxg7#
+ 1.Nxf5! Qxf5 ( 1...Bxc3 2.Qxc3+ Ng7 3.Re7 ) 2.Rxe6! Qxe6 3.Bxg7+ Kg8 4.Bxf8 h3)
+ 1...Qxh4+! 2.Rxh4 fxe2
+ 1...d3! ( 1...Bxb5? 2.Ra8+ Bd8 3.Bc7 ) ( 1...Qxb5? 2.Nxd4! ) 2.Nc7+ Qxc7 3.Ra8+ Bd8 4.Qxd3Qb6 5.Rc8
+ 1...Nc2+! ( 1...Nxb3? 2.Nxb3 ) 2.Bxc2 Bxa1
+ 1...Nxd4! 2.Bxd4 ( 2.Qxd4 Nf3+! ) Nd3+! 3.Qxd3 ( 3.exd3 Bxd4 Qc1+! 4.Qd1 Qxd1+ 5.Kxd1 Bxd4
+ 1...Nc4+! 2.bxc4 Rxa4+! 3.Kxa4 Qa2+ 4.Kb4 Qb2+ 5.Kc5 Qxf2+
+ 1...Rxa3+! 2.Kxa3 ( 2.Kb2 Qa1+ 3.Kc2 Ra2+ 4.Kb3 Qb2# ) Qa1+ 3.Kb3 Qb1+ 4.Ka3 ( 4.Ka4Qa2# ) Qxb5
+ 1.Be4!! Qf6 ( 1...Nb5 2.Bxd5! ) 2.Bxd5! exd5 3.Re8+ ! Kf7 4.Rexc8 Rxc8 5.Rxc8 Nxf3+ 6.Kg2Nh4+ 7.Kf1
+ 1.Bg6+! hxg6 2.Qxf6+ Kg8 3.Qh8+ Kf7 4.Qg7+ Ke6 5.Qf6#
+ 1.Nxc6! Bxc6 2.exd5 exd5 3.cxd5 Bb7 4.d6! Bxg2 5.dxe7! Qxe7 6.Kxg2
+ 1.d6+! cxd6 2.Bxb7
+ 1.f6+! exf6 ( 1...Kf8 2.fxe7+ Ke8 3.Nef6# ) 2.e7!
+ 1.c5! Nbxd5 ( 1...dxc5 2.d6! ) 2.cxd6 Bxd6 3.Nxd6 Qxd6 4.g4! Bg6 ( 4...Nxg4 5.hxg4 Bxg4 6.Nxd5cxd5 7.Qxd5 Qxd5 8.Bxd5 Bxe2 9.Re1 ) 5.e4! Rfd8 6.exd5 Nxd5 7.Ne4
+ 1.h6! Bxh6 2.Bh5+ Ke7 3.Bxe8
+ 1.h6! Bxh6 2.Rf6! Nxf6 3.exf6 Qf7 ( 3...Qd7 4.Qh3 Bf8 5.Bh5 ) ( 3...Qf8 4.Bh5 ) 4.Qh3 e5 5.Qxh6Qg6 ( 5...exd4 6.Bh5 Re1+ 7.Kf2 ) 6.Bh5 !
+ 1.Rxg7+! Kxg7 2.Qxd8
+ 1.Nxf7!Rxf7 ( 1...Kxf7 2.Bxd5+ ) 2.Bxf6 Bxf6 ( 2...Nxf6 3.Rxf6 ! Bxf6 4.Qxc8+ ) 3.Rxd5 Qc6 4.Rd6! (4.Rc5? Bxd4+! 5.Rxd4 Qxc5 ) Qe8 5.Rd7!
+ 1.Rg7! Nxh6 ( 1...Nxg7 2.Qxh7# ) 2.Rxh7+ Kg8 3.Nxh6#
+ 1.Nxf7!! Bxf7 2.Nc3 Rxc3 ( 2...Nxc3 3.Qxf7+ Kh8 4.Rxe7 Ne2+ 5.Kh1 Rg8 6.Rxd7 ) 3.bxc3 Nxe7 5.Qxf7+ Kh8 6.Qxe7
+ 1.Rf6!! Nxf6 ( 1...Rxf6 2.Ne7+ Kg7 3.Nxg6 ) ( 1...Bxf6 2.Qxe6+ Qf7 3.Qxd7!! Qxd7 4.Nxf6+Kg7 5.Nxd7 ) 2.Qxe6+ Kg7 3.Qxc8 ( 3.Nxf6? Rf8! 4.Qd7+ Kh8 )
+ 1.Rf6! ( 1.Nf6+? Rxf6! 2.gxf6 Qxg4 3.f7+ Kf8 4.Rxg4 Kxf7 ) gxf6 ( 1...Rxf6 2.Ne7+! Kf7 3.Nxg6) 2.Qxe6+ ! Qf7 3.Qxd7! Qxd7 4.Nxf6+ Kf7 5.Nxd7
+ 1.Nxe5!! ( 1.Nxc5? Rxd2! 2.Rxd2 Rxd2 3.Bxd2 Nxc5 ) Rxd2 ( 1...fxe5? 2.Bg5+! Ke8 3.Bxd8! )( 1...Bxe3? 2.Rxd7+ Rxd7 3.Rxd7+ Ke8 4.Rd3! ) 2.Nc6+! Ke8 3.Bxd2! ( 3.Rxd2? Rxd2 4.Bxd2Bxa3 ) Rd7 ( 3...Rd6 4.Nb4! ) 4.Kc2 Nd6 ( 4...Bxa3 5.Ra1! ) 5.Ned4! Nc7 6.Bf4
+ 1.Nxe5! fxe5 2.Bg5+ Ke8 3.Bxd8
+ 1.Bxf6!Rxe5 2.Rxg7+ Kh8 3.Bxe5! f6 4.Rxe7! Qxe7 5.Bd6! Qf7 6.Bxf8 Qxf8 7.Rxd7 Qh6+ 8.Kd1 Qh1 a6
+ 1.Rxg7+! Kh8 2.Re7+ Qxe5 3.Rxe5
+ 1...Rd2+! 2.Kxd2 Bxa1
+ 1...Nxc1! 2.Rdxc1 Qxb2! 3.Rxb2 Rxb2 4.Qa1 Rxf2! 5.Qb1 Rxf1+! 6.Kxf1 Nd2+ 7.Ke2 Nxb1 8.Rxb1d5
+ 1...Qxb2+! 2.Rxb2 Na3+ 3.Kc1 Bxb2+! 4.Kxb2 Nxc4+ 5.Kb3 Nxe3
+ 1...Rxc4! 2.Qxc4 Qxb2+! 3.Rxb2 Na3+ 4.Kc1 Bxb2+ 5.Kxb2 Nxc4+ 6.Kc3 Rxe4
+ 1...Bxe4! 2.fxe4 Rxf2+
+ 1...Nxd5!! 2.Nxd5 ( 2.Nbc6 Bxc6 3.Nxc6 Nxe3!! 4.Nxe7+ Kf8 ) Bxd5 3.f6 Bxf6 4.Rxf6 Bxe4!5.Bxe4 ( 5.Re6!? fxe6 6.Bxe4 Nxe4 7.Qxe4 Ra2+ 8.Kg1 d5 9.Qe5 c2 ) Qxf6! 6.Bg2 ( 6.Nxb5?Rxb3! 7.Bd4! Qe6! 8.Nxc3 Rxc3! 9.Qxc3 Nxe4 ) b4
+ 1...Nc3+! 2.Ka1 Bb2+!! 3.Kxb2 Nxd1+ 4.Kb3 Nxe3
+ 1...Rxh2!!2.Rxh2 Qxa3!! 3.c3 ( 3.bxa3 Bxa3+ 4.Kb1 Nc3+ 5.Ka1 Bb2+! 6.Kxb2 Nxd1+ 7.Kc1 Nxe3 ) ( 3.Kb1 Nc3+! 4.bxc3 Ka8! ) Qa1+ ! 4.Kc2 Qa4+! 5.Kc1 Bc5!6.Qf3 g4 7.Qe2 ( 7.Qf1 Be3+! ) Nxc3! 8.bxc3 Qxf4+ 9.Kc2 Qxh2
+ 1...Rxf3+! 2.gxf3 Bh3+
+ 1...Rxe3+! 2.fxe3 ( 2.Qxe3 Qxh1+ ) Bb4+ 3.Kd1 Qd2# *
+ 1...Rxb1+! 2.Qxb1 Qh8! 3.Kf1 ( 3.Qe4 Rh1+ 4.Kg2 Qh3# ) Rh1+ 4.Ke2 Rxb1
+ 1...Rxd1+! 2.Qxd1 Rh1+ 3.Ke2 Rxd1 4.Kxd1 Bd4
+ 1...Rxe1+! ( 1...Ra1+? 2.Kd2 Rexe1 3.Qxc5 ) 2.Qxe1 Ra1+ 3.Kd2 Rxe1
+ 1...Re2+! 2.Kb1 ( 2.Qxe2 Qxa2+ 3.Kc1 ( 3.Kd3 Qxd5+ 4.Kc2 Qa2+ ) Bh6+ ! ( 3...Qxe2 ??4.Nc7+ Kf8 5.Rxd8# ) 4.Nf4 Qxe2 ) ( 2.Rd2 Rxd2+ 3.Kxd2 e6 ) ( 2.Kc1 Qa3+ 3.Kb1 Qb2# )Rb8+ 3.Ka1 Rxa2+! 4.Qxa2 Bxc3+ 5.Nxc3 Qxc3+ 6.Qb2 Qxb2#
+ 1.Nxe6! fxe6 2.Bg5 Qf7 3.Rf3 Qg8 4.Qg4 cxd4 ( 4...Nf8 5.Rxf8+! Bxf8 ( 5...Qxf8 6.Qxe6+! ) 6.Bxe6h5 7.Qh3! Qh7 8.Bg8! ( 8.Bd5 ) Qb7 ( 8...Qxg8 9.Qc8+ Kf7 Kg7 ) ( ) 9.Qe6+ ) 5.Bxe6 Nxe5 6.Bf7+ h2) ( 6...Qxf7 7.Qc8# )
+ 1.Nd6+! dxe4 2.Nxf7
+ 1.Nxd5! g6 ( 1...exd5 2.Nxd7 Qxd7 3.Bxh7+ Kh8 4.Bf5+ ! ) 2.Nxe7+ Qxe7 3.Bxc4 Rxc4 4.Rxc4bxc4 5.Bg5
+ 1.Rxh7+! Nxh7 2.Qxd7
+ 1.Rxe6! Qxe6 2.Bxf5+ Qxf5 3.Qxf5+
+ 1.Ngxf5! exf5 2.e6! Qf6 ( 2...Bxe6 3.Rxe6! ) 3.Qxf5+ 3...Qxf5 4.Bxf5+ Kh8 5.Ng6+ Kh7 6.Ne5+ Kh8 7.Nf7# )
+ 1.Rxe6#
+ 1.Rxf5! ( 1.Rce1? Rh8! ) exf5 ( 1...Qxf5 2.Qxf5 exf5 3.Re1+ Be6 4.Rxe6# ) 2.Qxg7! ( 2...Qxg7 3.Re1+ Be6 4.Rxe6# )
+ 1.Be7! Qd7 ( 1...Qxe7 2.Bxd5! Qxh4 3.Bxe6+ Kh8 4.Nxh4 ) ( 1...Nxe7 2.Rxe6! ) 2.Rxe6! ( 2.Ng5h6 3.Nxe6 ) Qxe6 3.Ng5!
+ 1.Bxd5! Qxh4 2.Bxe6+ Kh8 3.Rf8#
+ 1.Bh6! Qe5 ( 1...Qxg4 2.Qg7# ) 2.Re4! Qxf6 3.Rxe8#
+ 1.Ne7+!Kg7 ( 1...Kf8 2.Nc6 Qxb2 3.Nxb8 Nxb8 4.Qa8! ) 2.Nc6 ! Qxb2 3.Rd2! ( 3.Nxb8? Nxb8 4.d7? Bd4+! ) Qc3 4.Rd3! Qb2 5.Bc1!! Qc2 ( 5...Qa1 6.Bh6+! Kxh6 7.Rxa1 ) 6.Nxe5! Nxe5 7.Qf6+ Kg8 *
+ 1...Re2 ( 1...Rxg5? 2.hxg6 ) B.
+ 1...Bxb2+! 2.Qxb2 ( 2.Kxb2 Rxd2 ) c3! 3.Rxe2 cxb2+
+ 1.Rxe7+! Kf8! ( 1...Qxe7 2.Rxc8+ ) ( 1...Kxe7 2.Re1+ Kd6 ( 2...Kd8 3.Ne6+ Ke7 4.Nc5+ )3.Qb4+ Kc7 4.Ne6+ Kb8 5.Qf4+ Rc7 6.Nxc7 Qxc7 7.Re8# ) 2.Rf7+ ! Kg8 3.Rg7+! Kh8 ( Kxg7 5.Qxd7+ ) 4.Rxh7+! Kg8 5.Rg7+! Kh8 6.Qh4+! Kxg7 7.Qh7+ Kf8 8.Qh8+ Ke8 ! Ke7 Kd8 Qe8 Kd7
+ 1.Rxg7+! Kxg7 ( 1...Qxg7 2.Qxe8+ Qf8 3.Qxe6+ ) 2.Bh6+ *
+ 1.h4!! Qh5 ( 1...Qf6 2.Ne4 ) ( 1...Bxf5 2.Nxf5 Qh5 ( 2...Qg4 3.Re4! Qh5 4.g4 ) 3.g4! Qxg4 4.Nh6+!!gxh6 5.Rg1! Rxd4 6.Qd1 ! Rxd1 7.Rxg4+ Kf7 8.Rxd1 ) 2.Rxe6! Nxe6 3.Ne7+ Kh8 4.Nf7+ Ra8 b8)
+ 1.Nh6+! gxh6 2.Rg6+ Qxg6 3.hxg6
+ 1.Nf5!exf5 ( 1...gxf5 2.Qxh5 ) ( 1...dxe5 2.Nxe7+ Qxe7 3.fxe5 ) 2.Nd5 Qd7 3.exd6 Bxd6 4.Qxh5! ( 4...gxh5 5.Nf6+ Kg7 6.Nxd7+ f6 7.Nxf8 )
+ 1.Qxh6! Bxh6 2.Nf7+ Kg8 3.Nxd8+ Kf8 4.Ne6+
+ 1.Ng6!!Qb6 ( 1...Nxf4 2.Nf5! Ne2+ ( 2...Qxd1 3.Nfxe7# ) ( 2...exf5 3.Nxe7+ Kh8 4.Qxd6 ) 3.Rxe2 Qxd1+4.Rxd1 hxg6 5.Nxe7+ Kh7 6.Rd3 Kh6 7.f4 Kh5 8.c3! Ra7 9.Bd1 Bf3 Kg4 Kh4 ) 2.Nxf8 Nxf4 3.Nfxe6! Nxg2 4.Ng5
+ 1.Nfe7#
+ 1...Qxh3+! 2.Rxh3 Rg1#
+ 1...Rxg3!!2.Ba6 ( 2.Kh2 Rb3!! 3.Rxb3 ( 3.Ba6 Rxb1 4.Qxb1 Qa5 ! ) Nxb3 4.Qa3 Nd4! 5.Ba6 Qa5 ) ( 2.Bxg3Ne2+ ) Nef3+! ( 2...Ndf3+? 3.Kh1 Rxh3+ 4.gxh3 Qd7 5.Kg2 Qxa4 6.Bc4! ) 3.Kh1 Rxh3+! 4.gxh3Qh4 5.Kg2 Be5!! 6.Bxe5 ( 6.Bg3 Qxe4 ) Rxe5 7.Rb8+ Kg7 8.Rh1 Rg5+ 9.Kf1 Qxh3+ Rg1# ) ( 8.Bc8 Rg5+ 9.Kh1 f5 )
+ 1.e6! Bxe6 2.Ne5! ( 2...Nxe5 3.Qxe5 f6 4.Qxe6+ ) (2...Qb7 3.Nxc6 Qxc6 4.Qe5! f6 5.Qxe6+ )
+ 1.Qe5! f6 2.Qxe6+
+ 1.Rxe6! Qxe6 2.Qxg7#
+ 1.Rxe5! Qxe5 2.Qxf7+ Kd8 3.Nxe6+! Qxe6 ( 3...Bxe6 4.Rd1+! ) 4.Qxh5 (add
+ 1...Qxf3! 2.Nxf3 Rxh3#
+ 1...Qxf3! 2.Nxf3 Rxh3+ 3.Kg1 Rxf3 4.Nc4 ( 4.Qd1 Rg3+ 5.Kf2 ( 5.Kf1 Nd3+ 6.Ke2 Rf2# ) (5.Kh2 Rg2+ 6.Kh1 Rf6 ) Rg2+ 6.Kf1 Rxb2 ) ( 4.Qh2 Rf6 5.Nc4 Rg6+ 6.Kh1 Nd3 ) Rf6 5.Nxe5Rg3+ 6.Kh2 ( 6.Kf2 Rg2+ ) ( 6.Kf1 Nd3+ 7.Ke2 Rf2+ ) Rg5 ! 7.Ng6 Rfxg6
+ 1.Rd6! Bxe7 ( 1...Kf7 2.Rxe6! Kxe6 3.Qd5# ) 2.Bxe7 ( 2.Rd7! Qxd7!? 3.Qxe5+ ) Qxe7 ( ) 3.Rd7
+ 1.Re7! Bxe7 ( 1...Qxe7 2.dxe7 Bxd5 3.exf8Q ) 2.Qxf7+ Kh8 3.dxe7
+ 1.Bxd5!cxd5 2.Nxd5! (add and ( Bxe7 4.Qxa5 ) ( 2...Bxd2 3.Ne7# )
+ 1.Nh6+! ( 1.Ne7+? Qxe7+ ) Qxh6 2.Ne7#
+ 1...Qf1+! 2.Kxf1 Bh3+ 3.Kg1 Re1#
+ 1...Nf3+! 2.Kh1 ( 2.exf3 Qe1+ 3.Kg2 Qf1+!! ( 3...Bh3+ ? 4.Kxh3 Qf1+ 5.Kh4 Bf6+ 6.Bg5! )4.Kxf1 Bh3+ 5.Kg1 Re1# ) Ne1! 3.Qd1 ( 3.Qd2 Bxc3! 4.Qxc3 Qxe2 ! ) Bxc3 4.Nxe8 Be6 5.Bf4Bxd5+ 6.cxd5 Rxe8
+ 1.Nf6+! Qxf6 2.Qxh7#
+ 1.Ndxe6! Qxa4 ( 1...fxe6 2.Bxc5! ) 2.Nxg7+ ( 2.Bxc5 Nxc5 3.Nxg7+ ) Kf8 3.Bxc5+ Nxc5 4.Nge6+!fxe6 5.Nxe6+ Ke8 6.Nxc5
+ 1.Ne6!fxe6 ( 1...Bxe6 2.Bxh6! Bxh6 3.dxe6! ) 2.dxe6 Qe7 3.Rd8+! Ne8 ( 3...Qxd8 4.e7+! ) 4.Qf7+! Qxf7 6.Rxe8+ Bf8 7.Bh6 Be6 8.Rxb8 Qxf1+ 9.Nxf1
+ 1.Rxd8+! Qxd8 2.e7+ Qxd5 3.e8Q#
+ 1.a6! ( 1.Rxc6? bxc6 2.a6 Kc8 ) bxa6 2.Rxc6
+ 1.a6!!Ng3 ( 1...bxa6 2.Qb6! Rc8 ( 2...Bb5 3.Rc7 Qe8 4.g4!? ) 3.Bxa6 Bb7 4.Rxc8+ Bxc8 5.Qb8! ( 6.Bd6! ) Qc6 ( 6...Kf7 7.Bxe7 Bxa6 8.Qf8# ) 7.Bxe7! Qxa6 8.Qc7! h5 9.Qd8+ Kh7 ( 1...Nxe3 2.axb7 Qxb7 ( 2...Bxb7 3.Rc7 ) 3.Qd6! Bd7 4.Rc7 Qb1+ 5.Kh2 ) ( 1...b5 2.Bxb5! Qe8 4.a7! ) 2.Bb5!! Bxb5 ( 2...Rc8 3.a7!? ) 3.Rc7! Rxa6! ( 3...Rc8!? 4.axb7!! Rxc7 5.b8Q+Rc8 6.Q4xb5 ! ) 4.Qe1!! ( 4.Rxd7 ?? Ra1+ ! = ) ( 4.Qb1? Bd3! ) ( 4.Qb2? Qxc7! 5.Bxc7 Bc4! )Qxc7 ( 4...Qd8 5.Rg7+! Kf8 6.Qb4+! Rd6 7.Rxh7! ) ( 4...Nf5 5.Rxd7 Bxd7 6.g4 Ng7 7.Qb4 )5.Bxc7 Rc6 ( 5...Nf5 6.g4 ) 6.Qxg3 ! Rxc7 7.f5!
+ 1...Rxe3!2.fxe3 Nxe3 3.Qb3 ( 3.Qd2 Nxd1 ( 3...Ng4? 4.Qb4 ! ) 4.Ndc5 ( 4.Qxd1 Bxd4+ 5.Kh1 ( 5.Nf2 Bxf2+6.Kxf2 Bxb1 7.Rxb1 Qh4+ 8.Kg1 Qxa4 ) Be3! 6.Rc3 d4! 7.Rc5 Bxd3 8.Bxd3 b5 9.Bxb5 Qd7 Rc7 ) Bxb1 5.Rxb1 b5 6.Qxd1 bxa4 7.Nxa4 Qh4 ) Bxd4 4.Kh1 ( 4.Nf2Nxd1 5.Rxd1 Bxf2+ 6.Kxf2 Bxb1 7.Rxb1 Qh4+ 8.g3 Qxa4 ) Qh4! 5.Ndc5 ( 5.Ne1 Qf2 6.Bd3 Qg1+ 8.Rxg1 Nf2# ) Qf2 ! 6.Rg1 Bh3! 7.Qxe3 Bxe3 8.Nd3 Qh4
+ 1...Bh3!! 2.gxh3 Qxf3+ 3.Rg2 Qxg2#
+ 1...Rxc3!2.Qxc3 ( 2.bxc3 Nxa2+! 3.Ka1 Qa5 ) Bxa2+ 3.Kc1 ( 3.Ka1 Qa5 ) Qxf2! 4.Rdh1 ( 4.Bxb7 Qe3+5.Rd2 Qxh6 6.Qxb4 Rb8 7.Qa4 Rxb7 8.Qxa2 Rc7+ ) ( 4.Rh2 Qe3+ 5.Rd2 Qg1+ ) Qe3+ 5.Kd1Nxd3 6.Rh8+ Kg7 7.R1h7+ Kf6 8.Rxf8 Nxb2+! 9.Kc2 ( 9.Qxb2 Bb3+ ) Qe2+ Qxd2 Kg5 Qb4! ( )
+ 1...Rxc3! 2.Qb1 ( 2.bxc3 Qxa2# ) Nc2+ 3.Qxc2 Rxc2
+ 1...Qxh3+! ( 1...Nf2? 2.Qf1 ) 2.Kxh3 Nf2+ 3.Kg2 Nxd1
+ 1...Qxh3+! ( 1...Nf2 ?? 2.Qf3+! ) 2.Kxh3 Nf2+ 3.Kg2 Nxd1
+ 1...Qxg5+! 2.Qxg5 Nf3+ 3.Kg2 Nxg5
+ 1...Qxg5! ( 1...h6 ?? 2.Rxe5! hxg5 3.Rxg5 ) 2.Qxg5 Nf3+ 3.Kf2 Nxg5
+ 1...Bxd3+!2.Kxd3 Qf5+ 3.Kd2 Qxb1
+ 1...Qxa2+! 2.Kxa2 ( 2.Kc1 Qb2+ 3.Kd1 Qa1+ 4.Ke2 Qe1+ 5.Kf3 Qxe4# ) Ra8+ 3.Kb1 Ra1#
+ 1...Qxa2+! 2.Kxa2 ( 2.Kc1 Qb2+ 3.Kd1 Qa1+ ) Ra5+ 3.Kb1 Ra1#
+ 1...Qxg5! 2.Qxg5 Nf3+ 3.Kg3 Nxg5
+ 1...Qxg5!! ( 1...Ra8? 2.Rxf8+ Rxf8 3.Be2! ) 2.Rxf8+ Kxf8 3.Rc8+ Kf7 4.Qxg5 Nf3+ 5.Kh1 Nxg5+.
+ 1...Qxd1! 2.Qxd1 Bxc3#
+ 1...Qxh5!! 2.Qxh5 Bxc3#
+ 1...Rxh2+! 2.Kxh2 Qf2+! 3.Kh1 ( 3.Kh3 Qxg3# ) Nxg3#
+ 1...Rxh2+! ( 1...Qe7 ?? 2.Qxc6+!! Kxa5 3.a4 ) 2.Kxh2 Qf2+ ! 3.Kh1 ( 3.Kh3 Qxg3# ) Nxg3#
+ 1...Re2+!2.Kxe2 Qxe4+
+ 1...Qc1+!! 2.Qxc1
+ 1...Rxf3+! 2.Kxf3 Kxg5
+ 1.Qxh8+! Kxh8 2.Nxf7+ Kg7 3.Nxd6
+ 1...Qxf4! 2.Rxf4 Re1+
+ 1.Rfxf7! ( 1.Rexf7? Nxf7 2.Rxf7 Rg5! ) Nxf7 2.Re8+ ! ( 2.Rxf7? Rg5! ) Kh7 3.g8Q#
+ 1...Qxe4! 2.Qxe4 Rd1+
+ 1...Rxe4+! 2.Kxe4 Kxg6
+ 1...Bh2+!2.Kxh2 Rxf1
+ 1...Rxd3+! 2.Kxd3 Kxf5
+ 1...Qxb7! 2.Rxb7 Ra1+
+ 1...Qxd4 2.Rxd4 Rc1+
+ 1...Qxa2+! 2.Kxa2 Ra4#
+ 1...c1N+! 2.Kb1 Nxd3
+ 1.Rh8+! Kxh8 2.Qh6+ Kg8 3.Qg7#
+ 1...Qxe4! 2.Qxe4 Rd1+
+ 1...Ne2+! 2.Rxe2 Rxg2+ 3.Kxg2 Qxe2
+ 1.Rxd7+! Rxd7 2.Nxf6+ Kh8 3.Nxd7+ Kg8 4.Nxf8
+ 1...Qxc2+! 2.Kxc2 e1N+!! ( 2...e1Q? 3.Qxf7+! Kxf7 4.d8Q ) 3.Kc3 Nxf3
+ 1.Rxg7+! Kxg7 2.Qe7+ Kg8 3.Qxd8+
+ 1...Qxa2+!! 2.Kxa2 Ra6#
+ 1.Nxe6+!
+ 1.Qh6+! Kxh6 ( 1...Kh8 2.Ng5 ) 2.Nf5#
+ 1...Qxf1+! 2.Kxf1 Bh3+ 3.Kg1 Re1#
+ 1...Rxf2+! 2.Kxf2 Kxg4
+ 1...Qxa2+! 2.Kxa2? ( 2.Kc1 Qa1+ ) Ra8+ 3.Kb1 Ra1#
