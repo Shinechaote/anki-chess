@@ -8679,11 +8679,10 @@
 						if (expectedMove && expectedMove.notation) { //check to see if there is a valid next move otherwise there will be no response
 
 							if (expectedMove.variations.length > 0) { //check for variations and play a random response
-								if(Math.random() > 0.5 && expectedMove.variations.length == 1)
-								{
+								if (Math.random() > 0.5 && expectedMove.variations.length == 1) {
 									var tmp = expectedMove.variations[0];
 									expectedMove.variations[0] = expectedLine.slice(count);
-									expectedLine = expectedLine.slice(0, count).concat(tmp);									
+									expectedLine = expectedLine.slice(0, count).concat(tmp);
 								}
 								shuffleArray(expectedMove.variations);
 								variationNum.push(0);
@@ -8701,47 +8700,49 @@
 							expectedMove = expectedLine[count];
 						}
 						else if (variationStack.length > 0) {
-							variationWaiting = true
-							setTimeout(function () {
+							variationNum[variationStack.length - 1]++;
+							expectedLine = variationStack[variationStack.length - 1][0];
+							if (!(variationStack[variationStack.length - 1][2] == expectedLine.length - 1 && expectedLine[expectedLine.length - 1].variations.length == variationNum[variationStack.length - 1])) {
+								variationWaiting = true
+								setTimeout(function () {
 
-								//Es gab irgendwo eine Variation
-								variationNum[variationStack.length - 1]++;
-								expectedLine = variationStack[variationStack.length - 1][0];
-								//Wenn die erwartete Line zu der man zurück gehen sollte der letzte Zug und man außerdem die letzte Variation ist, dann überspringen wir das alles weil es sonst komisch aussieht, wenn das andere Board geladen wird und man dann 0.2s später wieder das Endboard lädt
-								if(!(variationStack[variationStack.length-1][2] == expectedLine.length-1 && expectedLine[expectedLine.length-1].variations.length == variationNum[variationStack.length-1]))
-								{
-								
-								game.load(variationStack[variationStack.length - 1][1]);
-								count = variationStack[variationStack.length - 1][2];
-								
-								if (variationNum[variationStack.length - 1] < variationStack[variationStack.length - 1][0][count].variations.length) {
-									expectedLine = expectedLine[count].variations[variationNum[variationStack.length - 1]];
-									count = 0;
-								}
-								else {
-									variationStack.pop();
-									variationNum.pop();
-								}
+									//Es gab irgendwo eine Variation
 
-								expectedMove = expectedLine[count];
-								game.move(expectedMove.notation.notation);
-								if (expectedMove.commentAfter) {
-									document.getElementById("commentSection2").innerHTML = expectedMove.commentAfter;
-								}
-								count++;
-								expectedMove = expectedLine[count];
+									//Wenn die erwartete Line zu der man zurück gehen sollte der letzte Zug und man außerdem die letzte Variation ist, dann überspringen wir das alles weil es sonst komisch aussieht, wenn das andere Board geladen wird und man dann 0.2s später wieder das Endboard lädt
+
+
+									game.load(variationStack[variationStack.length - 1][1]);
+									count = variationStack[variationStack.length - 1][2];
+
+									if (variationNum[variationStack.length - 1] < variationStack[variationStack.length - 1][0][count].variations.length) {
+										expectedLine = expectedLine[count].variations[variationNum[variationStack.length - 1]];
+										count = 0;
+									}
+									else {
+										variationStack.pop();
+										variationNum.pop();
+									}
+
+									expectedMove = expectedLine[count];
+									game.move(expectedMove.notation.notation);
+									if (expectedMove.commentAfter) {
+										document.getElementById("commentSection2").innerHTML = expectedMove.commentAfter;
+									}
+									count++;
+									expectedMove = expectedLine[count];
+
+									variationWaiting = false;
+									onSnapEnd();
+								}, 1000);
 							}
-								variationWaiting = false;
-								onSnapEnd();
-							}, 1000);
 
 						}
 						else if (count == expectedLine.length && count > 0) {
 							if (expectedLine[count - 1].variations.length > 0) {
-								shuffleArray(expectedLine[count-1].variations);
+								shuffleArray(expectedLine[count - 1].variations);
 								variationNum.push(0);
-								variationStack.push([expectedLine, game.fen(), count-1]);
-								expectedLine = expectedLine[count-1].variations[0];
+								variationStack.push([expectedLine, game.fen(), count - 1]);
+								expectedLine = expectedLine[count - 1].variations[0];
 								expectedMove = expectedLine[0];
 								game.move(expectedMove.notation.notation);
 								count = 1;
