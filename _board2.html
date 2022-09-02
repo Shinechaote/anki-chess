@@ -8291,18 +8291,23 @@
 			return vars;
 		}
 
-		function swapColorsMain(head)
-		{
-			for(let i =0;i < head.length; i++)
-			{
+		function swapColorsMain(head) {
+			for (let i = 0; i < head.length; i++) {
 				head[i].turn = head[i].turn == "w" ? "b" : "w";
-				if(head[i].variations.length > 0)
-				{
-					for(let j =0;j<head[i].variations.length;j++)
-					{
+				if (head[i].variations.length > 0) {
+					for (let j = 0; j < head[i].variations.length; j++) {
 						swapColorsMain(head[i].variations[j]);
 					}
 				}
+			}
+		}
+
+		function shuffleArray(array) {
+			for (let i = array.length - 1; i > 0; i--) {
+				const j = Math.floor(Math.random() * (i + 1));
+				const temp = array[i];
+				array[i] = array[j];
+				array[j] = temp;
 			}
 		}
 
@@ -8310,23 +8315,19 @@
 		var CommentsField = getUrlVars()["Comments"];
 		var TitleField = getUrlVars()["Title"];
 		var playerMakesFirstMove;
-		if(getUrlVars()["FirstMove"])
-		{
-			playerMakesFirstMove = getUrlVars()["FirstMove"]== "true";
+		if (getUrlVars()["FirstMove"]) {
+			playerMakesFirstMove = getUrlVars()["FirstMove"] == "true";
 		}
-		else
-		{
+		else {
 			playerMakesFirstMove = false;
 		}
 		var acceptPlayerVariations;
-		if(getUrlVars()["AcceptPlayerVariations"])
-		{
-			acceptPlayerVariations = getUrlVars()["AcceptPlayerVariations"]== "true";
+		if (getUrlVars()["AcceptPlayerVariations"]) {
+			acceptPlayerVariations = getUrlVars()["AcceptPlayerVariations"] == "true";
 		}
-		else
-		{
+		else {
 			acceptPlayerVariations = false;
-			
+
 		}
 		var correctVariation = true;
 
@@ -8351,11 +8352,10 @@
 		var result = FEN.match(patt);
 		if (result == " b ") {
 
-			boardRotation = playerMakesFirstMove ? "black": "white" ;
+			boardRotation = playerMakesFirstMove ? "black" : "white";
 
 		}
-		if((boardRotation == "black" && playerMakesFirstMove) || (boardRotation == "white" && !playerMakesFirstMove))
-		{
+		if ((boardRotation == "black" && playerMakesFirstMove) || (boardRotation == "white" && !playerMakesFirstMove)) {
 			swapColorsMain(parsedPGN.moves);
 			console.log(parsedPGN)
 		}
@@ -8550,7 +8550,7 @@
 						to: target,
 						promotion: promoteChoice
 					});
-					
+
 
 
 
@@ -8572,21 +8572,18 @@
 						if (expectedMove.variations.length > 0) {
 							foundVariation = false;
 							correctVariation = false;
-							for (var i = 0; i < expectedMove.variations.length; i++) { 
+							for (var i = 0; i < expectedMove.variations.length; i++) {
 								if (move.san === expectedMove.variations[i][0].notation.notation) {
 									console.log(expectedMove.variations[i]);
-									if(expectedMove.variations[i].length > 1)
-									{
-										if(!acceptPlayerVariations)
-										{
+									if (expectedMove.variations[i].length > 1) {
+										if (!acceptPlayerVariations) {
 											game.undo()
 											return 'snapback'
 										}
 										count = 0;
 										expectedLine = expectedMove.variations[i];
 									}
-									else
-									{
+									else {
 										correctVariation = true
 									}
 									expectedMove = expectedLine[count];
@@ -8598,6 +8595,8 @@
 									if (expectedMove && expectedMove.notation) { //check to see if there is a valid next move otherwise there will be no response
 
 										if (expectedMove.variations.length > 0) { //check for variations and play a random response
+											shuffleArray(expectedMove.variations);
+
 											variationNum.push(0);
 											variationStack.push([expectedLine, game.fen(), count]);
 											count = 0;
@@ -8617,31 +8616,31 @@
 										variationWaiting = true
 										setTimeout(function () {
 
-										//Es gab irgendwo eine Variation
-										variationNum[variationStack.length - 1]++;
+											//Es gab irgendwo eine Variation
+											variationNum[variationStack.length - 1]++;
 
-										expectedLine = variationStack[variationStack.length - 1][0];
-										game.load(variationStack[variationStack.length - 1][1]);
-										count = variationStack[variationStack.length - 1][2];
+											expectedLine = variationStack[variationStack.length - 1][0];
+											game.load(variationStack[variationStack.length - 1][1]);
+											count = variationStack[variationStack.length - 1][2];
 
-										if (variationNum[variationStack.length - 1] < variationStack[variationStack.length - 1][0][count].variations.length) {
-											expectedLine = expectedLine[count].variations[variationNum[variationStack.length - 1]];
-											count = 0;
-										}
-										else {
-											variationStack.pop();
-											variationNum.pop();
-										}
+											if (variationNum[variationStack.length - 1] < variationStack[variationStack.length - 1][0][count].variations.length) {
+												expectedLine = expectedLine[count].variations[variationNum[variationStack.length - 1]];
+												count = 0;
+											}
+											else {
+												variationStack.pop();
+												variationNum.pop();
+											}
 
-										expectedMove = expectedLine[count];
-										game.move(expectedMove.notation.notation);
-										if (expectedMove.commentAfter) {
-											document.getElementById("commentSection2").innerHTML = expectedMove.commentAfter;
-										}
-										count++;
-										expectedMove = expectedLine[count];
-										variationWaiting = false;
-										onSnapEnd();
+											expectedMove = expectedLine[count];
+											game.move(expectedMove.notation.notation);
+											if (expectedMove.commentAfter) {
+												document.getElementById("commentSection2").innerHTML = expectedMove.commentAfter;
+											}
+											count++;
+											expectedMove = expectedLine[count];
+											variationWaiting = false;
+											onSnapEnd();
 										}, 1000);
 
 
@@ -8657,13 +8656,16 @@
 							// wrong move
 							if (foundVariation === false) { //check to see if there is a valid next move otherwise there will be no response
 								// Snapback for some reason doesn't work properly here...
-								game.undo()
+								game.undo();
 								return 'snapback';
 							}
 
 						} else {
 							// Snapback for some reason doesn't work properly here...
-							game.load(fen_position);
+							console.log(expectedMove);
+							console.log(expectedLine);
+							console.log(variationStack);
+							game.undo();
 							return 'snapback';
 						}
 
@@ -8677,6 +8679,13 @@
 						if (expectedMove && expectedMove.notation) { //check to see if there is a valid next move otherwise there will be no response
 
 							if (expectedMove.variations.length > 0) { //check for variations and play a random response
+								if(Math.random() > 0.5 && expectedMove.variations.length == 1)
+								{
+									var tmp = expectedMove.variations[0];
+									expectedMove.variations[0] = expectedLine.slice(count);
+									expectedLine = expectedLine.slice(0, count).concat(tmp);									
+								}
+								shuffleArray(expectedMove.variations);
 								variationNum.push(0);
 								variationStack.push([expectedLine, game.fen(), count]);
 								count = 0;
@@ -8695,44 +8704,49 @@
 							variationWaiting = true
 							setTimeout(function () {
 
-							//Es gab irgendwo eine Variation
-							variationNum[variationStack.length - 1]++;
+								//Es gab irgendwo eine Variation
+								variationNum[variationStack.length - 1]++;
+								expectedLine = variationStack[variationStack.length - 1][0];
+								//Wenn die erwartete Line zu der man zurück gehen sollte der letzte Zug und man außerdem die letzte Variation ist, dann überspringen wir das alles weil es sonst komisch aussieht, wenn das andere Board geladen wird und man dann 0.2s später wieder das Endboard lädt
+								if(!(variationStack[variationStack.length-1][2] == expectedLine.length-1 && expectedLine[expectedLine.length-1].variations.length == variationNum[variationStack.length-1]))
+								{
+								
+								game.load(variationStack[variationStack.length - 1][1]);
+								count = variationStack[variationStack.length - 1][2];
+								
+								if (variationNum[variationStack.length - 1] < variationStack[variationStack.length - 1][0][count].variations.length) {
+									expectedLine = expectedLine[count].variations[variationNum[variationStack.length - 1]];
+									count = 0;
+								}
+								else {
+									variationStack.pop();
+									variationNum.pop();
+								}
 
-							expectedLine = variationStack[variationStack.length - 1][0];
-							game.load(variationStack[variationStack.length - 1][1]);
-							count = variationStack[variationStack.length - 1][2];
-
-							if (variationNum[variationStack.length - 1] < variationStack[variationStack.length - 1][0][count].variations.length) {
-								expectedLine = expectedLine[count].variations[variationNum[variationStack.length - 1]];
-								count = 0;
+								expectedMove = expectedLine[count];
+								game.move(expectedMove.notation.notation);
+								if (expectedMove.commentAfter) {
+									document.getElementById("commentSection2").innerHTML = expectedMove.commentAfter;
+								}
+								count++;
+								expectedMove = expectedLine[count];
 							}
-							else {
-								variationStack.pop();
-								variationNum.pop();
-							}
-
-							expectedMove = expectedLine[count];
-							game.move(expectedMove.notation.notation);
-							if (expectedMove.commentAfter) {
-								document.getElementById("commentSection2").innerHTML = expectedMove.commentAfter;
-							}
-							count++;
-							expectedMove = expectedLine[count];
-							variationWaiting = false;
-							onSnapEnd();
+								variationWaiting = false;
+								onSnapEnd();
 							}, 1000);
 
 						}
-						else if (count == expectedLine.length && count > 0)
-						{
-							if(expectedLine[count-1].variations.length > 0)
-							{
+						else if (count == expectedLine.length && count > 0) {
+							if (expectedLine[count - 1].variations.length > 0) {
+								shuffleArray(expectedLine[count-1].variations);
+								variationNum.push(0);
+								variationStack.push([expectedLine, game.fen(), count-1]);
 								expectedLine = expectedLine[count-1].variations[0];
 								expectedMove = expectedLine[0];
-								count = 0;
 								game.move(expectedMove.notation.notation);
-								count++;
+								count = 1;
 								expectedMove = expectedLine[count];
+
 							}
 						}
 
@@ -8741,8 +8755,7 @@
 
 
 					}
-					else
-					{
+					else {
 						game.undo();
 						return 'snapback'
 					}
@@ -8758,8 +8771,7 @@
 							position: fen_position,
 							orientation: boardRotation
 						}
-						if(correctVariation)
-						{
+						if (correctVariation) {
 							document.getElementById('board').style.backgroundColor = 'limegreen'; document.getElementById('board').style.borderColor = 'limegreen'
 						}
 
@@ -8788,8 +8800,7 @@
 
 					board = ChessBoard('board', cfg);
 					game.load(fen_position0);
-					if(!playerMakesFirstMove)
-					{
+					if (!playerMakesFirstMove) {
 						game.move(parsedPGN.moves[0].notation.notation);
 					}
 					setTimeout(function () {
