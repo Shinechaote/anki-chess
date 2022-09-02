@@ -97,18 +97,11 @@ def splitPGNs(text, outfile="pgns_formated.txt"):
 	for i in range(len(tmp)):
 		x = re.search(r"^\d+ [0-2]\.",  tmp[i])
 		if(x != None):
-			y = re.search(r"^\d+", tmp[i]).span()
-			if(next_num != int(tmp[i][y[0]:y[1]])):
-				print(tmp[i-1])
-				print(tmp[i])
-				print(tmp[i+1])
-				quit()
-				pass
 			next_num += 1
 			tmp[i] = re.sub(r"^\d+", "", tmp[i])
 			split_puzzles.append(tmp[i])
 		else:
-			split_puzzles[-1] += tmp[i]
+			split_puzzles[-1] += " " + tmp[i]
 	count = 0
 	newFile = open(outfile, mode="w", encoding="utf8")
 	for i, puzzle in enumerate(split_puzzles):
@@ -140,14 +133,97 @@ def splitPGNs(text, outfile="pgns_formated.txt"):
 			newFile.write(puzzle + "\n")
 	newFile.close()
 	
+	complete_puzzles = []
+	for i, puzzle in enumerate(split_puzzles):
+		split_pgn = puzzle.split()
+		if("." in split_pgn):
+			puzzle = " ".join(split_pgn[:-1])
+		puzzle = puzzle.strip()
+		if(puzzle[-1] == "."):
+			puzzle = puzzle[:-1]
+		complete_puzzles.append(puzzle)
+		complete_puzzles.append(flipPGN(puzzle))
+		
 
-	return split_puzzles
+
+	return complete_puzzles
+
+def getAllBoards():
+
+	file = open("boards.txt", mode="r", encoding="utf8")
+	text = file.read().splitlines()
+	file.close()
+
+	boards = []
+	leftRows = 0
+	board = []
+
+	for line in text:
+		x = re.search(r"^\d+$", line)
+		if(leftRows != 0):
+			board.append(line[1:])
+			leftRows -= 1
+			if(leftRows == 0):
+				boards.append(board)
+		if(x is not None):
+			leftRows = 8
+			board = []
+	return boards
+
+def getFenForBoard(board):
+	fen = ""
+	for row in board:
+		counter = 0
+		for char in row:
+			if(char == "0" or char == "Z"):
+				counter += 1
+			else:
+				if(counter != 0):
+					fen += str(counter)
+				if(char == "J"):
+					fen += "K"
+				elif(char == "j"):
+					fen += "k"
+				elif(char == "L"):
+					fen += "Q"
+				elif(char == "l"):
+					fen += "q"
+				elif(char == "S"):
+					fen += "R"
+				elif(char == "s"):
+					fen += "r"
+				elif(char == "A"):
+					fen += "B"
+				elif(char == "M"):
+					fen += "N"
+				elif(char == "m"):
+					fen += "n"
+				elif(char == "a"):
+					fen += "b"
+				elif(char == "o"):
+					fen += "p"
+				elif(char == "O"):
+					fen += "P"
+				else:
+					fen += char
+				counter = 0
+		if(counter != 0):
+			fen += str(counter)
+		fen += "/"
+	return fen[:-1]
 
 def loadFENs():
-	file = open("fens.txt", mode="r", encoding="utf8")
-	text = file.read().split("\n")
-	file.close()
-	return text
+	boards = getAllBoards()
+	imageNames = getAllImageNames("Images")
+
+	complete_text = []
+	for i, board in enumerate(boards):
+		fen = getFenForBoard(board)
+		fen += " w" if "white" in imageNames[i] else " b" 
+		fen += " KQkq - 0 1"
+		complete_text.append(fen)
+		complete_text.append(flipFen(fen))
+	return complete_text
 
 def readPGNs(file):
 	pgnFile = open(file, mode="r", encoding="utf8")
@@ -156,12 +232,53 @@ def readPGNs(file):
 	pgns = splitPGNs(text)
 	return pgns
 
+def flipFen(fen):
+	if(len(fen) < 16):
+		return fen
+	color_ind = len(fen) - ("w" + fen)[::-1].index("w")
+	color = " b"
+	if(color_ind == 0):
+		color_ind = len(fen) - (fen)[::-1].index("b")
+		color = " w"
+	rest =fen[color_ind:]
+	fen = fen[:color_ind-2]
+	tmp_fen = ""
+	for i in range(1,len(fen)+1):
+		tmp_fen += fen[-i].lower() if fen[-i].isupper() else fen[-i].upper()
+	
+	fen = tmp_fen + color + rest
+	return fen
+
+def flipPGN(pgn):
+	tmp_pgn = ""
+	flip_dict = {"a": "h", "b":"g", "c":"f", "d": "e", "e": "d", "f": "c", "g": "b", "h":"a"}
+	pgn = pgn.strip()
+	for i, char in enumerate(pgn):
+		if(char.isalpha() and char.islower() and char in flip_dict.keys()):
+			tmp_pgn += flip_dict[char]
+		elif(i < len(pgn)-1 and char.isnumeric()):
+			if(pgn[i+1] != "."):
+				tmp_pgn += str(9-int(char))
+			else:
+				tmp_pgn += char
+		elif (char.isnumeric()):
+			tmp_pgn += str(9-int(char))
+		else:
+			tmp_pgn += char
+	
+
+	
+	return tmp_pgn
+			
+
 def createAnkiCards():
 	pgns = readPGNs("pgns.txt")
 	fens = loadFENs()
 
 	for i, pgn in enumerate(pgns):
-		if(i % 10 == 0):
+		if(i < 102):
+			continue
+		if(i % 100 == 0):
 			print(i)
 
 		if(len(fens[i]) > 16):
@@ -186,8 +303,13 @@ def createAnkiCards():
 			pyperclip.copy("true")
 			pyautogui.hotkey("ctrl", "v")
 			pyautogui.press('tab')
-			pyperclip.copy(str(i+1))
+			pyperclip.copy(str(i//2+1))
 			pyautogui.hotkey("ctrl", "v")
 			pyautogui.hotkey("ctrl", "enter")
+		
 
+
+# readPGNs("pgns.txt")
+
+	
 createAnkiCards()

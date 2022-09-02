@@ -8551,10 +8551,6 @@
 						promotion: promoteChoice
 					});
 					
-					console.log(move);
-
-
-
 
 
 
@@ -8572,14 +8568,27 @@
 					// alternate line branching only supported by current player to simplify code
 
 					// check alternate line first
-					if (move.san !== expectedMove.notation.notation && acceptPlayerVariations) {
+					if (move.san !== expectedMove.notation.notation) {
 						if (expectedMove.variations.length > 0) {
 							foundVariation = false;
 							correctVariation = false;
-							for (var i = 0; i < expectedMove.variations.length; i++) {
+							for (var i = 0; i < expectedMove.variations.length; i++) { 
 								if (move.san === expectedMove.variations[i][0].notation.notation) {
-									count = 0;
-									expectedLine = expectedMove.variations[i];
+									console.log(expectedMove.variations[i]);
+									if(expectedMove.variations[i].length > 1)
+									{
+										if(!acceptPlayerVariations)
+										{
+											game.undo()
+											return 'snapback'
+										}
+										count = 0;
+										expectedLine = expectedMove.variations[i];
+									}
+									else
+									{
+										correctVariation = true
+									}
 									expectedMove = expectedLine[count];
 									if (expectedMove.commentAfter) {
 										document.getElementById("commentSection").innerHTML = expectedMove.commentAfter;
@@ -8648,7 +8657,7 @@
 							// wrong move
 							if (foundVariation === false) { //check to see if there is a valid next move otherwise there will be no response
 								// Snapback for some reason doesn't work properly here...
-								game.load(fen_position);
+								game.undo()
 								return 'snapback';
 							}
 
@@ -8713,6 +8722,18 @@
 							onSnapEnd();
 							}, 1000);
 
+						}
+						else if (count == expectedLine.length && count > 0)
+						{
+							if(expectedLine[count-1].variations.length > 0)
+							{
+								expectedLine = expectedLine[count-1].variations[0];
+								expectedMove = expectedLine[0];
+								count = 0;
+								game.move(expectedMove.notation.notation);
+								count++;
+								expectedMove = expectedLine[count];
+							}
 						}
 
 
